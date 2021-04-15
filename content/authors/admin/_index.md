@@ -1,5 +1,5 @@
 ---
-role: <img align="center" alt="EQ" width="600px" src="https://bit.ly/3aftViz">
+role: <img align="left" width="1076" height="104" src="https://bit.ly/3aftViz">
 avatar_filename: avatar.png
 bio: My research interests include quantum machine learning, classical machine
   learning, computational photography and image processing.
