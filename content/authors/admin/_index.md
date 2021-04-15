@@ -1,6 +1,6 @@
 ---
 role: Quantum Machine Learning Researcher
-avatar_filename: compressed.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include quantum machine learning, classical machine
   learning, computational photography and image processing.
 interests:
