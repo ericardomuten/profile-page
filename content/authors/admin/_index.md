@@ -38,6 +38,8 @@ organizations:
     url: https://www.itb.ac.id/
   - name: Quantum Technology Lab
     url: http://qlab.itb.ac.id/
+  - url: https://qiskit.org/advocates/
+    name: Qiskit Advocate
 education:
   courses:
     - course: BSc in Engineering Physics (Cum Laude)
