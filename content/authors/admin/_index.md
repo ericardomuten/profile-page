@@ -1,13 +1,13 @@
 ---
 role: Quantum Machine Learning Researcher
-avatar_filename: 00100sportrait_00100_burst20190105135017114_cover.jpg
+avatar_filename: compressed.jpg
 bio: My research interests include quantum machine learning, classical machine
   learning, computational photography and image processing.
 interests:
   - Quantum Machine Learning
   - Classical Machine Learning
   - Computational Photography
-  - Image Processing.
+  - Image Processing
 social:
   - display:
       header: false
@@ -22,19 +22,15 @@ social:
     icon: linkedin
     label: LinkedIn
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Bandung Institute of Technology
+    url: https://www.itb.ac.id/
+  - name: Quantum Technology Lab
+    url: http://qlab.itb.ac.id/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BSc in Engineering Physics (Cum Laude)
+      institution: Bandung Institute of Technology
+      year: 2021
 superuser: true
 highlight_name: false
 title: Eraraya Ricardo Muten
