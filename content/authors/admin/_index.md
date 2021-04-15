@@ -10,13 +10,13 @@ interests:
   - Image Processing
 social:
   - display:
-      header: false
+      header: true
     link: https://github.com/eraraya-ricardo
     icon_pack: ai
     icon: github
     label: GitHub
   - display:
-      header: false
+      header: true
     link: https://www.linkedin.com/in/e-ricardo/
     icon_pack: ai
     icon: linkedin
