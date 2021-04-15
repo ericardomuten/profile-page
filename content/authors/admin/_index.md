@@ -1,5 +1,5 @@
 ---
-role: Quantum Machine Learning Researcher
+role: Quantum Machine Learning Researcher $\rangle$
 avatar_filename: avatar.png
 bio: My research interests include quantum machine learning, classical machine
   learning, computational photography and image processing.
