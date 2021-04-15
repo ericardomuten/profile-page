@@ -1,5 +1,5 @@
 ---
-role: ![eq](https://github.com/eraraya-ricardo/profile-page/blob/master/assets/media/qp_mle_customimg.png)
+role: <img align="center" alt="EQ" width="600px" src="https://bit.ly/3aftViz">
 avatar_filename: avatar.png
 bio: My research interests include quantum machine learning, classical machine
   learning, computational photography and image processing.
