@@ -1,6 +1,6 @@
 ---
 role: Quantum Machine Learning Researcher
-avatar_filename: ""
+avatar_filename: avatar.jpg
 bio: My research interests include quantum machine learning, classical machine
   learning, computational photography and image processing.
 interests:
@@ -18,7 +18,7 @@ social:
   - display:
       header: true
     link: https://www.linkedin.com/in/e-ricardo/
-    icon_pack: ai
+    icon_pack: fab
     icon: linkedin
     label: LinkedIn
 organizations:
