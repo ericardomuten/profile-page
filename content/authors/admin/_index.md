@@ -1,5 +1,5 @@
 ---
-role: Quantum Machine Learning Researcher <img align="center" alt="eq" width="500px" src="https://github.com/eraraya-ricardo/profile-page/blob/master/assets/media/qp_mle_customimg.png">
+role: Quantum Machine Learning Researcher ![eq](https://github.com/eraraya-ricardo/profile-page/blob/master/assets/media/qp_mle_customimg.png)
 avatar_filename: avatar.png
 bio: My research interests include quantum machine learning, classical machine
   learning, computational photography and image processing.
