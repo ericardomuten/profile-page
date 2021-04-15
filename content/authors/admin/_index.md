@@ -12,7 +12,7 @@ social:
   - display:
       header: true
     link: https://github.com/eraraya-ricardo
-    icon_pack: ai
+    icon_pack: fab
     icon: github
     label: ""
   - display:
