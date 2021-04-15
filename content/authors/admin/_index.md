@@ -1,5 +1,5 @@
 ---
-role: Quantum Machine Learning Researcher
+role: Quantum Machine Learning Researcher $$\rangle$$
 avatar_filename: avatar.png
 bio: My research interests include quantum machine learning, classical machine
   learning, computational photography and image processing.
@@ -50,6 +50,10 @@ highlight_name: false
 title: Eraraya Ricardo Muten
 email: ""
 ---
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+$$\rangle$$
+
+Eraraya Ricardo Muten is an engineering physics undergraduate from Bandung Institute of Technology that has recently defended his thesis on quantum machine learning. He got to know quantum computing just about a year ago, but he catches up fast. He is the first Qiskit Advocate from his country (Indonesia) and currently leads the Indonesian Qiskit Docs translation team.
+
+Besides quantum, he is also a machine learning enthusiast. He has done several deep learning research projects both in his country and in Japan.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
