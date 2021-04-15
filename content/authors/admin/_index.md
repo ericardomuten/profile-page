@@ -21,6 +21,12 @@ social:
     icon_pack: fab
     icon: linkedin
     label: LinkedIn
+  - display:
+      header: true
+    icon_pack: fab
+    icon: twitter
+    label: Twitter
+    link: https://twitter.com/eraraya_ricardo/
 organizations:
   - name: Bandung Institute of Technology
     url: https://www.itb.ac.id/
