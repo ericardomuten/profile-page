@@ -11,6 +11,12 @@ interests:
 social:
   - display:
       header: true
+    link: mailto:erarayaricardo.m@students.itb.ac.id
+    icon_pack: far
+    icon: envelope
+    label: Email
+  - display:
+      header: true
     link: https://github.com/eraraya-ricardo/
     icon_pack: fab
     icon: github
