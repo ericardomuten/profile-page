@@ -1,5 +1,5 @@
 ---
-role: <img align="left" width="1076" height="104" src="https://bit.ly/3aftViz">
+role: <img align="left" width="1076" height="104" src="http://www.sciweavers.org/download/Tex2Img_1618511203.png">
 avatar_filename: avatar.png
 bio: My research interests include quantum machine learning, classical machine
   learning, computational photography and image processing.
