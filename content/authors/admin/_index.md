@@ -11,10 +11,10 @@ interests:
 social:
   - display:
       header: true
-    link: https://github.com/eraraya-ricardo
+    link: https://github.com/eraraya-ricardo/
     icon_pack: fab
     icon: github
-    label: ""
+    label: GitHub
   - display:
       header: true
     link: https://www.linkedin.com/in/e-ricardo/
