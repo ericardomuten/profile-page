@@ -1,5 +1,5 @@
 ---
-role: <img align="left" width="5310" height="516" src="https://drive.google.com/file/d/1TFx9eU4Pf8VV7sTiS62RLhX-W8ncvDea/view?usp=sharing">
+role: <img align="left" width="5310" height="516" src="https://github.com/eraraya-ricardo/profile-page/blob/master/assets/media/qp_mle_img.png">
 avatar_filename: avatar.png
 bio: My research interests include quantum machine learning, classical machine
   learning, computational photography and image processing.
