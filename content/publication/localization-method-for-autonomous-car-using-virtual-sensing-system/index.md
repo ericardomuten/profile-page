@@ -4,8 +4,8 @@ subtitle: ""
 publication_types:
   - "1"
 authors:
-  - Yul Y. Nazaruddin; Fadillah A. Ma'ani; Prasetyo W. L. Sanjaya; Eraraya R.
-    Muten; Gilbert Tjahjono; Joshua A. Oktavianus
+  - Yul Y. Nazaruddin, Fadillah A. Ma'ani, Prasetyo W. L. Sanjaya, Eraraya R.
+    Muten, Gilbert Tjahjono, Joshua A. Oktavianus
 author_notes:
   - Supervisor.
   - Equal contribution.
