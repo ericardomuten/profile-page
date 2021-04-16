@@ -3,7 +3,7 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin
   condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus
   urna, suscipit quis sapien eu, pulvinar tempor diam.
-slides: example
+slides: ""
 url_pdf: ""
 summary: An example talk using Wowchemy's Markdown slides feature.
 date_end: 2021-04-04T12:00:49.567Z
@@ -22,6 +22,10 @@ address:
 title: "Panel Discussion: Innovation and Future Scope in Quantum Computing"
 location: Virtual
 links:
+  - url: https://ieeesiesgst.co.in/Epsilon_Speaker.html
+    icon_pack: fab
+    icon: website
+    name: Website
   - icon: youtube
     icon_pack: fab
     name: YouTube
@@ -29,8 +33,7 @@ links:
 event: EPSILON 2021 Symposium
 publishDate: 2017-01-01T00:00:00Z
 tags: []
-projects:
-  - example
+projects: []
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)"
   focal_point: Right
