@@ -8,7 +8,7 @@ featured: false
 tags:
   - Computational Photography
   - Image Processing
-external_link: '""'
+external_link: ""
 links:
   - url: https://github.com/eraraya-ricardo/nightmode-exposure-fusion
     name: GitHub
