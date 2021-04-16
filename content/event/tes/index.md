@@ -1,5 +1,5 @@
 ---
-title: Tes
+title: "Panel Discussion: Innovation and Future Scope in Quantum Computing"
 abstract: Tes
 location: Tes
 date: 2021-04-16T17:44:52.302Z
