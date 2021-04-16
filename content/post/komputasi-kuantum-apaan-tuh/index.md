@@ -14,7 +14,7 @@ tags:
 categories:
   - Medium
 image:
-  filename: qc_ibm.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
   caption: Komputer kuantum milik IBM. Gambar disadur dari
