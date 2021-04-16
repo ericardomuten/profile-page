@@ -18,6 +18,10 @@ event_url: https://ieeesiesgst.co.in/epsilon.html#
 publishDate: 2021-04-16T17:44:52.361Z
 draft: false
 featured: false
+image:
+  filename: featured.png
+  focal_point: Smart
+  preview_only: false
 links:
   - url: https://ieeesiesgst.co.in/Epsilon_Speaker.html
     icon_pack: fab
