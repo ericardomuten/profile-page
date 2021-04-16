@@ -41,7 +41,7 @@ projects: []
 image:
   caption: ""
   focal_point: Smart
-  filename: epsilon2021.png
+  filename: FEATURED.png
 url_code: ""
 all_day: false
 ---
