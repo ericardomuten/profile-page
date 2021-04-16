@@ -1,6 +1,6 @@
 ---
 widget: pages
-widget_id: talks
+widget_id:
 weight: 70
 title: Recent Talks
 subtitle: null
