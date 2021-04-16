@@ -25,7 +25,7 @@ experience:
   - title: Physics Olympiad Tutor
     company: Scientia Indonesia
     company_url: 'https://www.linkedin.com/company/scientia-indonesia/'
-    company_logo: org-gc
+    company_logo: scientia-indonesia
     location: Bandung
     date_start: '2016-09-01'
     date_end: '2018-07-01'
