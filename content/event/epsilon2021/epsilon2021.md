@@ -35,7 +35,7 @@ links:
     name: YouTube
     url: https://www.youtube.com/watch?v=Wr1SUYgjifc
 event: IEEE SIESGST EPSILON 2021 Symposium
-publishDate: 2017-01-01T00:00:00.000Z
+publishDate: 2021-04-16T16:11:05.122Z
 tags: []
 categories:
   - Panel Discussion
@@ -43,7 +43,7 @@ projects: []
 image:
   caption: ""
   focal_point: Smart
-  filename: ""
+  filename: featured.png
 url_code: ""
 all_day: false
 ---
