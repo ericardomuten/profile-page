@@ -6,25 +6,18 @@ abstract: IEEE SIES GST with its sub-chapters MTT-S and Computer Society in
   research. The topics ran along the track of a theme for the Symposium. The
   target is to create an educational and orderly ambience where ideas are
   addressed and exchanged.
-slides: ""
-url_pdf: ""
 summary: A Panel Discussion highlighting quantum computing using microwaves,
   quantum computing innovations/applications, and the future scope of quantum
   computing.
-date_end: 2021-04-04T12:00:49.567Z
-event_url: https://ieeesiesgst.co.in/epsilon.html#
-authors: []
-url_video: ""
-date: 2021-04-04T10:00:47.460Z
-featured: false
-url_slides: ""
-address:
-  ? street
-  ? city
-  ? region
-  ? postcode
-  ? country
 location: Virtual
+date: 2021-04-04T10:00:47.460Z
+date_end: 2021-04-04T12:00:49.567Z
+all_day: false
+event: IEEE SIESGST EPSILON 2021 Symposium
+event_url: https://ieeesiesgst.co.in/epsilon.html#
+publishDate: 2021-04-16T16:11:05.122Z
+draft: false
+featured: false
 links:
   - url: https://ieeesiesgst.co.in/Epsilon_Speaker.html
     icon_pack: fab
@@ -34,20 +27,14 @@ links:
     icon_pack: fab
     name: YouTube
     url: https://www.youtube.com/watch?v=Wr1SUYgjifc
-event: IEEE SIESGST EPSILON 2021 Symposium
-publishDate: 2021-04-16T16:11:05.122Z
 tags:
   - Quantum Computing
 categories:
   - Panel Discussion
-projects: []
-draft: false
 image:
   filename: featured.png
   focal_point: Smart
   preview_only: false
-url_code: ""
-all_day: false
 ---
 Subtopics Covered:
 
