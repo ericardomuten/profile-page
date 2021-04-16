@@ -47,7 +47,7 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: 'https://github.com/eraraya-ricardo/profile-page/blob/master/content/publication/localization-method-for-autonomous-car-using-virtual-sensing-system/ICEVT%202019%20-%20ABS-73.pdf'
+url_slides: 'https://raw.githubusercontent.com/eraraya-ricardo/profile-page/master/content/publication/localization-method-for-autonomous-car-using-virtual-sensing-system/ICEVT%202019%20-%20ABS-73.pdf'
 url_source: ''
 url_video: ''
 
