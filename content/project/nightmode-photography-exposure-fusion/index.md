@@ -17,10 +17,8 @@ links:
 image:
   filename: featured.jpg
   focal_point: Smart
-  preview_only: false
+  preview_only: true
 ---
-# Nightmode Photography: Exposure Fusion
-
 Implementation of night mode photography algorithm utilizing histogram equalization, image registration, and Mertens exposure fusion.
 
 ## Result Samples
@@ -28,7 +26,7 @@ Implementation of night mode photography algorithm utilizing histogram equalizat
 **Left: Samsung's auto mode, Right: Resulting image from the algorithm (with the same hardware)**
 
 
-![Tes alt](comparison_full.jpg "Tes")
+![](comparison_full.jpg)
 
 
 ![Sign_Garden](https://github.com/eraraya-ricardo/nightmode-exposure-fusion/blob/main/Kebun/comparison_sign.jpg)
