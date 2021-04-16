@@ -32,6 +32,14 @@ item:
   organization_url: https://www.xanadu.ai/
   title: Runner-up QHack Quantum Machine Learning Open Hackathon 2021
   url: "https://medium.com/xanaduai/qhack-the-quantum-machine-learning-hackathon-7f2cd7348e2b"
+- certificate_url: "https://www.credly.com/badges/1e93584a-5b7a-4acd-b847-55a134acfebb?source=linked_in_profile"
+  date_end: ""
+  date_start: "2021-04-13"
+  description: "Founded an Indonesian localization team for IBM Qiskit Documentation to escalate the importance of quantum computation in Indonesia. We translate the documentation hoping that more people from Indonesia can engage and get interested in quantum computation."
+  organization: IBM
+  organization_url: https://www.ibm.com/quantum-computing/
+  title: Qiskit Localization Contributor - Gold Level Translator - 2020
+  url: ""
 
 design:
   columns: '2' 
