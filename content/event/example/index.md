@@ -22,10 +22,10 @@ address:
 title: "Panel Discussion: Innovation and Future Scope in Quantum Computing"
 location: EPSILON 2021 Virtual Symposium
 links:
-  - icon: twitter
+  - icon: youtube
     icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+    name: YouTube
+    url: https://www.youtube.com/watch?v=Wr1SUYgjifc
 event: Wowchemy Conference
 publishDate: 2017-01-01T00:00:00Z
 tags: []
