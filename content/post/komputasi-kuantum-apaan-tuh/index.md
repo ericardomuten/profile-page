@@ -25,4 +25,5 @@ links:
     icon: medium
     name: Medium
 ---
-.
+
+Silahkan lanjutkan membaca di [Medium](https://medium.com/@erarayaricardo.m/sekilas-tentang-komputasi-kuantum-16a33cd4f86b).
