@@ -1,8 +1,20 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus
-  urna, suscipit quis sapien eu, pulvinar tempor diam.
+abstract: >-
+  IEEE SIES GST with its sub-chapters MTT-S and Computer Society in feature
+  conducted a Symposium which is an Academic Convention wherein the invited
+  Industry Experts will speak about a particular subject of their research. The
+  topics ran along the track of a theme for the Symposium. The target is to
+  create an educational and orderly ambience where ideas are addressed and
+  exchanged.
+
+
+  Subtopics Covered:
+
+  Quantum Computing using Microwaves
+
+  Innovations/ Applications using Quantum Computing
+
+  Future scope of Quantum Computing
 slides: ""
 url_pdf: ""
 summary: An example talk using Wowchemy's Markdown slides feature.
@@ -30,13 +42,16 @@ links:
     icon_pack: fab
     name: YouTube
     url: https://www.youtube.com/watch?v=Wr1SUYgjifc
-event: EPSILON 2021 Symposium
+event: IEEE SIESGST EPSILON 2021 Symposium
 publishDate: 2017-01-01T00:00:00Z
 tags: []
+categories:
+  - Panel Discussion
 projects: []
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)"
-  focal_point: Right
+  caption: ""
+  focal_point: Smart
+  filename: featured.png
 url_code: ""
 all_day: false
 ---
