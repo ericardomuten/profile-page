@@ -27,7 +27,7 @@ item:
 - certificate_url: ""
   date_end: "2021-02-26"
   date_start: "2021-02-17"
-  description: "Proposed to use modified layerwise learning on data re-uploading classifier to classify events in high-energy physics. Obtained better AUC than previous work."
+  description: "Proposed to use modified layerwise learning on data re-uploading classifier to classify events in high-energy physics. Obtained better AUC than previous work. Click [here](https://github.com/eraraya-ricardo/qhack-2021-openproject) for the project page."
   organization: Xanadu Quantum Technologies
   organization_url: https://www.xanadu.ai/
   title: Runner-up QHack Quantum Machine Learning Open Hackathon 2021
