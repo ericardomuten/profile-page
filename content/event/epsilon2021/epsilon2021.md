@@ -36,7 +36,8 @@ links:
     url: https://www.youtube.com/watch?v=Wr1SUYgjifc
 event: IEEE SIESGST EPSILON 2021 Symposium
 publishDate: 2021-04-16T16:11:05.122Z
-tags: []
+tags:
+  - Quantum Computing
 categories:
   - Panel Discussion
 projects: []
