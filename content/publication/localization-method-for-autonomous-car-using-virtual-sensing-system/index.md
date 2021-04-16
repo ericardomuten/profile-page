@@ -7,7 +7,12 @@ authors:
   - Yul Y. Nazaruddin; Fadillah A. Ma'ani; Prasetyo W. L. Sanjaya; Eraraya R.
     Muten; Gilbert Tjahjono; Joshua A. Oktavianus
 author_notes:
-  - These authors contributed equally.
+  - Supervisor.
+  - Equal contribution.
+  - Equal contribution.
+  - Presenter, Equal contribution.
+  - Equal contribution.
+  - Equal contribution.
 doi: 10.1109/ICEVT48285.2019.8993992
 publication: Institute of Electrical and Electronics Engineers
 publication_short: IEEE
