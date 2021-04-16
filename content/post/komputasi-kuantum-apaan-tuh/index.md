@@ -15,5 +15,5 @@ image:
   focal_point: Smart
   preview_only: false
   caption: Komputer kuantum milik IBM. Gambar disadur dari sini.
+external_link: "https://medium.com/@erarayaricardo.m/sekilas-tentang-komputasi-kuantum-16a33cd4f86b"
 ---
-.
