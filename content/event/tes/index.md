@@ -1,6 +1,11 @@
 ---
 title: "Panel Discussion: Innovation and Future Scope in Quantum Computing"
-abstract: Tes
+abstract: IEEE SIES GST with its sub-chapters MTT-S and Computer Society in
+  feature conducted a Symposium which is an Academic Convention wherein the
+  invited Industry Experts will speak about a particular subject of their
+  research. The topics ran along the track of a theme for the Symposium. The
+  target is to create an educational and orderly ambience where ideas are
+  addressed and exchanged.
 location: Tes
 date: 2021-04-16T17:44:52.302Z
 date_end: 2021-04-16T17:45:33.618Z
