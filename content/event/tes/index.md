@@ -9,9 +9,9 @@ abstract: IEEE SIES GST with its sub-chapters MTT-S and Computer Society in
 summary: A Panel Discussion highlighting quantum computing using microwaves,
   quantum computing innovations/applications, and the future scope of quantum
   computing.
-location: Tes
-date: 2021-04-16T17:44:52.302Z
-date_end: 2021-04-16T17:45:33.618Z
+location: Virtual
+date: 2021-04-04T10:00:47.460Z
+date_end: 2021-04-04T12:00:49.567Z
 all_day: false
 event: Tes
 event_url: Tes
