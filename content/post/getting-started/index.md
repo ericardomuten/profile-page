@@ -1,33 +1,25 @@
 ---
+draft: true
+active: false
 summary: Welcome 👋 We know that first impressions are important, so we've
   populated your new site with some initial content to help you get familiar
   with everything in no time.
-draft: false
-authors:
-  - admin
-  - 吳恩達
-lastmod: 2020-12-13T00:00:00Z
+authors: []
+lastmod: 2020-12-13T00:00:00.000Z
 title: Welcome to Wowchemy, the website builder for Hugo
 subtitle: Welcome 👋 We know that first impressions are important, so we've
   populated your new site with some initial content to help you get familiar
   with everything in no time.
-date: 2020-12-13T00:00:00Z
+date: 2020-12-13T00:00:00.000Z
 featured: false
-tags:
-  - Academic
-  - 开源
-categories:
-  - Demo
-  - 教程
+tags: []
+categories: []
 projects: []
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)"
   focal_point: ""
   placement: 2
   preview_only: false
-
-active: false
-
 ---
 
 ## Overview
