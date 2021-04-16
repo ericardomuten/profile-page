@@ -37,5 +37,5 @@ image:
 summary: Utilizing ESKF as the state‑estimator and Diagonal Recurrent Neural
   Network to make the localization of an autonomous car more reliable in the
   absence of GPS data.
-date: 2021-04-16T19:00:38.872Z
+date: 2020-02-12T19:00:38.872Z
 ---
