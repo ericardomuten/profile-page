@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-    - title: Teaching Assistant
+  - title: Teaching Assistant
     company: Bandung Institute of Technology
     company_url: ''
     company_logo: itb-logo
@@ -37,6 +37,7 @@ experience:
         * Fluid Mechanics (Jan ‑ May 2019)
         * Electric Circuits and Electronics (Aug ‑ Dec 2019)
         * Wave Phenomena (Aug - Dec 2020)
+    
   - title: Physics Olympiad Tutor
     company: Scientia Indonesia
     company_url: 'https://www.linkedin.com/company/scientia-indonesia/'
