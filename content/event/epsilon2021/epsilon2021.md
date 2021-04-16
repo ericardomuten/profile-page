@@ -7,7 +7,9 @@ abstract: IEEE SIES GST with its sub-chapters MTT-S and Computer Society in
   addressed and exchanged.
 slides: ""
 url_pdf: ""
-summary: A Panel Discussion highlighting quantum computing using microwaves, quantum computing innovations/applications, and the future scope of quantum computing.
+summary: A Panel Discussion highlighting quantum computing using microwaves,
+  quantum computing innovations/applications, and the future scope of quantum
+  computing.
 date_end: 2021-04-04T12:00:49.567Z
 event_url: https://ieeesiesgst.co.in/epsilon.html#
 authors: []
@@ -16,11 +18,11 @@ date: 2021-04-04T10:00:47.460Z
 featured: false
 url_slides: ""
 address:
-  street:
-  city:
-  region:
-  postcode:
-  country:
+  ? street
+  ? city
+  ? region
+  ? postcode
+  ? country
 title: "Panel Discussion: Innovation and Future Scope in Quantum Computing"
 location: Virtual
 links:
@@ -33,7 +35,7 @@ links:
     name: YouTube
     url: https://www.youtube.com/watch?v=Wr1SUYgjifc
 event: IEEE SIESGST EPSILON 2021 Symposium
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 tags: []
 categories:
   - Panel Discussion
@@ -41,7 +43,7 @@ projects: []
 image:
   caption: ""
   focal_point: Smart
-  filename: featured.png
+  filename: ""
 url_code: ""
 all_day: false
 ---
