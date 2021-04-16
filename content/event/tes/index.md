@@ -31,4 +31,8 @@ links:
     icon_pack: fab
     name: YouTube
     url: https://www.youtube.com/watch?v=Wr1SUYgjifc
+tags:
+  - Quantum Computing
+categories:
+  - Panel Discussion
 ---
