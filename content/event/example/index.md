@@ -1,20 +1,10 @@
 ---
-abstract: >-
-  IEEE SIES GST with its sub-chapters MTT-S and Computer Society in feature
-  conducted a Symposium which is an Academic Convention wherein the invited
-  Industry Experts will speak about a particular subject of their research. The
-  topics ran along the track of a theme for the Symposium. The target is to
-  create an educational and orderly ambience where ideas are addressed and
-  exchanged.
-
-
-  Subtopics Covered:
-
-  Quantum Computing using Microwaves,
-
-  Innovations/ Applications using Quantum Computing,
-
-  Future scope of Quantum Computing.
+abstract: IEEE SIES GST with its sub-chapters MTT-S and Computer Society in
+  feature conducted a Symposium which is an Academic Convention wherein the
+  invited Industry Experts will speak about a particular subject of their
+  research. The topics ran along the track of a theme for the Symposium. The
+  target is to create an educational and orderly ambience where ideas are
+  addressed and exchanged.
 slides: ""
 url_pdf: ""
 summary: An example talk using Wowchemy's Markdown slides feature.
@@ -55,15 +45,8 @@ image:
 url_code: ""
 all_day: false
 ---
+Subtopics Covered:
 
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
-
-Slides can be added in a few ways:
-
-- **Create** slides using Wowchemy's [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
-
-Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
+* Quantum Computing using Microwaves
+* Innovations/ Applications using Quantum Computing
+* Future scope of Quantum Computing
