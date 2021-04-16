@@ -15,7 +15,7 @@ event_url: https://ieeesiesgst.co.in/epsilon.html#
 authors: []
 url_video: ""
 date: 2021-04-04T10:00:47.460Z
-featured: true
+featured: false
 url_slides: ""
 address:
   ? street
@@ -42,9 +42,10 @@ categories:
   - Panel Discussion
 projects: []
 image:
+  filename: featured.png
   caption: ""
   focal_point: Smart
-  filename: featured.png
+  preview_only: false
 url_code: ""
 all_day: false
 ---
