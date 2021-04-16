@@ -7,7 +7,7 @@ abstract: IEEE SIES GST with its sub-chapters MTT-S and Computer Society in
   addressed and exchanged.
 slides: ""
 url_pdf: ""
-summary: An example talk using Wowchemy's Markdown slides feature.
+summary: A Panel Discussion highlighting quantum computing using microwaves, quantum computing innovations/applications, and the future scope of quantum computing.
 date_end: 2021-04-04T12:00:49.567Z
 event_url: https://ieeesiesgst.co.in/epsilon.html#
 authors: []
