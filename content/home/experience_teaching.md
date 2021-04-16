@@ -27,14 +27,9 @@ experience:
     company_url: 'https://www.linkedin.com/company/scientia-indonesia/'
     company_logo: org-gc
     location: Bandung
-    date_start: '2016-09'
-    date_end: '2018-07'
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+    date_start: '2016-09-01'
+    date_end: '2018-07-01'
+    description: Taught students theoretical physics in the field of mechanics, electrodynamics, thermodynamics, and modern physics as a preparation for their participation in National Science Olympiad. I also made and assessed test problems as exercises.
         
   - title: Professor of Semiconductor Physics
     company: University X
@@ -43,7 +38,12 @@ experience:
     location: California
     date_start: '2016-01-01'
     date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: |2-
+        Responsibilities include:
+        
+        * Analysing
+        * Modelling
+        * Deploying
 
 design:
   columns: '2'
