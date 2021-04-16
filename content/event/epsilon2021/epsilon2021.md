@@ -1,4 +1,5 @@
 ---
+title: "Panel Discussion: Innovation and Future Scope in Quantum Computing"
 abstract: IEEE SIES GST with its sub-chapters MTT-S and Computer Society in
   feature conducted a Symposium which is an Academic Convention wherein the
   invited Industry Experts will speak about a particular subject of their
@@ -23,7 +24,6 @@ address:
   ? region
   ? postcode
   ? country
-title: "Panel Discussion: Innovation and Future Scope in Quantum Computing"
 location: Virtual
 links:
   - url: https://ieeesiesgst.co.in/Epsilon_Speaker.html
@@ -41,9 +41,9 @@ tags:
 categories:
   - Panel Discussion
 projects: []
+draft: false
 image:
   filename: featured.png
-  caption: ""
   focal_point: Smart
   preview_only: false
 url_code: ""
