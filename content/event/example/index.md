@@ -7,7 +7,7 @@ slides: example
 url_pdf: ""
 summary: An example talk using Wowchemy's Markdown slides feature.
 date_end: 2021-04-04T12:00:49.567Z
-event_url: https://example.org
+event_url: https://ieeesiesgst.co.in/epsilon.html#
 authors: []
 url_video: ""
 date: 2021-04-04T10:00:47.460Z
@@ -20,13 +20,13 @@ address:
   postcode: "94305"
   country: United States
 title: "Panel Discussion: Innovation and Future Scope in Quantum Computing"
-location: EPSILON 2021 Virtual Symposium
+location: Virtual
 links:
   - icon: youtube
     icon_pack: fab
     name: YouTube
     url: https://www.youtube.com/watch?v=Wr1SUYgjifc
-event: Wowchemy Conference
+event: EPSILON 2021 Symposium
 publishDate: 2017-01-01T00:00:00Z
 tags: []
 projects:
