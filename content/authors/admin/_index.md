@@ -1,5 +1,6 @@
 ---
-role: <img align="left" width="5310" height="516" src="http://www.sciweavers.org/download/Tex2Img_1618585702.png">
+role: <img align="left" width="5310" height="516"
+  src="http://www.sciweavers.org/download/Tex2Img_1618585702.png">
 avatar_filename: avatar.png
 bio: My research interests include quantum machine learning, classical machine
   learning, computational photography and image processing.
@@ -50,7 +51,7 @@ highlight_name: false
 title: Eraraya Ricardo Muten
 email: ""
 ---
-Eraraya Ricardo Muten is an engineering physics undergraduate from Bandung Institute of Technology that has recently defended his thesis on quantum machine learning. He got to know quantum computing just about a year ago, but he catches up fast. He is the first Qiskit Advocate from his country (Indonesia) and currently leads the Indonesian Qiskit Docs translation team.
+Eraraya Ricardo Muten (Edo) is an engineering physics undergraduate from Bandung Institute of Technology that has recently defended his thesis on quantum machine learning. He got to know quantum computing just about a year ago, but he catches up fast. He is the first Qiskit Advocate from his country (Indonesia) and currently leads the Indonesian Qiskit Docs translation team.
 
 Besides quantum, he is also a machine learning enthusiast. He has done several deep learning research projects both in his country and in Japan.
 
