@@ -15,7 +15,7 @@ event_url: https://ieeesiesgst.co.in/epsilon.html#
 authors: []
 url_video: ""
 date: 2021-04-04T10:00:47.460Z
-featured: false
+featured: true
 url_slides: ""
 address:
   ? street
