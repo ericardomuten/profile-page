@@ -30,6 +30,8 @@ draft: false
 featured: false
 tags:
   - Deep Learning
+  - Autonomous Car
+  - Localization
 image:
   filename: featured
   focal_point: Smart
