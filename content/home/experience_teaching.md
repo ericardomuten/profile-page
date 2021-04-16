@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 10
+weight: 15
 
 title: Experience
 subtitle: Teaching
