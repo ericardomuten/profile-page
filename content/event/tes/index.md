@@ -36,3 +36,8 @@ tags:
 categories:
   - Panel Discussion
 ---
+Subtopics Covered:
+
+* Quantum Computing using Microwaves
+* Innovations/ Applications using Quantum Computing
+* Future scope of Quantum Computing
