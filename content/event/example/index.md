@@ -10,11 +10,11 @@ abstract: >-
 
   Subtopics Covered:
 
-  Quantum Computing using Microwaves
+  Quantum Computing using Microwaves,
 
-  Innovations/ Applications using Quantum Computing
+  Innovations/ Applications using Quantum Computing,
 
-  Future scope of Quantum Computing
+  Future scope of Quantum Computing.
 slides: ""
 url_pdf: ""
 summary: An example talk using Wowchemy's Markdown slides feature.
