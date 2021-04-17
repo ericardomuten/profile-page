@@ -12,3 +12,4 @@ weight: 66
 title: Phone Photography
 subtitle:
 ---
+{{< phone_photography >}}
