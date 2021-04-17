@@ -25,5 +25,12 @@ item:
     date_start: '2021-03-22'
     date_end: ''
     description: ''
-    
+  - organization: Coursera
+    organization_url: 'https://www.coursera.org'
+    title: Quantum Computing. Less Formulas - More Understanding
+    url: 'https://www.coursera.org/learn/quantum-computing-lfmu?'
+    certificate_url: 'https://www.coursera.org/account/accomplishments/certificate/FR5UAA2TY5BT'
+    date_start: '2020-09-30'
+    date_end: ''
+    description: ''
 ---
