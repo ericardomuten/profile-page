@@ -11,7 +11,7 @@ featured: false
 tags:
   - Deep Learning
   - Robotics
-external_link: .
+external_link: ""
 links:
   - url: https://github.com/eraraya-ricardo/gvlab-research-internship
     name: GitHub
