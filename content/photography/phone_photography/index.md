@@ -7,9 +7,9 @@ widget: blank
 headless: true
 
 # Order that this section appears on the page.
-weight: 66
+weight: 10
 
-title: Phone Photography 1
+title: Phone Photography
 subtitle:
 ---
 {{< gallery album="phone_photography" >}}
