@@ -41,5 +41,3 @@ item:
     date_end: '2017-12-21'
     description: ''
 ---
-
-Ngetes.
