@@ -12,10 +12,7 @@ weight: 10
 title: Phone Photography
 subtitle:
 
-links:
-  - url: https://medium.com/@erarayaricardo.m/sekilas-tentang-komputasi-kuantum-16a33cd4f86b
-    icon_pack: fab
-    icon: medium
-    name: Medium
+external_link: "https://www.instagram.com/snap.dng/"
+
 ---
 {{< gallery album="phone_photography" >}}
