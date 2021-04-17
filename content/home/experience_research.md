@@ -36,14 +36,14 @@ experience:
         * Modelling
         * Deploying
         
-  - title: Tes2
-    company: Tes2
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Research Internship
+    company: Gentiane Venture's Lab, Tokyo Univ. of Agriculture and Technology
+    company_url: 'http://web.tuat.ac.jp/~gvlab/'
+    company_logo: gvlab
+    location: Tokyo, Japan
+    date_start: '2018-10-01'
+    date_end: '2018-12-01'
+    description: Did [research](https://eraraya-ricardo.me/project/learning-human-touch-interaction-with-convolutional-neural-networks/) in using Convolutional Neural Network to classify several types of touch interaction from humans by learning the data pattern from a force sensor attached to a robotic arm.
 
 design:
   columns: '2'
