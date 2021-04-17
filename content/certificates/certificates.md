@@ -1,6 +1,6 @@
 ---
-# widget: accomplishments
-# headless: true  # This file represents a page section.
+widget: accomplishments
+headless: true  # This file represents a page section.
 
 # ... Put Your Section Options Here (title etc.) ...
 title: An example title
