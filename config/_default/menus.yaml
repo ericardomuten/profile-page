@@ -35,7 +35,7 @@ main:
     weight: 61
     parent: 'accomplishments'
   - name: Summer Schools, Courses, Certifications
-    url: 'certifications/'
+    url: 'certificates/'
     weight: 62
     parent: 'accomplishments'
 
