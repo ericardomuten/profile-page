@@ -10,7 +10,7 @@ title: Phone Photography
 subtitle:
 
 gallery_item:
-- album: <ALBUM FOLDER>
-  image: <IMAGE NAME>.jpg
-  caption: Write your image caption here
+- album: phone_photography
+  image: black_horizon.jpg.jpg
+  caption: Black Horizon
 ---
