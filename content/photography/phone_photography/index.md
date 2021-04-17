@@ -12,7 +12,7 @@ weight: 10
 title: Phone Photography
 subtitle:
 
-gallery_item:
+[[gallery_item]]:
 - album: "phone_photography"
   image: "black_horizon.jpg"
   caption: "Write your image caption here"
