@@ -16,4 +16,3 @@ tags:
   - Computational Photography
 
 ---
-{{< gallery album="computational_photography" >}}
