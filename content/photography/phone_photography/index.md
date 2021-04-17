@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: Phone Photography ext
+title: Phone Photography
 subtitle:
 
 tags:
