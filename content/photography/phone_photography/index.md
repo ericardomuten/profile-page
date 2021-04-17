@@ -9,12 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: Phone Photography
+title: Phone Photography 2
 subtitle:
 
-[[gallery_item]]:
-  album: "phone_photography"
-  image: "black_horizon.jpg"
-  caption: "Write your image caption here"
 ---
 {{< gallery album="phone_photography" >}}
