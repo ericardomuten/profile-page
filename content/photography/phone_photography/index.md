@@ -9,12 +9,12 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: Phone Photography Caption
+title: [Phone Photography](https://www.instagram.com/snap.dng/)
 subtitle:
 
 gallery_item:
-- album: phone_photography
-  image: black_horizon.jpg
-  caption: Write your image caption here
+- album: "phone_photography"
+  image: "black_horizon.jpg"
+  caption: "Write your image caption here"
 ---
 {{< gallery album="phone_photography" >}}
