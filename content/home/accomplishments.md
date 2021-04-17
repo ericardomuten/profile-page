@@ -24,29 +24,21 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+- certificate_url: ""
   date_end: ""
-  date_start: "2021-01-25"
-  description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
-  url: ""
-- certificate_url: https://www.edx.org
+  date_start: "2021-02-17"
+  description: "Proposed to use modified layerwise learning on data re-uploading classifier to classify events in high-energy physics. Obtained better AUC than previous work. Click [here](https://github.com/eraraya-ricardo/qhack-2021-openproject) for the project page."
+  organization: Xanadu Quantum Technologies
+  organization_url: https://www.xanadu.ai/
+  title: Runner-up QHack Quantum Machine Learning Open Hackathon 2021
+  url: "https://medium.com/xanaduai/qhack-the-quantum-machine-learning-hackathon-7f2cd7348e2b"
+- certificate_url: "https://www.credly.com/badges/1e93584a-5b7a-4acd-b847-55a134acfebb?source=linked_in_profile"
   date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
+  date_start: "2021-04-13"
+  description: "Founded an Indonesian localization team for IBM Qiskit Documentation to escalate the importance of quantum computation in Indonesia. We translate the documentation hoping that more people from Indonesia can engage and get interested in quantum computation."
+  organization: IBM
+  organization_url: https://www.ibm.com/quantum-computing/
+  title: Qiskit Localization Contributor - Gold Level Translator - 2020
   url: ""
 
 design:
