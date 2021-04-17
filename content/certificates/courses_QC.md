@@ -44,7 +44,8 @@ item:
   - organization: edX
     organization_url: 'https://www.edx.org'
     title: Quantum 101: Quantum Computing & Quantum Internet
-    url: 'https://www.edx.org/professional-certificate/delftx-quantum-computing-and-quantum-internet?index=product&queryID=c0156ed4c4833336d6d3d8c30cb42318&position=1'
+    url: >-
+        https://www.edx.org/professional-certificate/delftx-quantum-computing-and-quantum-internet?index=product&queryID=c0156ed4c4833336d6d3d8c30cb42318&position=1
     certificate_url: 'https://credentials.edx.org/credentials/b5c7598312c940b994629895c132cb5a/'
     date_start: '2020-08-01'
     date_end: ''
