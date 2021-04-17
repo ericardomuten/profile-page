@@ -25,7 +25,7 @@ experience:
   - title: Teaching Assistant
     company: Bandung Institute of Technology
     company_url: 'https://www.itb.ac.id/'
-    company_logo: org-x
+    company_logo: itb-logo
     location: Bandung
     date_start: '2017-08-01'
     date_end: '2020-12-01'
