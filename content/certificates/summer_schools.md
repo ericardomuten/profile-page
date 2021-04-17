@@ -32,7 +32,8 @@ item:
     date_start: '2020-07-20'
     date_end: '2020-08-15'
     description: >-
-      * Received a series of lectures and lab sessions in quantum computing from researchers at IBM.
-      * Finished 9 quantum programming exercises using Qiskit.
-      * Finished the final project challenge on implementing Variational Quantum Eigensolver algorithm for calculating the ground state energy of the LiH molecule in less than 2 days. I mitigated the qubits and gates error by extrapolating the energy data points for several depths of the gate layer. You can access the result [here](https://qgssshowcase.squarespace.com/showcase-part-2/team-104-quantasean) (password: 2020student). >-
+    
+        * Received a series of lectures and lab sessions in quantum computing from researchers at IBM.
+        * Finished 9 quantum programming exercises using Qiskit.
+        * Finished the final project challenge on implementing Variational Quantum Eigensolver algorithm for calculating the ground state energy of the LiH molecule in less than 2 days. I mitigated the qubits and gates error by extrapolating the energy data points for several depths of the gate layer. You can access the result [here](https://qgssshowcase.squarespace.com/showcase-part-2/team-104-quantasean) (password: 2020student).
 ---
