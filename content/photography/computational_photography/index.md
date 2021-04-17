@@ -21,5 +21,6 @@ gallery_item:
   image: black_horizon.jpg
   caption: Black Horizon
 ---
-
+<!--
 {{< phone_photography >}}
+-->
