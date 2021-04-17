@@ -29,7 +29,7 @@ main:
     url: '#posts'
     weight: 50
   - name: Accomplishments
-    url: 'certificates/certificates.md'
+    url: 'certificates/certificates'
     weight: 60
 
 # Link to a PDF of your resume/CV from the menu.
