@@ -60,5 +60,3 @@ item:
 design:
   columns: '2' 
 ---
-
-Summer Schools, Courses, Certifications
