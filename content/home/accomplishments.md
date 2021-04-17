@@ -48,7 +48,7 @@ item:
   organization_url: https://www.ibm.com/quantum-computing/
   title: Qiskit Advocate
   url: "https://qiskit.org/advocates/"
-- certificate_url: "https://www.linkedin.com/in/e-ricardo/detail/treasury/education:333648090/?entityUrn=urn%3Ali%3Afsd_profileTreasuryMedia%3A(ACoAAB3EvqIBzYkbo4i8FlE2tbf2qIv7Ic2D6No%2C1599038664129)&section=education%3A333648090&treasuryCount=2"
+- certificate_url: "https://raw.githubusercontent.com/eraraya-ricardo/profile-page/master/assets/certificates/mapres-tf-cert.pdf"
   date_end: ""
   date_start: "2019-02-01"
   description: "Nominated as the Most Outstanding Student of Engineering Physics in 2019 by the Rector of Bandung Institute of Technology for excellence in academic and non-academic activities."
