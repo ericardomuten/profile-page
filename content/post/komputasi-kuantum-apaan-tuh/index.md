@@ -9,6 +9,7 @@ featured: false
 # external_link: https://medium.com/@erarayaricardo.m/sekilas-tentang-komputasi-kuantum-16a33cd4f86b
 title: Komputasi Kuantum, Apaan tuh?
 subtitle: Quantum Computing, what is that?
+reading_time: false
 tags:
   - Quantum Computing
 categories:
