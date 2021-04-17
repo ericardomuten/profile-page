@@ -1,11 +1,18 @@
 ---
+# An instance of the Blank widget with a Gallery page element.
+# Documentation: https://wowchemy.com/docs/getting-started/page-builder/
 widget: blank
+
+# This file represents a page section.
 headless: true
+
+# Order that this section appears on the page.
+weight: 10
+
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
+  columns: '2'
 
-# ... Put Your Section Options Here (title etc.) ...
 title: Phone Photography
 subtitle:
 
@@ -15,5 +22,4 @@ gallery_item:
   caption: Black Horizon
 ---
 
-{{< gallery album="phone_photography" >}}
-  
+{{< phone_photography >}}
