@@ -45,7 +45,7 @@ main:
     weight: 70
     identifier: 'gallery'
   - name: Phone Photography
-    url: 'photography/#phone_photography'
+    url: 'photography/'
     weight: 71
     parent: 'gallery'
 
