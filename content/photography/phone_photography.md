@@ -11,6 +11,6 @@ subtitle:
 
 gallery_item:
 - album: phone_photography
-  image: black_horizon.jpg.jpg
+  image: black_horizon.jpg
   caption: Black Horizon
 ---
