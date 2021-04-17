@@ -25,29 +25,5 @@ item:
     date_start: '2021-03-22'
     date_end: ''
     description: ''
-  - organization: Coursera
-    organization_url: 'https://www.coursera.org'
-    title: Quantum Computing. Less Formulas - More Understanding
-    url: 'https://www.coursera.org/learn/quantum-computing-lfmu?'
-    certificate_url: 'https://www.coursera.org/account/accomplishments/certificate/FR5UAA2TY5BT'
-    date_start: '2020-09-30'
-    date_end: ''
-    description: ''
-  - organization: Coursera
-    organization_url: 'https://www.coursera.org'
-    title: Physical Basics of Quantum Computing
-    url: 'https://www.coursera.org/learn/physical-basis-quantum-computing?'
-    certificate_url: 'https://www.coursera.org/account/accomplishments/certificate/7YS5WZWGYBDP'
-    date_start: '2020-08-27'
-    date_end: ''
-    description: ''
-  - organization: edX
-    organization_url: 'https://www.edx.org'
-    title: Quantum 101: Quantum Computing & Quantum Internet
-    url: ''
-    certificate_url: 'https://credentials.edx.org/credentials/b5c7598312c940b994629895c132cb5a/'
-    date_start: '2020-08-01'
-    date_end: ''
-    description: ''
     
 ---
