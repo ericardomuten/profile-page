@@ -55,7 +55,7 @@ email: ""
 ---
 Eraraya Ricardo Muten (Edo) is an engineering physics undergraduate from Bandung Institute of Technology that has recently defended his thesis on quantum machine learning. He got to know quantum computing just about a year ago, but he catches up fast. He is the first Qiskit Advocate from his country (Indonesia) and currently leads the Indonesian Qiskit Docs translation team.
 
-Besides quantum, he is also a machine learning enthusiast. He has done several deep learning research projects both in his country and in Japan.
+Besides quantum, he is also a machine/deep learning enthusiast, with side hobbies in computational photography and image processing. He has done several deep learning research projects both in his country and in Japan. Check the [Gallery Page](https://eraraya-ricardo.me/photography/) or my [Gallery Instagram](https://www.instagram.com/snap.dng/) for images that I took/created.
 
 <!--
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
