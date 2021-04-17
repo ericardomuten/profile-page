@@ -2,7 +2,7 @@
 role: <img align="left" width="5310" height="516"
   src="http://www.sciweavers.org/download/Tex2Img_1618585702.png">
 avatar_filename: avatar.png
-bio: Qiskit Advocate | Qiskit Docs Indonesian Translation Lead | Quantum Tech. Lab at Bandung Institute of Technology | Quantum and classical ML/NN enthusiast.
+bio: Qiskit Advocate | Qiskit Docs Indonesian Translation Lead | Quantum Tech. Lab at Bandung Institute of Technology
 interests:
   - Quantum Machine Learning
   - Classical Machine/Deep Learning
@@ -54,4 +54,6 @@ Eraraya Ricardo Muten (Edo) is an engineering physics undergraduate from Bandung
 
 Besides quantum, he is also a machine learning enthusiast. He has done several deep learning research projects both in his country and in Japan.
 
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+<!--
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+-->
