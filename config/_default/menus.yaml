@@ -12,6 +12,10 @@ main:
     url: '#experience_research'
     weight: 11
     parent: 'experience'
+  - name: Teaching Experience
+    url: '#experience_teaching'
+    weight: 12
+    parent: 'experience'
   - name: Projects
     url: '#projects'
     weight: 20
