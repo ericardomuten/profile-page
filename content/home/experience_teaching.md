@@ -25,7 +25,7 @@ experience:
   - title: Physics Tutor
     company: TamanSiswa
     company_url: 'https://taman-siswa.com/class/?code=taman-mahasiswa/'
-    company_logo: org-x
+    company_logo: tamansiswa
     location: Virtual
     date_start: '2020-08-01'
     date_end: ''
