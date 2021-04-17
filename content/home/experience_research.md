@@ -23,13 +23,13 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Technical Research
-    company: R&D Department, IHI Corporation
+    company: Instrumentation, Control, and Decision Systems (ICoDeS) Lab, Bandung Institute of Technology
     company_url: 'https://www.ihi.co.jp/en/'
     company_logo: ihi-logo
     location: Bandung, Indonesia
     date_start: '2019-09-01'
     date_end: '2019-11-31'
-    description: Conducted research in utilizing Error‑state Kalman Filter as the state‑estimator and Diagonal Recurrent Neural Networks & LSTM to make the localization of an autonomous car more reliable.
+    description: Conducted research in utilizing Error‑state Kalman Filter as the state‑estimator and Diagonal Recurrent Neural Networks and LSTM to make the localization of an autonomous car more reliable.
     
   - title: Summer Internship
     company: R&D Department, IHI Corporation
