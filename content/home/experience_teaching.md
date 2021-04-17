@@ -22,6 +22,15 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Physics Tutor
+    company: TamanSiswa
+    company_url: 'https://taman-siswa.com/class/?code=taman-mahasiswa'
+    company_logo: tamansiswa
+    location: Virtual
+    date_start: '2020-08-01'
+    date_end: ''
+    description: Taught first-year students of Bandung Institute of Technology fundamental physics. Prepared them for university exams, assessed and made practice problems. Materials covered: mechanics, fluid dynamics, thermodynamics, vibrations and waves, electrodynamics, propagation of sounds and lights, and modern physics.
+    
   - title: Teaching Assistant
     company: Bandung Institute of Technology
     company_url: 'https://www.itb.ac.id/'
@@ -45,7 +54,7 @@ experience:
     location: Bandung
     date_start: '2016-09-01'
     date_end: '2018-07-01'
-    description: Taught students theoretical physics in the field of mechanics, electrodynamics, thermodynamics, and modern physics as a preparation for their participation in National Science Olympiad. I also made and assessed test problems as exercises.
+    description: Taught students theoretical physics in mechanics, electrodynamics, thermodynamics, and modern physics as a preparation for their participation in National Science Olympiad. Made and assessed test problems as exercises.
         
 
 design:
