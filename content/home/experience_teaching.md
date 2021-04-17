@@ -25,7 +25,7 @@ experience:
   - title: Teaching Assistant
     company: Bandung Institute of Technology
     company_url: 'https://www.itb.ac.id/'
-    company_logo: org-gc
+    company_logo: org-x
     location: Bandung
     date_start: '2017-08-01'
     date_end: '2020-12-01'
@@ -41,7 +41,7 @@ experience:
   - title: Physics Olympiad Tutor
     company: Scientia Indonesia
     company_url: 'https://www.linkedin.com/company/scientia-indonesia/'
-    company_logo: scientia-indonesia.png
+    company_logo: org-x
     location: Bandung
     date_start: '2016-09-01'
     date_end: '2018-07-01'
