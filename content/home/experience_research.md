@@ -22,6 +22,15 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Undergraduate Thesis
+    company: Quantum Technology Lab, Bandung Institute of Technology
+    company_url: 'https://translate.google.com/translate?sl=auto&tl=en&u=http%3A%2F%2Fqlab.itb.ac.id%2F'
+    company_logo: 
+    location: Bandung, Indonesia
+    date_start: '2020-08-01'
+    date_end: '2021-03-01'
+    description: Designed variational quantum circuits that work similarly to convolution filters in CNN to classify images. The proposed architectures achieved higher testing accuracy compared to some previous related works. Click [here](https://github.com/eraraya-ricardo/quantum_image_classifier) for the project page.
+    
   - title: AI Engineer Intern
     company: Nodeflux Teknologi Indonesia Inc.
     company_url: 'https://www.nodeflux.io/'
