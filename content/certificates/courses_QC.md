@@ -33,4 +33,12 @@ item:
     date_start: '2020-09-30'
     date_end: ''
     description: ''
+  - organization: Coursera
+    organization_url: 'https://www.coursera.org'
+    title: Physical Basics of Quantum Computing
+    url: 'https://www.coursera.org/learn/physical-basis-quantum-computing?'
+    certificate_url: 'https://www.coursera.org/account/accomplishments/certificate/7YS5WZWGYBDP'
+    date_start: '2020-08-27'
+    date_end: ''
+    description: ''
 ---
