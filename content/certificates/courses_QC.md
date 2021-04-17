@@ -43,7 +43,7 @@ item:
     description: ''
   - organization: edX
     organization_url: 'https://www.edx.org'
-    title: Quantum 101: Quantum Computing & Quantum Internet
+    title: Quantum 101\: Quantum Computing & Quantum Internet
     url: ''
     certificate_url: ''
     date_start: '2020-08-01'
