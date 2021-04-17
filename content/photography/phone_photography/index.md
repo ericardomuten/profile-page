@@ -12,4 +12,4 @@ weight: 66
 title: Phone Photography 1
 subtitle:
 ---
-{{< phone_photography >}}
+{{< gallery album="phone_photography" >}}
