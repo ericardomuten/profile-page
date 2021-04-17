@@ -16,10 +16,10 @@ design:
 title: Computational Photography
 subtitle:
 
-gallery_item:
-- album: phone_photography
-  image: black_horizon.jpg
-  caption: Black Horizon
+# gallery_item:
+# - album: phone_photography
+#  image: black_horizon.jpg
+#  caption: Black Horizon
 ---
 <!--
 {{< phone_photography >}}
