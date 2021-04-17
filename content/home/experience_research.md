@@ -22,7 +22,16 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Technical Research
+  - title: AI Engineer Intern
+    company: Nodeflux Teknologi Indonesia Inc.
+    company_url: 'https://www.nodeflux.io/'
+    company_logo: nodeflux-logo
+    location: Jakarta, Indonesia
+    date_start: '2019-12-01'
+    date_end: '2020-01-01'
+    description: Developed a real‑time face tracking and blemish removal algorithm to create a filter application for the webcam.
+    
+  - title: Technical Researcher
     company: Instrumentation, Control, and Decision Systems (ICoDeS) Lab, Bandung Institute of Technology
     company_url: 'https://translate.google.com/translate?sl=auto&tl=en&u=https%3A%2F%2Fik.fti.itb.ac.id%2Flab-icodes%2F'
     company_logo: 
@@ -31,7 +40,7 @@ experience:
     date_end: '2019-11-25'
     description: Conducted research in utilizing Error‑state Kalman Filter as the state‑estimator and Diagonal Recurrent Neural Networks and LSTM to make the localization of an autonomous car more reliable.
     
-  - title: Summer Internship
+  - title: Summer Intern
     company: R&D Department, IHI Corporation
     company_url: 'https://www.ihi.co.jp/en/'
     company_logo: ihi-logo
@@ -40,7 +49,7 @@ experience:
     date_end: '2019-08-31'
     description: Developed reinforcement learning agents for solving classic control problems in the OpenAI Gym environment using the Deep Q‑Learning algorithm. The programs were then converted into microservices using the SRI Microservice Platform infrastructure for the company's AI platform.
         
-  - title: Research Internship
+  - title: Research Intern
     company: Gentiane Venture's Lab, Tokyo Univ. of Agriculture and Technology
     company_url: 'http://web.tuat.ac.jp/~gvlab/'
     company_logo: gvlab
