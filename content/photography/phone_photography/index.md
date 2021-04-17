@@ -13,7 +13,7 @@ title: Phone Photography
 subtitle:
 
 [[gallery_item]]:
-- album: "phone_photography"
+  album: "phone_photography"
   image: "black_horizon.jpg"
   caption: "Write your image caption here"
 ---
