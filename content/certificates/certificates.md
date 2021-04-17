@@ -1,6 +1,6 @@
 ---
 widget: accomplishments
-headless: false  # This file represents a page section.
+headless: true  # This file represents a page section.
 
 # ... Put Your Section Options Here (title etc.) ...
 
@@ -40,3 +40,5 @@ item:
     date_end: '2017-12-21'
     description: ''
 ---
+
+Ngetes.
