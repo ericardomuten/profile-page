@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Technical Research
-    company: Instrumentation, Control, and Decision Systems (ICoDeS) Lab, Bandung Institute of Technology
+    company: Bandung Institute of Technology
     company_url: 'https://www.ihi.co.jp/en/'
     company_logo: ihi-logo
     location: Bandung, Indonesia
