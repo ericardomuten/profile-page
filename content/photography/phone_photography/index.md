@@ -12,4 +12,3 @@ weight: 66
 title: Phone Photography
 subtitle:
 ---
-{{< gallery >}}
