@@ -45,7 +45,6 @@ education:
     - course: BSc in Engineering Physics (Cum Laude)
       institution: Bandung Institute of Technology
       year: 2021
-  courses:
     - course: AIMS Programme Exchange Student, Applied Physics
       institution: Tokyo University of Agriculture and Technology
       year: Sept 2018 - Jan 2019
