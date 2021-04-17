@@ -31,9 +31,11 @@ main:
     weight: 60
     identifier: 'accomplishments'
   - name: Achievements & Honors
+    url: '#accomplishments'
     weight: 61
     parent: 'accomplishments'
   - name: Summer Schools, Courses, Certifications
+    url: 'certifications/'
     weight: 62
     parent: 'accomplishments'
 
