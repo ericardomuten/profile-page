@@ -29,7 +29,8 @@ experience:
     location: Virtual
     date_start: '2020-08-01'
     date_end: ''
-    description: Taught first-year students of Bandung Institute of Technology fundamental physics. Prepared them for university exams, assessed and made practice problems. Materials covered: mechanics, fluid dynamics, thermodynamics, vibrations and waves, electrodynamics, propagation of sounds and lights, and modern physics.
+    description: |2-
+        Taught first-year students of Bandung Institute of Technology fundamental physics. Prepared them for university exams, assessed and made practice problems. Materials covered: mechanics, fluid dynamics, thermodynamics, vibrations and waves, electrodynamics, propagation of sounds and lights, and modern physics.
     
   - title: Teaching Assistant
     company: Bandung Institute of Technology
