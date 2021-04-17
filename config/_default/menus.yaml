@@ -5,7 +5,6 @@
 
 main:
   - name: Experience
-    url: '#experience_research'
     weight: 10
     identifier: 'experience'
   - name: Research Experience
@@ -29,8 +28,14 @@ main:
     url: '#posts'
     weight: 50
   - name: Accomplishments
-    url: 'certificates/'
     weight: 60
+    identifier: 'accomplishments'
+  - name: Achievements & Honors
+    weight: 61
+    parent: 'accomplishments'
+  - name: Summer Schools, Courses, Certifications
+    weight: 62
+    parent: 'accomplishments'
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
