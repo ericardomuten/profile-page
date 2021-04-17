@@ -34,12 +34,12 @@ social:
     label: Twitter
     link: https://twitter.com/eraraya_ricardo/
 organizations:
-  - name: Bandung Institute of Technology
-    url: https://www.itb.ac.id/
   - name: Quantum Technology Lab
     url: http://qlab.itb.ac.id/
-  - url: https://qiskit.org/advocates/
-    name: Qiskit Advocate
+  - name: Bandung Institute of Technology
+    url: https://www.itb.ac.id/
+  - name: Qiskit Advocate
+    url: https://qiskit.org/advocates/
 education:
   courses:
     - course: BSc in Engineering Physics (Cum Laude)
