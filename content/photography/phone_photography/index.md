@@ -12,7 +12,8 @@ weight: 10
 title: Phone Photography ext
 subtitle:
 
-external_link: "https://www.instagram.com/snap.dng/"
+tags:
+  - Photography
 
 ---
 {{< gallery album="phone_photography" >}}
