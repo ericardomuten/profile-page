@@ -22,14 +22,14 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Technical Research
-    company: Instrumentation, Control, and Decision Systems (ICoDeS) Lab, Bandung Institute of Technology
-    company_url: ''
-    company_logo: org-x
-    location: Bandung, Indonesia
-    date_start: '2019-09-01'
-    date_end: '2019-11-31'
-    description: Conducted research in utilizing Error‑state Kalman Filter as the state‑estimator and Diagonal Recurrent Neural Networks & LSTM to make the localization of an autonomous car more reliable.
+  - title: Summer Internship
+    company: R&D Department, IHI Corporation
+    company_url: 'https://www.ihi.co.jp/en/'
+    company_logo: ihi-logo
+    location: Yokohama, Japan
+    date_start: '2019-07-01'
+    date_end: '2019-08-31'
+    description: Developed reinforcement learning agents for solving classic control problems in the OpenAI Gym environment using the Deep Q‑Learning algorithm. The programs were then converted into microservices using the SRI Microservice Platform infrastructure for the company's AI platform.
     
   - title: Summer Internship
     company: R&D Department, IHI Corporation
