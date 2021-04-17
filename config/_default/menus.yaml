@@ -7,6 +7,11 @@ main:
   - name: Experience
     url: '#experience_research'
     weight: 10
+    identifier: 'experience'
+  - name: Research Experience
+    url: '#experience_research'
+    weight: 11
+    parent: 'experience'
   - name: Projects
     url: '#projects'
     weight: 20
