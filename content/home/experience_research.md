@@ -22,6 +22,15 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Technical Research
+    company: Instrumentation, Control, and Decision Systems (ICoDeS) Lab, Bandung Institute of Technology
+    company_url: 'https://translate.google.com/translate?sl=auto&tl=en&u=https%3A%2F%2Fik.fti.itb.ac.id%2Flab-icodes%2F'
+    company_logo: 
+    location: Bandung, Indonesia
+    date_start: '2019-09-01'
+    date_end: '2019-11-31'
+    description: Conducted research in utilizing Error‑state Kalman Filter as the state‑estimator and Diagonal Recurrent Neural Networks & LSTM to make the localization of an autonomous car more reliable.
+    
   - title: Summer Internship
     company: R&D Department, IHI Corporation
     company_url: 'https://www.ihi.co.jp/en/'
