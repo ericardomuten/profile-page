@@ -5,7 +5,7 @@
 
 title: Eraraya Ricardo Muten # Website name
 baseurl: '' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: '© {year} Eraraya Ricardo Muten' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
