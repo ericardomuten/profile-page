@@ -40,6 +40,14 @@ item:
   organization_url: https://www.ibm.com/quantum-computing/
   title: Qiskit Localization Contributor - Gold Level Translator - 2020
   url: ""
+- certificate_url: "https://www.credly.com/badges/63c7e088-b3ed-4147-bb80-997c372823e6?source=linked_in_profile"
+  date_end: ""
+  date_start: "2020-09-01"
+  description: "Through their contributions to the Qiskit and the quantum community, this individual has demonstrated an ability and commitment to educate and influence others by sharing ideas, knowledge and expertise in the field of quantum computing."
+  organization: IBM
+  organization_url: https://www.ibm.com/quantum-computing/
+  title: Qiskit Advocate
+  url: "https://qiskit.org/advocates/"
 
 design:
   columns: '2' 
