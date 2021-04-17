@@ -43,11 +43,11 @@ main:
   - name: Gallery
     url: 'photography/'
     weight: 70
-    identifier: 'gallery'
-  - name: Phone Photography
-    url: 'photography/'
-    weight: 71
-    parent: 'gallery'
+    #identifier: 'gallery'
+  #- name: Phone Photography
+    #url: 'photography/'
+    #weight: 71
+    #parent: 'gallery'
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
