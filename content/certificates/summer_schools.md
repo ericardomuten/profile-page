@@ -4,7 +4,7 @@ headless: true  # This file represents a page section.
 weight: 10
 
 # ... Put Your Section Options Here (title etc.) ...
-title: Courses
+title: Summer Schools
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -34,5 +34,5 @@ item:
     description: >-
       * Received a series of lectures and lab sessions in quantum computing from researchers at IBM.
       * Finished 9 quantum programming exercises using Qiskit.
-      * Finished the final project challenge on implementing Variational Quantum Eigensolver algorithm for calculating the ground state energy of the LiH molecule in less than 2 days. I mitigated the qubits and gates error by extrapolating the energy data points for several depths of the gate layer. You can access the result [here](https://qgssshowcase.squarespace.com/showcase-part-2/team-104-quantasean) (password: 2020student).
+      * Finished the final project challenge on implementing Variational Quantum Eigensolver algorithm for calculating the ground state energy of the LiH molecule in less than 2 days. I mitigated the qubits and gates error by extrapolating the energy data points for several depths of the gate layer. You can access the result [here](https://qgssshowcase.squarespace.com/showcase-part-2/team-104-quantasean) (password: 2020student). >-
 ---
