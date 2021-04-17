@@ -24,8 +24,8 @@ date_format: Jan 2006
 experience:
   - title: Technical Research
     company: Instrumentation, Control, and Decision Systems (ICoDeS) Lab, Bandung Institute of Technology
-    company_url: 'https://www.ihi.co.jp/en/'
-    company_logo: ihi-logo
+    company_url: 'https://translate.google.com/translate?sl=auto&tl=en&u=https%3A%2F%2Fik.fti.itb.ac.id%2Flab-icodes%2F'
+    company_logo: 
     location: Bandung, Indonesia
     date_start: '2019-09-01'
     date_end: '2019-11-25'
