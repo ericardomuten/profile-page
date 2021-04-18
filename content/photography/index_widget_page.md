@@ -5,3 +5,6 @@ type: "widget_page"  # Page type is a Widget Page
 headless: false
 
 ---
+<!---
+Issue: https://github.com/wowchemy/wowchemy-hugo-modules/issues/2245
+--->
