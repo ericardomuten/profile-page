@@ -23,7 +23,7 @@ menu_title = "#000"
   menu_primary = "#69306d"
   menu_text = "#fef9ff"
   menu_text_active = "#ad343e"
-  menu_title = "#000"
+  menu_title = "#fef9ff"
 
   # Backgrounds
   #background = "#000"
