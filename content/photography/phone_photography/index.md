@@ -28,8 +28,8 @@ design:
 
 gallery_item:
 - album: phone_photography
-  image: black_horizon.jpg
-  caption: Write your image caption here
+  image: "black_horizon.jpg"
+  caption: "Write your image caption here"
 
 ---
 {{< gallery album="phone_photography" >}}
