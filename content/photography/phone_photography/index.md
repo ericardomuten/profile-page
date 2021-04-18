@@ -20,6 +20,8 @@ design:
   columns: '1'
   background:
     color: '#292725'
+    # Text color (true=light, false=dark, or remove for the dynamic theme color). 
+    text_color_light: false
 
 ---
 {{< gallery album="phone_photography" >}}
