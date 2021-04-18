@@ -5,7 +5,7 @@ name = "Edo"
 is_light = false
 
 # Primary
-primary = "rgb(255, 0, 60)"
+primary = "f6bd4b"
 #primary_light =
 #primary_dark =
 
