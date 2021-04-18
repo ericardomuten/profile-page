@@ -15,6 +15,10 @@ menu_text = "#000"
 menu_text_active = "f6bd4b"
 menu_title = "#000"
 
+# Links
+link = "#f6bd4b"
+link_hover = "#f6bd4b"
+
 [dark]
   # Primary
   primary = "#f6bd4b"
