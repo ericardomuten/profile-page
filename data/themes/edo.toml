@@ -18,7 +18,7 @@ menu_title = "#000"
 # Backgrounds
 #background = "#000"
 home_section_odd = "#e9efff"
-home_section_even = "#d8f6ff"
+home_section_even = "#d8ebff"
 
 # Links
 link = "#e7a200"
