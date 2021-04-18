@@ -10,14 +10,14 @@ primary = "rgb(255, 0, 60)"
 #primary_dark =
 
 # Menu
-menu_primary = "#aaa1c8"
+menu_primary = "#d4c1ec"
 menu_text = "#000"
 menu_text_active = "rgb(255, 0, 60)"
 menu_title = "#000"
 
 [dark]
   # Menu
-  menu_primary = "#fcee0a"
+  menu_primary = "#aaa1c8"
   menu_text = "#000"
   menu_text_active = "#000"
   menu_title = "#000"
