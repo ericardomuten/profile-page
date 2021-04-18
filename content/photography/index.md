@@ -1,5 +1,5 @@
 ---
-title: Gallery
+title: Welcome to My Gallery 🧑‍📸
 summary: A page where I showcase images that I took/created.
 draft: false
 featured: false
@@ -29,20 +29,15 @@ design:
 
 
 ---
-# Welcome to My Gallery 🧑‍📸
-
 {{% callout note %}}
 Click on the image to see it full screen.
 {{% /callout %}}
-
 <br>
 <br>
-
 ## Phone Photography
 <br>
-<br>
 {{< gallery album="phone_photography/phone_photography" >}}
-
+<br>
 ## Computational Photography
-
+<br>
 {{< gallery album="computational_photography/computational_photography" >}}
