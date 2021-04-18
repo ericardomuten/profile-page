@@ -1,6 +1,6 @@
 ---
 role: <img align="center" width="5310" height="516"
-  src="http://www.sciweavers.org/upload/Tex2Img_1618743122/eqn.png"> <br>
+  src="https://raw.githubusercontent.com/eraraya-ricardo/profile-page/master/assets/media/qp_mle_img.png"> <br>
 avatar_filename: avatar.png
 bio: Qiskit Advocate | Qiskit Docs Indonesian Translation Lead | Quantum Tech.
   Lab at Bandung Institute of Technology
@@ -56,8 +56,9 @@ email: ""
 ---
 Eraraya Ricardo Muten (Edo) is an engineering physics undergraduate from Bandung Institute of Technology that has recently defended his thesis on quantum machine learning. He got to know quantum computing just about a year ago, but he catches up fast. He is the first Qiskit Advocate from his country (Indonesia) and currently leads the Indonesian Qiskit Docs translation team.
 
-Besides quantum, he is also a machine/deep learning enthusiast, with side hobbies in computational photography and image processing. He has done several deep learning research projects both in his country and in Japan. Check the [Gallery Page](https://eraraya-ricardo.me/photography/) or my [Gallery Instagram](https://www.instagram.com/snap.dng/) for images that I took/created.
+Besides quantum, he is also a machine/deep learning enthusiast, with side hobbies in computational photography and image processing. He has done several deep learning research projects both in his country and in Japan. Check the [Gallery](https://eraraya-ricardo.me/photography/) for images that I took/created.
 
 <!--
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+my [Gallery Instagram](https://www.instagram.com/snap.dng/)
 -->
