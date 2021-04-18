@@ -40,6 +40,24 @@ gallery_item:
 - album: phone_photography/phone_photography
   image: mirage_city.jpeg
   caption: Mirage City
+- album: phone_photography/phone_photography
+  image: monochrome_love.jpg
+  caption: Monochrome Love
+- album: phone_photography/phone_photography
+  image: quiet_warmth.jpeg
+  caption: Quiet Warmth
+- album: phone_photography/phone_photography
+  image: totem_bird.jpg
+  caption: Totem Bird
+- album: phone_photography/phone_photography
+  image: wheel_fortune.jpeg
+  caption: Wheel of Fortune
+- album: phone_photography/phone_photography
+  image: wrath_sea.jpeg
+  caption: Wrath of the Sea
+- album: computational_photography/computational_photography
+  image: comparison_full.jpg
+  caption: Left: Samsung's auto mode, Right: Resulting image from the implementation of [Nightmode algorithm](https://eraraya-ricardo.me/project/nightmode-photography-exposure-fusion/) (with the same hardware)
 
 ---
 {{% callout note %}}
