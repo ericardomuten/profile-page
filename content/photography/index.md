@@ -57,11 +57,11 @@ gallery_item:
   caption: Wrath of the Sea
 - album: computational_photography/computational_photography
   image: comparison_full.jpg
-  caption: Left&#58 Samsung's auto mode, Right&#58 Resulting image from the implementation of [Nightmode algorithm](https://eraraya-ricardo.me/project/nightmode-photography-exposure-fusion/) (with the same hardware)
+  caption: Left&#58 Samsung's auto mode, Right&#58 Resulting image from the implementation of <a href="https://eraraya-ricardo.me/project/nightmode-photography-exposure-fusion/" target="_blank">nightmode algorithm</a> (with the same hardware)
 
 ---
 {{% callout note %}}
-Click on the image to see it full screen. It may take time to load as all images here are full-size. Check out the Instagram [page](https://www.instagram.com/snap.dng/) instead for faster loading time.
+Click on the image to see it full screen. It may take time to load as all images here are full-size. Check out the Instagram <a href="https://www.instagram.com/snap.dng/" target="_blank">page</a> instead for faster loading time.
 {{% /callout %}}
 {{% callout warning %}}
 Beware if you use cellular data as the images here are in the range of several MBs.
