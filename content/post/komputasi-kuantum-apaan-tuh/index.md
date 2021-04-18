@@ -24,7 +24,7 @@ links:
   - url: https://medium.com/@erarayaricardo.m/sekilas-tentang-komputasi-kuantum-16a33cd4f86b
     icon_pack: fab
     icon: medium
-    name: Medium
+    name: Originally published on Medium
 ---
 
 Silahkan lanjutkan membaca di [Medium](https://medium.com/@erarayaricardo.m/sekilas-tentang-komputasi-kuantum-16a33cd4f86b).
