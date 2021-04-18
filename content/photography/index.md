@@ -44,6 +44,7 @@ Click on the image to see it full screen.
 <br>
 <br>
 ---
+
 ## Computational Photography
 <br>
 {{< gallery album="computational_photography/computational_photography" >}}
