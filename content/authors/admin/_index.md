@@ -1,6 +1,6 @@
 ---
 role: <img align="center" width="5310" height="516"
-  src="http://www.sciweavers.org/upload/Tex2Img_1618742345/eqn.png"> <br>
+  src="http://www.sciweavers.org/upload/Tex2Img_1618743122/eqn.png"> <br>
 avatar_filename: avatar.png
 bio: Qiskit Advocate | Qiskit Docs Indonesian Translation Lead | Quantum Tech.
   Lab at Bandung Institute of Technology
