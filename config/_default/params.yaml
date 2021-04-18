@@ -13,10 +13,10 @@ font_size: M
 # SEO
 
 site_type: Person
-local_business_type: ''
+local_business_type: 'ProfessionalService'
 org_name: ''
-description: ''
-twitter: ''
+description: 'Superposition of quantum physicist and machine learning engineer'
+twitter: 'eraraya_ricardo'
 
 # Contact (edit or remove options as required)
 
@@ -90,7 +90,7 @@ show_related:
 reading_time: true
 section_pager: false
 docs_section_pager: true
-sharing: true
+sharing: false
 copyright_license:
   enable: false
   allow_derivatives: false
