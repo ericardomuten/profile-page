@@ -31,11 +31,16 @@ design:
 ---
 # Welcome to My Gallery 🧑‍📸
 
+{{% callout note %}}
 Click on the image to see it full screen.
+{{% /callout %}}
+
+<br>
 <br>
 
 ## Phone Photography
-
+<br>
+<br>
 {{< gallery album="phone_photography/phone_photography" >}}
 
 ## Computational Photography
