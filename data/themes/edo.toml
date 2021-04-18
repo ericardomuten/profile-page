@@ -23,6 +23,6 @@ menu_title = "#000"
   menu_title = "#000"
 
   # Backgrounds
-  background = "#000"
-  home_section_odd = "#000"
+  #background = "#000"
+  home_section_odd = "#192a51"
   home_section_even = "#000"
