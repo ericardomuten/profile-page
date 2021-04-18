@@ -5,14 +5,14 @@ name = "Edo"
 is_light = false
 
 # Primary
-primary = "#fcb203"
+primary = "#e7a200"
 #primary_light =
 #primary_dark =
 
 # Menu
 menu_primary = "#d4c1ec"
 menu_text = "#000"
-menu_text_active = "#fcb203"
+menu_text_active = "#e7a200"
 menu_title = "#000"
 
 # Backgrounds
@@ -21,8 +21,8 @@ menu_title = "#000"
 #home_section_even = "#0E1037"
 
 # Links
-link = "#fcb203"
-link_hover = "#fcb203"
+link = "#e7a200"
+link_hover = "#e7a200"
 
 [dark]
   # Primary
