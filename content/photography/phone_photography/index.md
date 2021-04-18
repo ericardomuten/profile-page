@@ -12,6 +12,8 @@ weight: 10
 title: Phone Photography
 subtitle:
 
+view: 3
+
 tags:
   - Photography
 
