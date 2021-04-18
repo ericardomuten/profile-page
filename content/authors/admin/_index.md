@@ -2,7 +2,8 @@
 role: <img align="left" width="5310" height="516"
   src="http://www.sciweavers.org/download/Tex2Img_1618585702.png">
 avatar_filename: avatar.png
-bio: Qiskit Advocate | Qiskit Docs Indonesian Translation Lead | Quantum Tech. Lab at Bandung Institute of Technology
+bio: Qiskit Advocate | Qiskit Docs Indonesian Translation Lead | Quantum Tech.
+  Lab at Bandung Institute of Technology
 interests:
   - Quantum Machine Learning
   - Classical Machine/Deep Learning
@@ -10,25 +11,25 @@ interests:
   - Image Processing
 social:
   - display:
-      header: true
+      header: false
     link: mailto:erarayaricardo.m@students.itb.ac.id
     icon_pack: far
     icon: envelope
     label: Email
   - display:
-      header: true
+      header: false
     link: https://github.com/eraraya-ricardo/
     icon_pack: fab
     icon: github
     label: GitHub
   - display:
-      header: true
+      header: false
     link: https://www.linkedin.com/in/e-ricardo/
     icon_pack: fab
     icon: linkedin
     label: LinkedIn
   - display:
-      header: true
+      header: false
     icon_pack: fab
     icon: twitter
     label: Twitter
