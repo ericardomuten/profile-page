@@ -12,7 +12,7 @@ primary = "f6bd4b"
 # Menu
 menu_primary = "#d4c1ec"
 menu_text = "#000"
-menu_text_active = "rgb(255, 0, 60)"
+menu_text_active = "f6bd4b"
 menu_title = "#000"
 
 [dark]
