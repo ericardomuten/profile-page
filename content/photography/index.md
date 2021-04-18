@@ -27,19 +27,23 @@ design:
     # Text color (true=light, false=dark, or remove for the dynamic theme color). 
     text_color_light: true
 
+gallery_item:
+- album: phone_photography/phone_photography
+  image: black_horizon.jpg
+  caption: Write your image caption here
 
 ---
 {{% callout note %}}
 Click on the image to see it full screen.
 {{% /callout %}}
 <br>
-<br>
 
 ## Phone Photography
 <br>
 {{< gallery album="phone_photography/phone_photography" >}}
 <br>
-
+<br>
+---
 ## Computational Photography
 <br>
 {{< gallery album="computational_photography/computational_photography" >}}
