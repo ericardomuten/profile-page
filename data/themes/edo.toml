@@ -20,7 +20,7 @@ menu_title = "#000"
   primary = "#ad343e"
   
   # Menu
-  menu_primary = "#69306d"
+  menu_primary = "#54455D"
   menu_text = "#fef9ff"
   menu_text_active = "#ad343e"
   menu_title = "#fef9ff"
