@@ -34,7 +34,7 @@ links:
 tags:
   - Quantum Computing
 categories:
-  - Panel Discussion
+
 ---
 Subtopics Covered:
 
