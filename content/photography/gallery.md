@@ -27,4 +27,8 @@ design:
     padding: ["30px", "0", "0", "0"]
 
 ---
-Click on the image to see it full screen. I update the [Instagram Page](https://www.instagram.com/snap.dng/) more frequently than this Gallery. <br>
+Click on the image to see it full screen.
+#### Check out my gallery on Instagram [<img align="left" alt="instagram | Instagram" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.20.0/icons/instagram.svg" />][instagram]
+<br>
+
+[instagram]: https://www.instagram.com/snap.dng/
