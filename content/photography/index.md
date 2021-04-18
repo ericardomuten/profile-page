@@ -57,7 +57,7 @@ gallery_item:
   caption: Wrath of the Sea
 - album: computational_photography/computational_photography
   image: comparison_full.jpg
-  caption: Left&#58 Samsung's auto mode, Right&#58 Resulting image from the implementation of <a href="https://eraraya-ricardo.me/project/nightmode-photography-exposure-fusion/" target="_blank">nightmode algorithm</a> (with the same hardware)
+  caption: Left&#58; Samsung's auto mode, Right&#58; Resulting image from the implementation of <a href="https://eraraya-ricardo.me/project/nightmode-photography-exposure-fusion/" target="_blank">nightmode algorithm</a> (with the same hardware)
 
 ---
 {{% callout note %}}
