@@ -5,13 +5,15 @@ draft: false
 featured: false
 tags:
   - Photography
-  - Robotics
+  - Computational Photography
+
 external_link: ""
 links:
   - url: https://www.instagram.com/snap.dng/
     name: Check out my gallery on Instagram
     icon_pack: fab
     icon: instagram
+
 image:
   filename: featured.jpg
   focal_point: Smart
@@ -30,6 +32,12 @@ design:
 # Welcome to My Gallery 🧑‍📸
 
 Click on the image to see it full screen.
+<br>
 
 ## Phone Photography
+
 {{< gallery album="phone_photography/phone_photography" >}}
+
+## Computational Photography
+
+{{< gallery album="computational_photography/computational_photography" >}}
