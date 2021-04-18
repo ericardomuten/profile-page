@@ -34,7 +34,10 @@ gallery_item:
 
 ---
 {{% callout note %}}
-Click on the image to see it full screen.
+Click on the image to see it full screen. It may take time to load as all images here are full-size. Check out the Instagram [page](https://www.instagram.com/snap.dng/) instead for faster loading time.
+{{% /callout %}}
+{{% callout warning %}}
+Beware if you use cellular data as the images here are in the range of several MBs.
 {{% /callout %}}
 <br>
 
@@ -43,8 +46,11 @@ Click on the image to see it full screen.
 {{< gallery album="phone_photography/phone_photography" >}}
 <br>
 <br>
+
 ---
 
 ## Computational Photography
 <br>
 {{< gallery album="computational_photography/computational_photography" >}}
+<br>
+<br>
