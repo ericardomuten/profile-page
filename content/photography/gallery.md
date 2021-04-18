@@ -4,12 +4,12 @@
 widget: blank
 
 # This file represents a page section.
-headless: true
+headless: false
 
 # Order that this section appears on the page.
 weight: 1
 
-title: Gallery
+title: Gallery IG
 subtitle:
 
 tags:
@@ -22,5 +22,11 @@ design:
     color: '#292725'
     # Text color (true=light, false=dark, or remove for the dynamic theme color). 
     text_color_light: true
+
+links:
+  - icon_pack: fab
+    icon: twitter
+    name: Follow
+    url: 'https://twitter.com/Twitter'
 
 ---
