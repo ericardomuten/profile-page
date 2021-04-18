@@ -29,3 +29,7 @@ menu_title = "#000"
   #background = "#000"
   home_section_odd = "#0E1029"
   home_section_even = "#0E1037"
+  
+  # Links
+  link = "#f6bd4b"
+  link_hover = "#f6bd4b"
