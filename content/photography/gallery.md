@@ -27,4 +27,4 @@ design:
     padding: ["30px", "0", "0", "0"]
 
 ---
-Click on the image to see it full screen. <br>
+Click on the image to see it full screen. I update the [Instagram Page](https://www.instagram.com/snap.dng/) more frequently than this Gallery. <br>
