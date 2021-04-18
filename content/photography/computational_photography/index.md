@@ -24,7 +24,7 @@ design:
     text_color_light: true
   spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
-    padding: ["30px", "0", "30px", "0"]
+    padding: ["50px", "0", "50px", "0"]
 
 ---
 {{< gallery album="computational_photography" >}}
