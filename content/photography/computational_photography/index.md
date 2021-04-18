@@ -15,5 +15,9 @@ subtitle:
 tags:
   - Computational Photography
 
+design:
+  # Choose how many columns the section has. Valid values: '1' or '2'.
+  columns: '1'
+
 ---
 {{< gallery album="computational_photography" >}}
