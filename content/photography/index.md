@@ -30,7 +30,16 @@ design:
 gallery_item:
 - album: phone_photography/phone_photography
   image: black_horizon.jpg
-  caption: Write your image caption here
+  caption: Black Horizon
+- album: phone_photography/phone_photography
+  image: cloudy_structures.jpeg
+  caption: Cloudy Structures
+- album: phone_photography/phone_photography
+  image: distance_perception.jpeg
+  caption: Distance Perception
+- album: phone_photography/phone_photography
+  image: mirage_city.jpeg
+  caption: Mirage City
 
 ---
 {{% callout note %}}
@@ -48,6 +57,7 @@ Beware if you use cellular data as the images here are in the range of several M
 <br>
 
 ---
+<br>
 
 ## Computational Photography
 <br>
