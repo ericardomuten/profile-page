@@ -30,6 +30,6 @@ design:
 ## Welcome to My Gallery 🧑‍📸
 Click on the image to see it full screen.
 
-#### Check out my gallery on Instagram [<img align="center" alt="instagram | Instagram" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.20.0/icons/instagram.svg" />](https://www.instagram.com/snap.dng/)
+#### Check out my gallery on Instagram [<img align="center" alt="instagram | Instagram" width="50px" src="https://i.pinimg.com/originals/8a/77/05/8a770507298d728a1e3e039a0507dd8e.png" />](https://www.instagram.com/snap.dng/)
 <br>
 
