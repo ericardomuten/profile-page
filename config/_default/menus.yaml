@@ -40,7 +40,7 @@ main:
     url: 'certificates/'
     weight: 62
     parent: 'accomplishments'
-  - name: Gallery
+  - name: Gallery📸
     url: 'photography/'
     weight: 70
 
