@@ -17,12 +17,12 @@ menu_title = "#000"
 
 [dark]
   # Primary
-  primary = "#ad343e"
+  primary = "#f6bd4b"
   
   # Menu
   menu_primary = "#54455D"
   menu_text = "#fef9ff"
-  menu_text_active = "#ad343e"
+  menu_text_active = "#f6bd4b"
   menu_title = "#fef9ff"
 
   # Backgrounds
