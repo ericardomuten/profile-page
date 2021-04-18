@@ -26,10 +26,10 @@ design:
     # Customize the section spacing. Order is top, right, bottom, left.
     padding: ["0", "0", "0", "0"]
 
-[[gallery_item]]
-album = "phone_photography"
-image = "black_horizon.jpg"
-caption = "Default"
+gallery_item:
+  album = "phone_photography"
+  image = "black_horizon.jpg"
+  caption = "Default"
 
 ---
 {{< gallery album="phone_photography" >}}
