@@ -29,7 +29,7 @@ experience:
     location: Bandung, Indonesia
     date_start: '2020-08-01'
     date_end: '2021-03-01'
-    description: Advisors&#58 [Prof. Andriyan Bayu Suksmono M.T., Ph.D.](https://scholar.google.co.id/citations?user=IMH571IAAAAJ&hl=en) and [Ir. Nugraha, Ph.D.](https://scholar.google.co.id/citations?user=fym11QIAAAAJ&hl=id)<br>Designed variational quantum circuits that work similarly to convolution filters in CNN to classify images. The proposed architectures achieved higher testing accuracy compared to some previous related works. Click [here](https://github.com/eraraya-ricardo/quantum_image_classifier) for the project page.
+    description: Advisors&#58 [Prof. Andriyan Bayu Suksmono](https://scholar.google.co.id/citations?user=IMH571IAAAAJ&hl=en) and [Dr. Nugraha](https://scholar.google.co.id/citations?user=fym11QIAAAAJ&hl=id)<br>Designed variational quantum circuits that work similarly to convolution filters in CNN to classify images. The proposed architectures achieved higher testing accuracy compared to some previous related works. Click [here](https://github.com/eraraya-ricardo/quantum_image_classifier) for the project page.
     
   - title: AI Engineer Intern
     company: Nodeflux Teknologi Indonesia Inc.
@@ -47,7 +47,7 @@ experience:
     location: Bandung, Indonesia
     date_start: '2019-09-01'
     date_end: '2019-11-25'
-    description: Conducted research in utilizing Error‑state Kalman Filter as the state‑estimator and Diagonal Recurrent Neural Networks and LSTM to make the localization of an autonomous car more reliable.
+    description: Supervisor&#58 [Prof. Yul Yunazwin Nazaruddin](https://scholar.google.com/citations?user=Rve3vEYAAAAJ&hl=en)<br>Conducted research in utilizing Error‑state Kalman Filter as the state‑estimator and Diagonal Recurrent Neural Networks and LSTM to make the localization of an autonomous car more reliable.
     
   - title: Summer Intern
     company: R&D Department, IHI Corporation
@@ -65,7 +65,7 @@ experience:
     location: Tokyo, Japan
     date_start: '2018-10-01'
     date_end: '2018-12-01'
-    description: Did [research](https://eraraya-ricardo.me/project/learning-human-touch-interaction-with-convolutional-neural-networks/) in using Convolutional Neural Network to classify several types of touch interaction from humans by learning the data pattern from a force sensor attached to a robotic arm.
+    description: Supervisor&#58 [Prof. Gentiane Venture](https://scholar.google.com/citations?hl=en&user=RAOhaYYAAAAJ&view_op=list_works&sortby=pubdate)<br>Did [research](https://eraraya-ricardo.me/project/learning-human-touch-interaction-with-convolutional-neural-networks/) in using Convolutional Neural Network to classify several types of touch interaction from humans by learning the data pattern from a force sensor attached to a robotic arm.
 
 design:
   columns: '2'
