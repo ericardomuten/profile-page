@@ -29,7 +29,7 @@ experience:
     location: Bandung, Indonesia
     date_start: '2020-08-01'
     date_end: '2021-03-01'
-    description: Advisors&#58 [Prof. Andriyan Bayu Suksmono M.T., Ph.D.](https://scholar.google.co.id/citations?user=IMH571IAAAAJ&hl=en) and [Ir. Nugraha, Ph.D.](https://scholar.google.co.id/citations?user=fym11QIAAAAJ&hl=id) Designed variational quantum circuits that work similarly to convolution filters in CNN to classify images. The proposed architectures achieved higher testing accuracy compared to some previous related works. Click [here](https://github.com/eraraya-ricardo/quantum_image_classifier) for the project page.
+    description: Advisors&#58 [Prof. Andriyan Bayu Suksmono M.T., Ph.D.](https://scholar.google.co.id/citations?user=IMH571IAAAAJ&hl=en) and [Ir. Nugraha, Ph.D.](https://scholar.google.co.id/citations?user=fym11QIAAAAJ&hl=id)<br>Designed variational quantum circuits that work similarly to convolution filters in CNN to classify images. The proposed architectures achieved higher testing accuracy compared to some previous related works. Click [here](https://github.com/eraraya-ricardo/quantum_image_classifier) for the project page.
     
   - title: AI Engineer Intern
     company: Nodeflux Teknologi Indonesia Inc.
