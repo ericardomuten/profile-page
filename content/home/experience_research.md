@@ -29,7 +29,7 @@ experience:
     location: Online
     date_start: '2021-05-17'
     date_end: ''
-    description: Mentors&#58 [Prof. Sergei V. Gleyzer](http://sergeigleyzer.com/), [Dr. Emanuele Usai](https://orcid.org/0000-0001-9323-2107), [Raphael Koh](https://www.raphaelkoh.me/)<br>Researching the potential of Quantum Convolutional Neural Network in high-energy physics event classification. The official project page is [here](https://summerofcode.withgoogle.com/projects/#5612096894533632).
+    description: Mentors&#58 [Prof. Sergei V. Gleyzer](http://sergeigleyzer.com/), [Dr. Emanuele Usai](https://orcid.org/0000-0001-9323-2107), and [Raphael Koh](https://www.raphaelkoh.me/)<br>Researching the potential of Quantum Convolutional Neural Network in high-energy physics event classification. The official project page is [here](https://summerofcode.withgoogle.com/projects/#5612096894533632).
     
   - title: Qiskit Advocate Mentorship Program
     company: IBM Quantum
