@@ -17,7 +17,7 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with `>-`.
 item:
-  - organization: Munich Center for Quantum Science and Technology
+#  - organization: Munich Center for Quantum Science and Technology
     organization_url: 'https://www.mcqst.de/'
     title: MCQST Summer Student Program
     url: 'https://www.mcqst.de/support/summer-program/'
