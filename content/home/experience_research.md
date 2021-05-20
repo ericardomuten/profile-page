@@ -22,6 +22,15 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Student Developer
+    company: Google Summer of Code 2021, Machine Learning for Science (ML4Sci) Umbrella Organization
+    company_url: 'https://ml4sci.org/'
+    company_logo: nodeflux-logo
+    location: Online
+    date_start: '2021-05-17'
+    date_end: ''
+    description: Researching the potential of Quantum Convolutional Neural Network in high-energy physics event classification. The official project page is [here](https://summerofcode.withgoogle.com/projects/#5612096894533632).
+    
   - title: Undergraduate Thesis
     company: Quantum Technology Lab, Bandung Institute of Technology
     company_url: 'https://translate.google.com/translate?sl=auto&tl=en&u=http%3A%2F%2Fqlab.itb.ac.id%2F'
