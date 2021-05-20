@@ -18,13 +18,13 @@ date_format: Jan 2006
 #   Begin/end multi-line descriptions with `>-`.
 item:
 #  - organization: Munich Center for Quantum Science and Technology
-    organization_url: 'https://www.mcqst.de/'
-    title: MCQST Summer Student Program
-    url: 'https://www.mcqst.de/support/summer-program/'
-    certificate_url: ''
-    date_start: '2021-07-01'
-    date_end: ''
-    description: 'Sample.'
+#    organization_url: 'https://www.mcqst.de/'
+#    title: MCQST Summer Student Program
+#    url: 'https://www.mcqst.de/support/summer-program/'
+#    certificate_url: ''
+#    date_start: '2021-07-01'
+#    date_end: ''
+#    description: 'Sample.'
   - organization: UCL Quantum Science and Technology Institute
     organization_url: 'https://www.ucl.ac.uk/quantum/'
     title: UCLQ Quantum Tech Summer School
