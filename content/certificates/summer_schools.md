@@ -21,7 +21,7 @@ item:
     organization_url: 'https://www.ucl.ac.uk/quantum/'
     title: UCLQ Quantum Tech Summer School
     url: 'https://www.ucl.ac.uk/quantum/study-here/uclq-quantum-tech-summer-school'
-    certificate_url: ''
+    certificate_url: 'https://raw.githubusercontent.com/eraraya-ricardo/profile-page/master/assets/certificates/QTSS2020_Certificate_Muten.pdf'
     date_start: '2020-09-01'
     date_end: ''
     description: 'Received lectures from UCL Quantum Science and Technology Institute members, hands-on lab works using IBM Quantum Experience and D-Wave Leap platforms, and lab tours.'
