@@ -23,13 +23,22 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Student Developer
-    company: Google Summer of Code 2021, Machine Learning for Science (ML4Sci) Umbrella Organization
+    company: Google Summer of Code 2021, Machine Learning for Science (ML4Sci)
     company_url: 'https://ml4sci.org/'
     company_logo: gsoc-ml4sci-logo-transparent
     location: Online
     date_start: '2021-05-17'
     date_end: ''
     description: Researching the potential of Quantum Convolutional Neural Network in high-energy physics event classification. The official project page is [here](https://summerofcode.withgoogle.com/projects/#5612096894533632).
+    
+  - title: Qiskit Advocate Mentorship Program
+    company: IBM Quantum
+    company_url: 'https://www.ibm.com/quantum-computing/'
+    company_logo: ibm-black
+    location: Online
+    date_start: '2021-03-01'
+    date_end: ''
+    description: Currently working on the code implementation of the algorithm from the Data re-uploading for a universal quantum classifier by Pérez-Salinas, A. et al. and Quantum Graph Neural Networks by Verdon, G. et al. research papers in Qiskit framework under supervision of Anna Phan. This code will be presented as Qiskit Textbook on the Qiskit's website.
     
   - title: Undergraduate Thesis
     company: Quantum Technology Lab, Bandung Institute of Technology
