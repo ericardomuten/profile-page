@@ -25,7 +25,7 @@ experience:
   - title: Student Developer
     company: Google Summer of Code 2021, Machine Learning for Science (ML4Sci) Umbrella Organization
     company_url: 'https://ml4sci.org/'
-    company_logo: nodeflux-logo
+    company_logo: gsoc-ml4sci-logo
     location: Online
     date_start: '2021-05-17'
     date_end: ''
