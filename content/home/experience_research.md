@@ -22,15 +22,15 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CERN openlab Summer Student
-    company: CERN
-    company_url: 'https://openlab.cern/quantum'
-    company_logo: cern-vector-logo
-    location: Online
-    date_start: '2021-06-01'
-    date_end: ''
-    description: Supervisor&#58 [Dr. Sofia Vallecorsa](https://inspirehep.net/authors/1028732)<br>Sample.
-    
+#  - title: CERN openlab Summer Student
+#    company: CERN
+#    company_url: 'https://openlab.cern/quantum'
+#    company_logo: cern-vector-logo
+#    location: Online
+#    date_start: '2021-06-01'
+#    date_end: ''
+#    description: Supervisor&#58 [Dr. Sofia Vallecorsa](https://inspirehep.net/authors/1028732)<br>Sample.
+#    
   - title: Student Developer
     company: Google Summer of Code 2021, Machine Learning for Science (ML4Sci)
     company_url: 'https://ml4sci.org/'
