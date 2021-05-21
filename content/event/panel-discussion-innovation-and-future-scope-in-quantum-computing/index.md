@@ -13,7 +13,7 @@ location: Virtual
 date: 2021-04-04T10:00:47.460Z
 date_end: 2021-04-04T12:00:49.567Z
 all_day: false
-event: IEEE SIESGST EPSILON 2021 Symposium
+event: IEEE SIES GST EPSILON 2021 Symposium
 event_url: https://ieeesiesgst.co.in/epsilon.html#
 publishDate: 2021-04-16T17:44:52.361Z
 draft: false
@@ -39,5 +39,5 @@ categories:
 Subtopics Covered:
 
 * Quantum Computing using Microwaves
-* Innovations/ Applications using Quantum Computing
+* Innovations/Applications using Quantum Computing
 * Future scope of Quantum Computing
