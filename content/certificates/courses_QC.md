@@ -27,6 +27,14 @@ item:
     description: ''
   - organization: Coursera
     organization_url: 'https://www.coursera.org'
+    title: The Introduction to Quantum Computing
+    url: 'https://www.coursera.org/learn/quantum-computing-algorithms'
+    certificate_url: 'https://www.coursera.org/account/accomplishments/certificate/KAPS7PXKGMWC'
+    date_start: '2020-12-05'
+    date_end: ''
+    description: ''
+  - organization: Coursera
+    organization_url: 'https://www.coursera.org'
     title: Quantum Computing. Less Formulas - More Understanding
     url: 'https://www.coursera.org/learn/quantum-computing-lfmu?'
     certificate_url: 'https://www.coursera.org/account/accomplishments/certificate/FR5UAA2TY5BT'
