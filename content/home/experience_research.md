@@ -65,7 +65,7 @@ experience:
     location: Jakarta, Indonesia
     date_start: '2019-12-01'
     date_end: '2020-01-01'
-    description: Developed a real‑time face tracking and blemish removal algorithm to create a filter application for the webcam.
+    description: Supervisor&#58 [Iman Rahmansyah Tayibnapis](https://www.linkedin.com/in/iman-rahmansyah-tayibnapis-25032b176/)<br>Developed a real‑time face tracking and blemish removal algorithm to create a filter application for the webcam.
     
   - title: Technical Researcher
     company: Instrumentation, Control, and Decision Systems (ICoDeS) Lab, Bandung Institute of Technology
