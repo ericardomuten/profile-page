@@ -22,29 +22,29 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-#  - title: CERN openlab Summer Student
-#    company: CERN
-#    company_url: 'https://openlab.cern/quantum'
-#    company_logo: cern-vector-logo
-#    location: Online
-#    date_start: '2021-06-01'
-#    date_end: ''
-#    description: Supervisor&#58 [Dr. Sofia Vallecorsa](https://inspirehep.net/authors/1028732)<br>Sample.
-#    
+  - title: CERN openlab Summer Student
+    company: CERN
+    company_url: 'https://openlab.cern/quantum'
+    company_logo: cern-openlab-qti
+    location: Remote
+    date_start: '2021-06-01'
+    date_end: ''
+    description: Supervisor&#58 [Dr. Sofia Vallecorsa](https://inspirehep.net/authors/1028732)<br>Will be working on quantum machine learning research in high-energy physics applications with CERN's quantum team. The details of the project are still being discussed.
+    
   - title: Student Developer
     company: Google Summer of Code 2021, Machine Learning for Science (ML4Sci)
     company_url: 'https://ml4sci.org/'
     company_logo: gsoc-ml4sci-logo-transparent
-    location: Online
+    location: Remote
     date_start: '2021-05-17'
     date_end: ''
-    description: Mentors&#58 [Prof. Sergei V. Gleyzer](http://sergeigleyzer.com/), [Dr. Emanuele Usai](https://orcid.org/0000-0001-9323-2107), and [Raphael Koh](https://www.raphaelkoh.me/)<br>Researching the potential of Quantum Convolutional Neural Network in high-energy physics event classification. The official project page is [here](https://summerofcode.withgoogle.com/projects/#5612096894533632).
+    description: Mentors&#58 [Prof. Sergei V. Gleyzer](http://sergeigleyzer.com/), [Dr. Emanuele Usai](https://orcid.org/0000-0001-9323-2107), and [Raphael Koh](https://www.raphaelkoh.me/)<br>Currently researching the potential of Quantum Convolutional Neural Network in high-energy physics event classification. The official project page is [here](https://summerofcode.withgoogle.com/projects/#5612096894533632).
     
   - title: Qiskit Advocate Mentorship Program
     company: IBM Quantum
     company_url: 'https://www.ibm.com/quantum-computing/'
     company_logo: ibm-black
-    location: Online
+    location: Remote
     date_start: '2021-03-01'
     date_end: ''
     description: Mentor&#58 [Dr. Anna Phan](https://researcher.watson.ibm.com/researcher/view.php?person=au1-anna.phan)<br>Currently working on the code implementation of the algorithm from the Data re-uploading for a universal quantum classifier by Pérez-Salinas, A. et al. and Quantum Graph Neural Networks by Verdon, G. et al. research papers in Qiskit framework. This code will be presented as Qiskit Textbook on the Qiskit's website.
