@@ -25,7 +25,7 @@ experience:
   - title: CERN openlab Summer Student
     company: CERN
     company_url: 'https://openlab.cern/quantum'
-    company_logo: cern-openlab-qti
+    company_logo: cern-openlab-qti-nontransparent
     location: Remote
     date_start: '2021-06-01'
     date_end: ''
