@@ -1,8 +1,10 @@
 ---
 role: <img align="center" width="5310" height="516"
-  src="https://raw.githubusercontent.com/eraraya-ricardo/profile-page/master/assets/media/qp_mle_img.png"> <br>
+  src="https://raw.githubusercontent.com/eraraya-ricardo/profile-page/master/assets/media/qp_mle_img.png">
+  <br>
 avatar_filename: avatar.png
-bio: GSoC'21 @ML4Sci | Qiskit Advocate | Qiskit Docs Indonesian Translation Lead | Quantum Tech. Lab at ITB | Quantum and classical ML/NN enthusiast
+bio: GSoC'21 @ML4Sci | Qiskit Advocate | Qiskit Docs Indonesian Translation Lead
+  | Quantum Tech. Lab at ITB | Quantum and classical ML/NN enthusiast
 interests:
   - Quantum Machine Learning
   - Classical Machine/Deep Learning
@@ -17,6 +19,12 @@ social:
     label: Email
   - display:
       header: false
+    icon_pack: fab
+    icon: twitter
+    label: Twitter
+    link: https://twitter.com/eraraya_ricardo/
+  - display:
+      header: false
     link: https://github.com/eraraya-ricardo/
     icon_pack: fab
     icon: github
@@ -29,10 +37,10 @@ social:
     label: LinkedIn
   - display:
       header: false
-    icon_pack: fab
-    icon: twitter
-    label: Twitter
-    link: https://twitter.com/eraraya_ricardo/
+    icon_pack: ai
+    icon: cv
+    label: CV
+    link: https://raw.githubusercontent.com/eraraya-ricardo/profile-page/master/static/uploads/cv.pdf
 organizations:
   - name: Google Summer of Code 2021
     url: https://summerofcode.withgoogle.com/projects/#5612096894533632
