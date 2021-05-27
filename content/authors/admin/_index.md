@@ -43,7 +43,7 @@ organizations:
     url: https://qiskit.org/advocates/
 education:
   courses:
-    - course: BSc in Engineering Physics (Cum Laude)
+    - course: B.S. in Engineering Physics (Cum Laude)
       institution: Bandung Institute of Technology
       year: 2021
     - course: AIMS Programme Exchange Student, Applied Physics
