@@ -2,8 +2,7 @@
 role: <img align="center" width="5310" height="516"
   src="https://raw.githubusercontent.com/eraraya-ricardo/profile-page/master/assets/media/qp_mle_img.png"> <br>
 avatar_filename: avatar.png
-bio: Qiskit Advocate | Qiskit Docs Indonesian Translation Lead | Quantum Tech.
-  Lab at Bandung Institute of Technology
+bio: GSoC'21 @ML4Sci | Qiskit Advocate | Qiskit Docs Indonesian Translation Lead | Quantum Tech. Lab at ITB | Quantum and classical ML/NN enthusiast
 interests:
   - Quantum Machine Learning
   - Classical Machine/Deep Learning
@@ -35,12 +34,12 @@ social:
     label: Twitter
     link: https://twitter.com/eraraya_ricardo/
 organizations:
-  - name: Quantum Technology Lab
-    url: http://qlab.itb.ac.id/
-  - name: Bandung Institute of Technology
-    url: https://www.itb.ac.id/
+  - name: Google Summer of Code 2021
+    url: https://summerofcode.withgoogle.com/projects/#5612096894533632
   - name: Qiskit Advocate
     url: https://qiskit.org/advocates/
+  - name: Quantum Technology Lab, Bandung Institute of Technology
+    url: http://qlab.itb.ac.id/
 education:
   courses:
     - course: B.S. in Engineering Physics (Cum Laude)
