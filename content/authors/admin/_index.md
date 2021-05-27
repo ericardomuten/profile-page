@@ -24,7 +24,7 @@ social:
     label: GitHub
   - display:
       header: false
-    link: https://www.linkedin.com/in/e-ricardo/
+    link: https://www.linkedin.com/in/eraraya-ricardo/
     icon_pack: fab
     icon: linkedin
     label: LinkedIn
