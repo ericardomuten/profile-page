@@ -29,7 +29,7 @@ experience:
     location: Remote
     date_start: '2021-06-01'
     date_end: ''
-    description: Supervisor&#58 [Dr. Sofia Vallecorsa](https://inspirehep.net/authors/1028732)<br>Will be developing Quantum Generative Adversarial Network algorithms to simulate the $\text{t}\bar{\text{t}}\text{H}$ production processes in the LHC experiment.
+    description: Supervisor&#58 [Dr. Sofia Vallecorsa](https://inspirehep.net/authors/1028732)<br>Will be developing Quantum Generative Adversarial Network algorithms to simulate the $t\bar{t}H$ production processes in the LHC experiment.
     
   - title: Student Developer
     company: Google Summer of Code 2021, Machine Learning for Science (ML4Sci)
