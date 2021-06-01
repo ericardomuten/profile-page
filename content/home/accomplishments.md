@@ -36,7 +36,7 @@ item:
   date_end: ""
   date_start: "2021-04-13"
   description: "Founded an Indonesian localization team for IBM Qiskit Documentation to escalate the importance of quantum computation in Indonesia. We translate the documentation hoping that more people from Indonesia can engage and get interested in quantum computation."
-  organization: IBM
+  organization: IBM Quantum
   organization_url: https://www.ibm.com/quantum-computing/
   title: Qiskit Localization Contributor - Gold Level Translator - 2020
   url: ""
@@ -44,7 +44,7 @@ item:
   date_end: ""
   date_start: "2020-09-01"
   description: "Through their contributions to the Qiskit and the quantum community, this individual has demonstrated an ability and commitment to educate and influence others by sharing ideas, knowledge and expertise in the field of quantum computing."
-  organization: IBM
+  organization: IBM Quantum
   organization_url: https://www.ibm.com/quantum-computing/
   title: Qiskit Advocate
   url: "https://qiskit.org/advocates/"
