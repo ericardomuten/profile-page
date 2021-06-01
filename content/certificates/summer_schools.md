@@ -40,7 +40,6 @@ item:
     certificate_url: 'https://raw.githubusercontent.com/eraraya-ricardo/profile-page/master/assets/certificates/erarayaricardo.m_MutenEraraya%20Ricardo_QiskitGlobalSummerSchool_QuantumExcellenceCertificate.pdf'
     date_start: '2020-07-20'
     date_end: '2020-08-15'
-    logo: ibm-black
     description: |2-
     
         * Received a series of lectures and lab sessions in quantum computing from researchers at IBM.
