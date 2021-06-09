@@ -22,22 +22,22 @@ social:
     icon_pack: fab
     icon: twitter
     label: Twitter
-    link: twitter.com/eraraya_ricardo
+    link: https://twitter.com/eraraya_ricardo
   - display:
       header: false
-    link: github.com/eraraya-ricardo
+    link: https://github.com/eraraya-ricardo
     icon_pack: fab
     icon: github
     label: GitHub
   - display:
       header: false
-    link: linkedin.com/in/eraraya-ricardo
+    link: https://linkedin.com/in/eraraya-ricardo
     icon_pack: fab
     icon: linkedin
     label: LinkedIn
   - display:
       header: false
-    link: orcid.org/0000-0002-6224-7274
+    link: https://orcid.org/0000-0002-6224-7274
     icon_pack: ai
     icon: orcid
     label: ORCID
