@@ -76,7 +76,7 @@ experience:
     date_end: '2019-11-25'
     description: Supervisor&#58 [Prof. Yul Yunazwin Nazaruddin](https://scholar.google.com/citations?user=Rve3vEYAAAAJ&hl=en)<br>Conducted research in utilizing Error‑state Kalman Filter as the state‑estimator and Diagonal Recurrent Neural Networks and LSTM to make the localization of an autonomous car more reliable.
     
-  - title: Summer Intern
+  - title: Summer Research Intern
     company: R&D Department, IHI Corporation
     company_url: 'https://www.ihi.co.jp/en/'
     company_logo: ihi-logo
