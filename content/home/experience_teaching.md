@@ -28,7 +28,7 @@ experience:
     company_logo: tm1
     location: Virtual
     date_start: '2020-08-01'
-    date_end: ''
+    date_end: '2021-05-01'
     description: |2-
         Taught first-year students of Bandung Institute of Technology fundamental physics. Prepared them for university exams, assessed and made practice problems. Materials covered: mechanics, fluid dynamics, thermodynamics, vibrations and waves, electrodynamics, propagation of sounds and lights, and modern physics.
     
