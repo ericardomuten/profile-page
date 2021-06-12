@@ -26,7 +26,7 @@ experience:
     company: TamanSiswa
     company_url: 'https://taman-siswa.com/class/?code=taman-mahasiswa'
     company_logo: tm1
-    location: Virtual
+    location: Remote
     date_start: '2020-08-01'
     date_end: '2021-05-01'
     description: |2-
