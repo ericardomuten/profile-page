@@ -1,6 +1,6 @@
 ---
 title: Learning Human Touch Interaction with Convolutional Neural Networks
-date: 2019-01-20T09:30:51.589Z
+date: 2019-01-20
 summary: This project is the works done during my research internship at
   [Gentiane Venture's Laboratory](http://web.tuat.ac.jp/~gvlab/), Tokyo Univ. of
   Agriculture and Technology, Japan. The project is about using CNN to classify
