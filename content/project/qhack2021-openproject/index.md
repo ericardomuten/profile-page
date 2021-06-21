@@ -1,0 +1,55 @@
+---
+title: "Event Classification with Layerwise Learning for Data Re-uploading Classifier in High-Energy Physics"
+date: 2021-02-29T09:30:51.589Z
+summary: This project aims to use modified layerwise learning on data re-uploading classifier to classify events in HEP. The project won second place at Xanadu's QHack Quantum Machine Learning Open Hackathon 2021.
+draft: false
+featured: false
+tags:
+  - Quantum Machine Learning
+external_link: ""
+links:
+  - url: https://github.com/eraraya-ricardo/qhack-2021-openproject
+    name: GitHub
+    icon_pack: fab
+    icon: github
+image:
+  filename: featured.jpg
+  focal_point: Smart
+  preview_only: false
+---
+### Abstract
+
+This project aims to use the method of modified layerwise learning[8] on data re-uploading classifier[6], where parametrized quantum circuit will be used as quantum classifiers to classify the SUSY dataset[1]. We managed to produce a better result using this approach compared to the previous related research[2] with less number of qubit. We obtained AUC of 0.8488 on testing dataset with 5000 training and testing samples, trained and tested using a simulator. We also tested to run the circuit on Rigetti's Aspen-9 QPU provided by AWS using the already optimized parameter to predict 2000 samples of test dataset and we obtained AUC of 0.8298.
+
+
+### Acknowledgment 
+
+This work is submitted to the [QHack 2021](https://github.com/XanaduAI/QHack2021) organized by [Xanadu](https://www.xanadu.ai/). During the hackathon, we had the opportunity to learn and implement ideas in the field of QML. It was a pleasure to be part of this hackathon, and as a team, we would like to thank all the speakers for their valuable presentations and the Xanadu team for organizing an amazing event. Thanks to [Amazon Braket](https://aws.amazon.com/braket/), we received a total of $4250 in AWS credits to execute our code on real quantum hardware.
+
+### Competition Result
+
+**We got second place and won the tickets to the summer internship at CERN!!** 🎉🎉 You can read the official announcement from Xanadu here: <br>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@XanaduAI/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@XanaduAI/0" alt="Recent Article 0">
+[]()
+
+### QML Challenge Part
+
+For the QML Challenge Part, our solutions are [here](https://github.com/eraraya-ricardo/qhack-2021-solutions).
+  
+### References
+
+[1] [SUSY Dataset - UCI Machine Learning Repository.](https://archive.ics.uci.edu/ml/datasets/SUSY#)
+
+[2] [Event Classification with Quantum Machine Learning in High-Energy Physics.](https://arxiv.org/abs/2002.09935)
+
+[3] [Unfolding measurement distributions via quantum annealing.](https://link.springer.com/article/10.1007/JHEP11(2019)128)
+
+[4] [Quantum Computing in the NISQ era and beyond.](https://quantum-journal.org/papers/q-2018-08-06-79/#)
+
+[5] [Quantum Machine Learning in High Energy Physics.](https://arxiv.org/abs/2005.08582)
+
+[6] [Data re-uploading for a universal quantum classifier, Adrián Pérez-Salinas, Alba Cervera-Lierta, Elies Gil-Fuster, José I. Latorre.](https://arxiv.org/abs/1907.02085)
+
+[7] [PennyLane optimizers](https://pennylane.readthedocs.io/en/stable/introduction/optimizers.html)
+
+[8] [Layerwise learning for quantum neural networks, Andrea Skolik, Jarrod R. McClean, Masoud Mohseni, Patrick van der Smagt,  Martin Leib](https://arxiv.org/abs/2006.14904)
