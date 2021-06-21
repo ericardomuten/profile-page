@@ -27,6 +27,8 @@ content:
   filter_button:
   - name: All
     tag: '*'
+  - name: Quantum Machine Learning
+    tag: Quantum Machine Learning
   - name: Deep Learning
     tag: Deep Learning
   - name: Computational Photography
