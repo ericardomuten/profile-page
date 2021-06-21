@@ -1,7 +1,7 @@
 ---
 title: "Undergraduate Thesis: Quantum Image Classifier Design with Data Re-uploading Quantum Convolution and Data Re-uploading Classifier Scheme"
 date: 2021-02-08T09:30:51.589Z
-summary: This research proposed a modification scheme of the VQA-based Data Reuploading Classifier (DRC) for MNIST classification. A binary, four-class, and eight-class classification task reached 99.7%, 96.5%, and 86.25% of testing accuracy, respectively, using the Principal Component Analysis (PCA) for dimensionality reduction and Data Re-uploading Classifier with binary representation (DRC-BR) for classification. An improvement in accuracy compared to the previous related VQA works. This research also proposed a DRC-based quantum convolution scheme. Without using PCA, quantum convolution with DRC-BR classifier for binary and four-class classification task achieved 98.9% and 89.5% of testing accuracy, respectively. A respectable result compared to the classical Convolutional Neural Network with the same amount of parameters.
+summary: This research proposed a modification scheme of the VQA-based Data Reuploading Classifier (DRC) and a DRC-based quantum convolution scheme for MNIST classification. The proposals achieved an improvement in accuracy compared to the previous related works.
 draft: false
 featured: false
 tags:
