@@ -1,19 +1,14 @@
 ---
-title: Learning Human Touch Interaction with Convolutional Neural Networks
-date: 2019-01-20T09:30:51.589Z
-summary: This project is the works done during my research internship at
-  [Gentiane Venture's Laboratory](http://web.tuat.ac.jp/~gvlab/), Tokyo Univ. of
-  Agriculture and Technology, Japan. The project is about using CNN to classify
-  several types of touch interaction from humans by learning the data pattern
-  from a force sensor.
+title: "Undergraduate Thesis: Quantum Image Classifier Design with Data Re-uploading Quantum Convolution and Data Re-uploading Classifier Scheme"
+date: 2021-02-08T09:30:51.589Z
+summary: This project.
 draft: false
 featured: false
 tags:
-  - Deep Learning
-  - Robotics
+  - Quantum Machine Learning
 external_link: ""
 links:
-  - url: https://github.com/eraraya-ricardo/gvlab-research-internship
+  - url: https://github.com/eraraya-ricardo/quantum_image_classifier
     name: GitHub
     icon_pack: fab
     icon: github
@@ -22,29 +17,29 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-# Learning Human Touch Interaction with Convolutional Neural Networks
+# Undergraduate Thesis: Quantum Image Classifier Design with Data Re-uploading Quantum Convolution and Data Re-uploading Classifier Scheme
 
-A repository to save the works done during my research internship at [Gentiane Venture's Laboratory](http://web.tuat.ac.jp/~gvlab/), Tokyo Univ. of Agriculture and Technology, Japan.
+A repository for finishing my undergraduate thesis titled: <br>
+*Quantum Image Classifier Design with Data Re-uploading Quantum Convolution and Data Re-uploading Classifier Scheme*. <br>
+Advisors: [Prof. Andriyan Bayu Suksmono M.T., Ph.D.](https://scholar.google.co.id/citations?user=IMH571IAAAAJ&hl=en) and [Ir. Nugraha, Ph.D.](https://scholar.google.co.id/citations?user=fym11QIAAAAJ&hl=id)
 
-The research is about using Convolutional Neural Networks (CNN) to classify several types of touch interaction (poke, scratch, gentle stroke, hard press, and neutral) from humans by learning the data pattern from a force sensor. This sensor converts human touch into 3-dimensional force data.
+![DRQConv Diagram](https://github.com/eraraya-ricardo/quantum_image_classifier/blob/master/DRQConv%201%20diagram.png) <br>
+*A flow diagram of the Data Re-uploading Quantum Convolution scheme.*
 
-## The Data <br>
+### Abstract
+The need for computational power keeps increasing as industry and academia's problems get harder and harder to solve. Applications such as simulation of large quantum systems like molecules or solving large linear systems can be very expensive in computational cost. This has become one of the reasons for quantum computing development, a computational method that employs characteristics and theories of quantum systems for information processing. Quantum computers promise us exponential speed-up for these kinds of problems.
 
-* Acquired the data by using pySerial for every 0.02 second (50 fps). Ten people did every touch interaction 30 times to the sensor and recorded the data. <br>
-* Inferred a suitable threshold to differentiate positive signals from noise and an appropriate number of frames for one positive event (sample) from the data statistics. <br>
-* Preprocessed the data by interpolating every data sample into 40 frames and normalizing them to reduce the effect of zero-bias noise. <br>
-* The dataset is not being shared here since it is belong to the individuals in the lab. A process to cover the identity of the subjects to protect their privacy will be done soon and the dataset will then be released.
+Although quantum computers' development has been growing rapidly in recent years, the theoretical and technological challenges remain a barrier for a large-scale quantum computer. Quantum computers that exist today have severe limitations, such as limited qubits and limited gate operations due to noise in the processes. Variational Quantum Algorithms (VQA) have arisen to be one of the promising strategies in dealing with these limitations. Applications across the fields that employ this strategy have been proposed, including image classification as quantum machine learning applications.
 
-## The Model
-
-* Trained the CNN model with the data using the Keras framework in Python. Adam optimizer was used for the training with lr=1e-4. <br>
-* This is the model's architecture <br>
+This research proposed a modification scheme of the VQA-based Data Reuploading Classifier (DRC) for MNIST classification. A binary, four-class, and eight-class classification task reached 99.7%, 96.5%, and 86.25% of testing accuracy, respectively, using the Principal Component Analysis (PCA) for dimensionality reduction and Data Re-uploading Classifier with binary representation (DRC-BR) for classification. An improvement in accuracy compared to the previous related VQA works. This research also proposed a DRCbased quantum convolution scheme. Without using PCA, quantum convolution with DRC-BR classifier for binary and four-class classification task achieved 98.9% and 89.5% of testing accuracy, respectively. A respectable result compared to the classical Convolutional Neural Network with the same amount of parameters.
 
 
-  ![](architecture_plot.png)
+### Table of Contents
+**Note**: all contents here are written in Indonesian as required by the university. If you are non-Indonesian but interested in this research and would like to receive a summary in English, please feel free to contact me.
+- [Thesis Paper](https://github.com/eraraya-ricardo/quantum_image_classifier/blob/master/13316082_Tugas%20Akhir.pdf)
+- [Thesis Defense Presentation](https://github.com/eraraya-ricardo/quantum_image_classifier/blob/master/13316082_Presentasi%20Tugas%20Akhir.pdf)
+- [Thesis Poster](https://github.com/eraraya-ricardo/quantum_image_classifier/blob/master/13316082_Poster%20Tugas%20Akhir.pdf)
 
-# Real-time Testing
 
-* For real-time inference, applied a moving window algorithm to record the last 40 frames (1 window = 40 frames) of the normalized sensor's data every time the sensor sends a new force data. <br>
-* The CNN model then predicted the type of touch received by the sensor for every new window. <br>
-* The model reached **88% accuracy during real-time deployment**. <br>
+### Acknowledgment
+This thesis project is supported by grants from [Radio Telecommunication and Microwave Laboratory](https://et.stei.itb.ac.id/ltrgm/) under Prof. Andriyan's supervision. Starting from January 2021, this thesis project's affiliation changed to the [Quantum Technology Laboratory](http://qlab.itb.ac.id/index.html), a newly founded laboratory at Bandung Institute of Technology.
