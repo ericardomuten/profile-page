@@ -3,8 +3,7 @@ role: <img align="center" width="5310" height="516"
   src="https://raw.githubusercontent.com/eraraya-ricardo/profile-page/master/assets/media/qp_mle_img.png">
   <br>
 avatar_filename: avatar.png
-bio: GSoC'21 @ML4Sci | Qiskit Advocate | Qiskit Docs Indonesian Translation Lead
-  | Quantum Tech. Lab at ITB | Quantum and classical ML/NN enthusiast
+bio: GSoC'21 @ML4Sci | CERN Research Intern | Qiskit Advocate | Quantum and classical ML/NN enthusiast
 interests:
   - Quantum Machine Learning
   - Classical Machine/Deep Learning
