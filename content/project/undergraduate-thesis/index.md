@@ -1,6 +1,6 @@
 ---
 title: "Quantum Image Classifier Design with Data Re-uploading Quantum Convolution and Data Re-uploading Classifier Scheme"
-date: 2021-02-08T09:30:51.589Z
+date: 2021-02-08
 summary: Undergraduate Thesis Project.<br>This research proposed a modification scheme of the VQA-based Data Reuploading Classifier (DRC) and a DRC-based quantum convolution scheme for MNIST classification. The proposals achieved an improvement in accuracy compared to the previous related works.
 draft: false
 featured: false
