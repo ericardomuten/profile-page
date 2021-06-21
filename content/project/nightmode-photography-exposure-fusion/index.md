@@ -1,6 +1,6 @@
 ---
 title: "Nightmode Photography: Exposure Fusion"
-date: 2020-12-29T01:00:31.805Z
+date: 2020-12-29
 summary: Implementation of night mode photography algorithm utilizing histogram
   equalization, image registration, and Mertens exposure fusion.
 draft: false
