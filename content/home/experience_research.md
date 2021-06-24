@@ -88,7 +88,7 @@ experience:
   - title: Research Intern
     company: Gentiane Venture's Lab, Tokyo Univ. of Agriculture and Technology
     company_url: 'http://web.tuat.ac.jp/~gvlab/'
-    company_logo: gvlab
+    company_logo: gvlab-square
     location: Tokyo, Japan
     date_start: '2018-10-01'
     date_end: '2018-12-01'
