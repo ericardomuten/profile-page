@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 1
 
-title: <span>Hi! I'm Edo! <img align="top" alt="dnn" width="32px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"> 🇮🇩</span>
+title: <p>Hi! I'm Edo! <img align="top" alt="dnn" width="40px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"> 🇮🇩</p>
 
 # Choose the user profile to display
 # This should be the username (folder name) of a profile in your `content/authors/` folder.
