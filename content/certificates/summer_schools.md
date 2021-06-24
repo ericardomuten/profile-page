@@ -34,7 +34,6 @@ item:
     date_end: ''
     description: 'Received lectures from UCL Quantum Science and Technology Institute members, hands-on lab works using IBM Quantum Experience and D-Wave Leap platforms, and lab tours.'
   - organization: IBM Quantum
-    company_logo: ibm-quantum
     organization_url: 'https://www.ibm.com/quantum-computing/'
     title: Qiskit Global Summer School
     url: 'https://qiskit.org/events/summer-school/'
