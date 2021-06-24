@@ -61,7 +61,7 @@ experience:
   - title: AI Engineer Intern
     company: Nodeflux Teknologi Indonesia Inc.
     company_url: 'https://www.nodeflux.io/'
-    company_logo: nodeflux-logo
+    company_logo: nodeflux-logo-square
     location: Jakarta, Indonesia
     date_start: '2019-12-01'
     date_end: '2020-01-01'
