@@ -25,7 +25,7 @@ experience:
   - title: Physics Tutor
     company: TamanSiswa
     company_url: 'https://taman-siswa.com/class/?code=taman-mahasiswa'
-    company_logo: tm1
+    company_logo: tamansiswa-square
     location: Remote
     date_start: '2020-08-01'
     date_end: '2021-05-01'
@@ -51,7 +51,7 @@ experience:
   - title: Physics Olympiad Tutor
     company: Scientia Indonesia
     company_url: 'https://www.linkedin.com/company/scientia-indonesia/'
-    company_logo: scientia-indonesia
+    company_logo: scientia-indonesia-transparent
     location: Bandung
     date_start: '2016-09-01'
     date_end: '2018-07-01'
