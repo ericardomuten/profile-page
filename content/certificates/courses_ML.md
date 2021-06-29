@@ -19,6 +19,14 @@ date_format: Jan 2006
 item:
   - organization: Coursera
     organization_url: 'https://www.coursera.org'
+    title: Machine Learning
+    url: 'https://www.coursera.org/learn/machine-learning'
+    certificate_url: 'https://www.coursera.org/account/accomplishments/certificate/G5K2YXEWPQPD'
+    date_start: '2021-06-29'
+    date_end: ''
+    description: ''
+  - organization: Coursera
+    organization_url: 'https://www.coursera.org'
     title: Deep Learning Specialization
     url: 'https://www.coursera.org/specializations/deep-learning'
     certificate_url: 'https://www.coursera.org/account/accomplishments/specialization/certificate/PC5X3Y9PYFC2'
