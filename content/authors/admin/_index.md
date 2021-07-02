@@ -12,7 +12,7 @@ interests:
 social:
   - display:
       header: false
-    link: mailto:erarayaricardo.m@students.itb.ac.id
+    link: mailto:eraraya.ricardo19@gmail.com
     icon_pack: far
     icon: envelope
     label: Email
