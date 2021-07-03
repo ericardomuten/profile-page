@@ -12,7 +12,7 @@ interests:
 social:
   - display:
       header: false
-    link: mailto:eraraya.ricardo19@gmail.com
+    link: mailto:eraraya-ricardo@qlab.itb.ac.id
     icon_pack: far
     icon: envelope
     label: Email
