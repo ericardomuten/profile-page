@@ -6,9 +6,9 @@ avatar_filename: avatar.png
 bio: GSoC'21 @ML4Sci | CERN Research Intern | Qiskit Advocate | Quantum and classical ML/NN enthusiast
 interests:
   - Quantum Machine Learning
+  - Quantum Optimization
+  - Quantum Simulation
   - Classical Machine/Deep Learning
-  - Computational Photography
-  - Image Processing
 social:
   - display:
       header: false
