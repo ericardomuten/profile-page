@@ -46,8 +46,8 @@ experience:
     company_logo: ibm-quantum
     location: Remote
     date_start: '2021-03-01'
-    date_end: ''
-    description: Mentor&#58 [Dr. Anna Phan](https://researcher.watson.ibm.com/researcher/view.php?person=au1-anna.phan)<br>Working on the code implementation of the algorithm from the Data re-uploading for a universal quantum classifier by Pérez-Salinas, A. et al. and Quantum Graph Neural Networks by Verdon, G. et al. research papers in Qiskit framework. This code will be presented as Qiskit Textbook on the Qiskit's website.
+    date_end: '2021-06-01'
+    description: Mentor&#58 [Dr. Anna Phan](https://researcher.watson.ibm.com/researcher/view.php?person=au1-anna.phan)<br>Worked on the code implementation of the algorithm from the Data re-uploading for a universal quantum classifier by Pérez-Salinas, A. et al. and Quantum Graph Neural Networks by Verdon, G. et al. research papers in Qiskit framework. This code will be presented as Qiskit Textbook on the Qiskit's website.
     
   - title: Undergraduate Thesis
     company: Quantum Technology Lab, Bandung Institute of Technology
