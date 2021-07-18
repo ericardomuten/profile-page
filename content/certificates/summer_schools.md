@@ -17,14 +17,17 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with `>-`.
 item:
-#  - organization: Munich Center for Quantum Science and Technology
-#    organization_url: 'https://www.mcqst.de/'
-#    title: MCQST Summer Student Program
-#    url: 'https://www.mcqst.de/support/summer-program/'
-#    certificate_url: ''
-#    date_start: '2021-07-01'
-#    date_end: ''
-#    description: 'Sample.'
+  - organization: Munich Center for Quantum Science and Technology
+    organization_url: 'https://www.mcqst.de/'
+    title: MCQST Summer Student Program
+    url: 'https://www.mcqst.de/support/summer-program/'
+    certificate_url: ''
+    date_start: '2021-07-01'
+    date_end: ''
+    description: |2-
+    
+        * Delivered presentation on my recent [research project](https://github.com/eraraya-ricardo/GSoC-QCNN) in quantum machine learning at the MCQST Student Conference.
+        * Attended lectures and lab tours on Quantum Information Theory, Quantum Computing & Simulation, Quantum Hardware, Quantum Communication & Networks, Quantum Matter, Quantum Sensing & Metrology, and Academic Communication.
   - organization: UCL Quantum Science and Technology Institute
     organization_url: 'https://www.ucl.ac.uk/quantum/'
     title: UCLQ Quantum Tech Summer School
