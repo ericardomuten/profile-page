@@ -6,6 +6,7 @@ draft: false
 featured: false
 tags:
   - Quantum Machine Learning
+  - High-Energy Physics
 external_link: ""
 links:
   - url: https://github.com/eraraya-ricardo/qhack-2021-openproject
