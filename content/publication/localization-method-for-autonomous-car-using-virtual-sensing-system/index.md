@@ -18,8 +18,8 @@ author_notes:
   - Equal contribution
   - Equal contribution
 doi: 10.1109/ICEVT48285.2019.8993992
-publication: Institute of Electrical and Electronics Engineers
-publication_short: IEEE
+publication: 2019 6th International Conference on Electric Vehicular Technology, Institute of Electrical and Electronics Engineers
+publication_short: ICEVT 2019, IEEE
 abstract: The combination of the Inertial Measurement Unit (IMU) and Global
   Navigation Satellite System (GNSS) is widely used in the localization of
   autonomous cars. However, GNSS is highly dependent on external conditions and
