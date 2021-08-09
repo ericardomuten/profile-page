@@ -24,7 +24,7 @@ image:
   focal_point: Smart
   preview_only: false
 summary: Improving quantum machine learning performance on high-energy physics event classification.
-date: 2021-08-10
+date: 2021-08-09
 
 
 url_pdf: ''
