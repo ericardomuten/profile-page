@@ -21,7 +21,7 @@ item:
     organization_url: 'https://www.mcqst.de/'
     title: MCQST Summer Student Program
     url: 'https://www.mcqst.de/support/summer-program/'
-    certificate_url: ''
+    certificate_url: 'https://raw.githubusercontent.com/eraraya-ricardo/profile-page/master/assets/certificates/MCQST%20Summer%20Student%20Program_Eraraya%20Ricardo%20Muten.pdf'
     date_start: '2021-07-01'
     date_end: ''
     description: |2-
