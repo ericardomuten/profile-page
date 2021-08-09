@@ -11,12 +11,12 @@ authors:
   - Gilbert Tjahjono
   - Joshua A. Oktavianus
 author_notes:
-  - Supervisor.
-  - Equal contribution.
-  - Equal contribution.
-  - Equal contribution.
-  - Equal contribution.
-  - Equal contribution.
+  - Supervisor
+  - Equal contribution
+  - Equal contribution
+  - Equal contribution
+  - Equal contribution
+  - Equal contribution
 doi:
 publication: Society of Instrument and Control Engineers Annual Conference 2021, Institute of Electrical and Electronics Engineers
 publication_short: SICE 2021, IEEE
