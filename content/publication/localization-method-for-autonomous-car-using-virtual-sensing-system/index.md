@@ -11,12 +11,12 @@ authors:
   - Gilbert Tjahjono
   - Joshua A. Oktavianus
 author_notes:
-  - Supervisor.
-  - Equal contribution.
-  - Equal contribution.
-  - Presenter, Equal contribution.
-  - Equal contribution.
-  - Equal contribution.
+  - Supervisor
+  - Equal contribution
+  - Equal contribution
+  - Presenter, Equal contribution
+  - Equal contribution
+  - Equal contribution
 doi: 10.1109/ICEVT48285.2019.8993992
 publication: Institute of Electrical and Electronics Engineers
 publication_short: IEEE
