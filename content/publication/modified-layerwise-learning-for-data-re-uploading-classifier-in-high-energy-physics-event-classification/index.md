@@ -8,7 +8,7 @@ authors:
   - Togan T. Yusuf
   - Andrei V. Tomut
 author_notes:
-  - First author, Presenter.
+  - First author, Presenter
 doi:
 publication: IEEE International Conference on Quantum Computing and Engineering 2021, Institute of Electrical and Electronics Engineers
 publication_short: QCE 2021, IEEE
@@ -24,7 +24,7 @@ image:
   focal_point: Smart
   preview_only: false
 summary: Improving quantum machine learning performance on high-energy physics event classification.
-date: 2021-10-18
+date: 2021-08-10
 
 
 url_pdf: ''
