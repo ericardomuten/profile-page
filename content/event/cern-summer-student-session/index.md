@@ -1,12 +1,12 @@
 ---
 title: "Quantum Generative Adversarial Networks on ttH(bb) Process Data Generation"
 # abstract: I.
-summary: Presenting the progress of my research on Quantum Generative Adversarial Networks algorithm to simulate the $t\bar{t}H(b\bar{b})$ production processes in the LHC experiment.
+summary: Presenting the progress of my research on Quantum Generative Adversarial Networks algorithm to simulate the $t\bar{t}H(b\bar{b})$ production processes in the LHC experiment at the CERN Summer Student Session.
 location: Virtual
 date: 2021-08-10
 date_end: 2021-08-10
 all_day: false
-event: CERN Summer Student Session 2021
+event: 2021 CERN Summer Student Session
 event_url: https://indico.cern.ch/event/863980/
 publishDate: 2021-08-10
 draft: false
