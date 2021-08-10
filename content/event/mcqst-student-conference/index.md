@@ -25,10 +25,10 @@ date: 2021-07-16T13:00:00.000Z
 date_end: 2021-07-16T16:30:00.000Z
 all_day: false
 links:
-  - url: https://www.mcqst.de/support/summer-bachelor-program/
+<!--   - url: https://www.mcqst.de/support/summer-bachelor-program/
     icon_pack: fas
     icon: globe
-    name: Website
+    name: Website -->
   - icon: github
     icon_pack: fab
     name: GitHub
