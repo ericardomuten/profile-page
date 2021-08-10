@@ -8,7 +8,7 @@ date_end: 2021-07-16
 all_day: false
 event: Munich Center for Quantum Science and Technology Student Conference
 event_url: https://www.mcqst.de/support/summer-bachelor-program/
-publishDate: 2021-08-11
+publishDate: 2021-08-10
 draft: false
 featured: false
 image:
