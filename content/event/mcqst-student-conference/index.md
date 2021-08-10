@@ -33,7 +33,7 @@ links:
     icon_pack: fab
     name: GitHub
     url: https://github.com/eraraya-ricardo/GSoC-QCNN
-  - icon_pack: fas
+  - icon_pack: far
     name: Slides
     icon: presentation
     url: https://raw.githubusercontent.com/eraraya-ricardo/profile-page/master/content/event/mcqst-student-conference/MCQST%20Student%20Conference%20Presentation.pdf
