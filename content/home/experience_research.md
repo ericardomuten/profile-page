@@ -67,7 +67,7 @@ experience:
     date_end: '2020-01-01'
     description: Supervisor&#58 [Iman Rahmansyah Tayibnapis](https://www.linkedin.com/in/iman-rahmansyah-tayibnapis-25032b176/)<br>Developed a real‑time face tracking and blemish removal algorithm to create a webcam filter application.
     
-  - title: Technical Researcher
+  - title: Undergraduate Technical Researcher
     company: Instrumentation, Control, and Decision Systems (ICoDeS) Lab, Bandung Institute of Technology
     company_url: 'https://translate.google.com/translate?sl=auto&tl=en&u=https%3A%2F%2Fik.fti.itb.ac.id%2Flab-icodes%2F'
     company_logo: 
