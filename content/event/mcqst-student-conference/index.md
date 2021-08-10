@@ -33,10 +33,10 @@ links:
     icon_pack: fab
     name: GitHub
     url: https://github.com/eraraya-ricardo/GSoC-QCNN
-  - icon_pack: far
+  - url: https://raw.githubusercontent.com/eraraya-ricardo/profile-page/master/content/event/mcqst-student-conference/MCQST%20Student%20Conference%20Presentation.pdf
+    icon_pack: fas
+    icon: file-powerpoint
     name: Slides
-    icon: presentation
-    url: https://raw.githubusercontent.com/eraraya-ricardo/profile-page/master/content/event/mcqst-student-conference/MCQST%20Student%20Conference%20Presentation.pdf
 event: 2021 Munich Center for Quantum Science and Technology Student Conference
 event_url: https://www.mcqst.de/support/summer-bachelor-program/
 publishDate: 2021-08-10
