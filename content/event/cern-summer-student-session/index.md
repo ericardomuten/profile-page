@@ -1,5 +1,5 @@
 ---
-title: "Quantum Generative Adversarial Networks on *ttH(bb)* Process Data Generation"
+title: "Quantum Generative Adversarial Networks on <i>ttH(bb)</i> Process Data Generation"
 abstract: I.
 summary: A.
 location: Virtual
