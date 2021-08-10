@@ -24,8 +24,8 @@ image:
   preview_only: false
 links:
   - url: https://ieeesiesgst.co.in/Epsilon_Speaker.html
-    icon_pack: fab
-    icon: website
+    icon_pack: fas
+    icon: globe
     name: Website
   - icon: youtube
     icon_pack: fab
