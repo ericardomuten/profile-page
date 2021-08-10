@@ -1,7 +1,7 @@
 ---
-title: "Quantum Generative Adversarial Networks on $t$$\bar{t}$$H(b\bar{b})$ Process Data Generation"
+title: "Quantum Generative Adversarial Networks on ttH(bb) Process Data Generation"
 abstract: I.
-summary: A.
+summary: Presenting the progress of my research on Quantum Generative Adversarial Networks algorithm to simulate the $t\bar{t}H(b\bar{b})$ production processes in the LHC experiment.
 location: Virtual
 date: 2021-08-10
 date_end: 2021-08-10
