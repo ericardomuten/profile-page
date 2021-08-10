@@ -21,8 +21,8 @@ summary: Presenting the progress of my work on Quantum Convolutional Neural
 title: Quantum Convolutional Neural Networks for High-Energy Physics Analysis at
   the LHC
 location: Virtual
-date: 2021-07-16T06:00:00.000Z
-date_end: 2021-07-16T09:30:00.000Z
+date: 2021-07-16T13:00:00.000Z
+date_end: 2021-07-16T16:30:00.000Z
 all_day: false
 links:
   - url: https://www.mcqst.de/support/summer-bachelor-program/
