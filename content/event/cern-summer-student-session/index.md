@@ -1,5 +1,5 @@
 ---
-title: "Quantum Generative Adversarial Networks<br>on <img align="top" height="35px" src="https://render.githubusercontent.com/render/math?math=t\overline{t}H(b\overline{b})"> Process Data Generation"
+title: "Quantum Generative Adversarial Networks on <img align="top" height="35px" src="https://render.githubusercontent.com/render/math?math=t\overline{t}H(b\overline{b})"> Process Data Generation"
 abstract: I.
 summary: A.
 location: Virtual
