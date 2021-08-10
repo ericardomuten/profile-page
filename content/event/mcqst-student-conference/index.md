@@ -26,14 +26,14 @@ date_end: 2021-07-16T16:30:00.000Z
 all_day: false
 links:
   - url: https://www.mcqst.de/support/summer-bachelor-program/
-    icon_pack: far
+    icon_pack: fas
     icon: globe
     name: Website
   - icon: github
     icon_pack: fab
     name: GitHub
     url: https://github.com/eraraya-ricardo/GSoC-QCNN
-  - icon_pack: far
+  - icon_pack: fas
     name: Slides
     icon: presentation
     url: https://raw.githubusercontent.com/eraraya-ricardo/profile-page/master/content/event/mcqst-student-conference/MCQST%20Student%20Conference%20Presentation.pdf
