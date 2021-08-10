@@ -20,7 +20,7 @@ links:
     icon_pack: fab
     name: GitHub
     url: https://github.com/eraraya-ricardo/CERN-QGAN
-  - url: https://raw.githubusercontent.com/eraraya-ricardo/CERN-QGAN/main/slides/Student%20Session%20Presentation%20-%20Quantum%20Generative%20Adversarial%20Networks%20on%20ttH(bb)%20Process%20Data%20Generation.pdf
+  - url: https://raw.githubusercontent.com/eraraya-ricardo/profile-page/master/content/event/cern-summer-student-session/Student%20Session%20Presentation%20-%20Quantum%20Generative%20Adversarial%20Networks%20on%20ttH(bb)%20Process%20Data%20Generation.pdf
     icon_pack: fas
     icon: file-powerpoint
     name: Slides
