@@ -66,7 +66,7 @@ highlight_name: false
 title: Eraraya Ricardo Muten
 email: ""
 ---
-Eraraya Ricardo Muten (Edo) is a bachelor of science that recently had defended his thesis on quantum machine learning.  He got to know quantum computing just about a year ago, but he catches up fast. Currently, he is working on quantum machine learning projects with CERN, ML4Sci, and IBM Quantum. He is the first Qiskit Advocate from his country (Indonesia) and leads the Indonesian Qiskit Docs translation team.
+Eraraya Ricardo Muten (Edo) is a bachelor of science that recently had defended his thesis on quantum machine learning.  He got to know quantum computing just about a year ago, but he catches up fast. Currently, he is working on quantum machine learning projects with CERN and ML4Sci. He is the first Qiskit Advocate from his country (Indonesia) and leads the Indonesian Qiskit Docs translation team.
 
 Besides quantum, he is also a machine/deep learning enthusiast, with side hobbies in computational photography and image processing. He has done several deep learning research projects both in his country and in Japan. Check the [Gallery](/photography/) for images that I took/created.
 
