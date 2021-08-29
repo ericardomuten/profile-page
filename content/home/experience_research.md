@@ -49,10 +49,10 @@ experience:
     date_end: '2021-06-01'
     description: Mentor&#58 [Dr. Anna Phan](https://researcher.watson.ibm.com/researcher/view.php?person=au1-anna.phan)<br>Worked on the code implementation of the algorithm from the Data re-uploading for a universal quantum classifier by Pérez-Salinas, A. et al. and Quantum Graph Neural Networks by Verdon, G. et al. research papers in Qiskit framework. This code will be presented as Qiskit Textbook on the Qiskit's website.
     
-  - title: Undergraduate Thesis
+  - title: Undergraduate Thesis Student
     company: Quantum Technology Lab, Bandung Institute of Technology
     company_url: 'https://translate.google.com/translate?sl=auto&tl=en&u=http%3A%2F%2Fqlab.itb.ac.id%2F'
-    company_logo: 
+    company_logo: itb-logo
     location: Bandung, Indonesia
     date_start: '2020-08-01'
     date_end: '2021-03-01'
@@ -70,7 +70,7 @@ experience:
   - title: Undergraduate Technical Researcher
     company: Instrumentation, Control, and Decision Systems (ICoDeS) Lab, Bandung Institute of Technology
     company_url: 'https://translate.google.com/translate?sl=auto&tl=en&u=https%3A%2F%2Fik.fti.itb.ac.id%2Flab-icodes%2F'
-    company_logo: 
+    company_logo: itb-logo
     location: Bandung, Indonesia
     date_start: '2019-09-01'
     date_end: '2019-11-25'
