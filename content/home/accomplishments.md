@@ -52,8 +52,8 @@ item:
   date_end: ""
   date_start: "2019-02-01"
   description: "Nominated as the Most Outstanding Student of Engineering Physics in 2019 by the Rector of Bandung Institute of Technology for excellence in academic and non-academic activities."
-  organization: Engineering Physics Department, Bandung Institute of Technology
-  organization_url: https://tf.itb.ac.id/en/
+  organization: Bandung Institute of Technology
+  organization_url: https://www.itb.ac.id/
   title: Most Outstanding Student of Engineering Physics Department
   url: ""
 
