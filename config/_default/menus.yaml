@@ -25,21 +25,21 @@ main:
   - name: Talks
     url: '#talks'
     weight: 40
-  - name: Posts
-    url: '#posts'
-    weight: 50
   - name: Accomplishments
     url: '#accomplishments'
-    weight: 60
+    weight: 50
     identifier: 'accomplishments'
   - name: Achievements & Honors
     url: '#accomplishments'
-    weight: 61
+    weight: 51
     parent: 'accomplishments'
   - name: Summer Schools, Courses, Certifications
     url: 'certificates/'
-    weight: 62
+    weight: 52
     parent: 'accomplishments'
+  - name: Posts
+    url: '#posts'
+    weight: 60
   - name: Gallery📸
     url: 'photography/'
     weight: 70
