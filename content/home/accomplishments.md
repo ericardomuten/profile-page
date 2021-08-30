@@ -38,12 +38,12 @@ item:
   description: "• Founded an Indonesian localization team for IBM Qiskit Documentation to escalate the importance of quantum computation in Indonesia. We translate the documentation hoping that more people from Indonesia can engage and get interested in quantum computation.<br>• Translated more than 15000 words."
   organization: IBM Quantum
   organization_url: https://www.ibm.com/quantum-computing/
-  title: Qiskit Localization Contributor - Gold Level Translator - 2020
+  title: Qiskit Localization Contributor - Gold Level Translator
   url: ""
 - certificate_url: "https://www.credly.com/badges/63c7e088-b3ed-4147-bb80-997c372823e6?source=linked_in_profile"
   date_end: ""
   date_start: "2020-09-01"
-  description: "• Made more than three open-source contributions with Qiskit.<br>• Passed the Qiskit Advocate Test."
+  description: "• Made more than three open-source contributions with Qiskit.<br>• Passed the Qiskit Advocate test and interview."
   organization: IBM Quantum
   organization_url: https://www.ibm.com/quantum-computing/
   title: Qiskit Advocate
