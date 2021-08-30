@@ -51,11 +51,11 @@ organizations:
     url: https://summerofcode.withgoogle.com/projects/#5612096894533632
   - name: Qiskit Advocate
     url: https://qiskit.org/advocates/
-  - name: Quantum Technology Lab, Bandung Institute of Technology
+  - name: Quantum Technology Lab<br>Bandung Institute of Technology
     url: http://qlab.itb.ac.id/
 education:
   courses:
-    - course: B.S. in Engineering Physics (Cum Laude)
+    - course: B.S. in Engineering Physics (First Class Honours)
       institution: Bandung Institute of Technology
       year: 2021
     - course: AIMS Programme Exchange Student, Applied Physics
