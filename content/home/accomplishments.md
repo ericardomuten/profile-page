@@ -27,11 +27,11 @@ item:
 - certificate_url: ""
   date_end: ""
   date_start: "2021-02-17"
-  description: "Proposed to use modified layerwise learning on data re-uploading classifier to classify events in high-energy physics. Obtained better AUC than previous work. Click [here](https://github.com/eraraya-ricardo/qhack-2021-openproject) for the project page."
+  description: "Proposed to use modified layerwise learning on data re-uploading classifier to classify events in high-energy physics. Obtained better AUC than previous work. Click [here](https://github.com/eraraya-ricardo/qhack-2021-openproject) for the project page. Official announcement: click [here](https://medium.com/xanaduai/qhack-the-quantum-machine-learning-hackathon-7f2cd7348e2b)."
   organization: Xanadu Quantum Technologies
   organization_url: https://www.xanadu.ai/
-  title: Runner-up QHack Quantum Machine Learning Open Hackathon 2021
-  url: "https://medium.com/xanaduai/qhack-the-quantum-machine-learning-hackathon-7f2cd7348e2b"
+  title: Runner-up on 2021 QHack Quantum Machine Learning Open Hackathon
+  url: "https://qhack.ai/"
 - certificate_url: "https://www.credly.com/badges/1e93584a-5b7a-4acd-b847-55a134acfebb?source=linked_in_profile"
   date_end: ""
   date_start: "2021-04-13"
@@ -43,7 +43,7 @@ item:
 - certificate_url: "https://www.credly.com/badges/63c7e088-b3ed-4147-bb80-997c372823e6?source=linked_in_profile"
   date_end: ""
   date_start: "2020-09-01"
-  description: "Through their contributions to the Qiskit and the quantum community, this individual has demonstrated an ability and commitment to educate and influence others by sharing ideas, knowledge and expertise in the field of quantum computing."
+  description: "• Made more than three open-source contributions with Qiskit.<br>• Passed the Qiskit Advocate Test."
   organization: IBM Quantum
   organization_url: https://www.ibm.com/quantum-computing/
   title: Qiskit Advocate
