@@ -6,7 +6,7 @@
 # Appearance
 
 theme: edo
-day_night: true
+day_night: false
 font: 'edo'
 font_size: M
 
