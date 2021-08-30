@@ -51,7 +51,7 @@ organizations:
     url: https://summerofcode.withgoogle.com/projects/#5612096894533632
   - name: Qiskit Advocate
     url: https://qiskit.org/advocates/
-  - name: Quantum Technology Lab<br>Bandung Institute of Technology
+  - name: ITB Quantum Technology Lab
     url: http://qlab.itb.ac.id/
 education:
   courses:
