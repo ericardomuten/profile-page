@@ -24,10 +24,10 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: ""
+- certificate_url: "https://raw.githubusercontent.com/eraraya-ricardo/profile-page/master/assets/certificates/QHack%20Winners%20Entangled_Nets.pdf"
   date_end: ""
   date_start: "2021-02-17"
-  description: "Proposed to use modified layerwise learning on data re-uploading classifier to classify events in high-energy physics. Obtained better AUC than previous work. Click [here](https://github.com/eraraya-ricardo/qhack-2021-openproject) for the project page. Official announcement: click [here](https://medium.com/xanaduai/qhack-the-quantum-machine-learning-hackathon-7f2cd7348e2b)."
+  description: "Proposed to use modified layerwise learning on data re-uploading classifier to classify events in high-energy physics. Obtained better AUC than previous work. Click [here](https://github.com/eraraya-ricardo/qhack-2021-openproject) for the project page and [here](https://medium.com/xanaduai/qhack-the-quantum-machine-learning-hackathon-7f2cd7348e2b) for the official announcement."
   organization: Xanadu Quantum Technologies
   organization_url: https://www.xanadu.ai/
   title: Runner-up on 2021 QHack Quantum Machine Learning Open Hackathon
@@ -55,6 +55,14 @@ item:
   organization: Bandung Institute of Technology
   organization_url: https://www.itb.ac.id/
   title: Most Outstanding Student of Engineering Physics Department
+  url: ""
+- certificate_url: "https://raw.githubusercontent.com/eraraya-ricardo/profile-page/master/assets/certificates/Sertifikat%20LKTI%20ParTam%20UNSRI.pdf"
+  date_end: ""
+  date_start: "2018-04-01"
+  description: "• Paper title: "Sustainable Development of Machine Learning-based Supply Chain System"<br>• Proposed a machine learning algorithm to solve supply chain problems in Indonesia to decrease unemployment and poverty."
+  organization: Sriwijaya University
+  organization_url: https://www.unsri.ac.id/
+  title: National Scientific Research Paper Competition for University Students
   url: ""
 
 design:
