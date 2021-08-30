@@ -113,7 +113,8 @@ breadcrumb:
   page_types:
     book: true
 comments:
-  provider: ''
+  # Choose a provider: disqus, commento, or '' to disable commenting
+  provider: 'disqus'
   commentable:
     post: true
     book: true
@@ -121,7 +122,9 @@ comments:
     publication: true
     event: true
   disqus:
-    shortname: ''
+    # Paste the shortname from your Disqus dashboard.
+    shortname: 'eraraya-ricardo'
+    # Show comment count in page header? (true/false)
     show_count: true
   commento:
     url: ''
