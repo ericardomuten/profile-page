@@ -62,7 +62,7 @@ item:
   description: "• Paper title: Sustainable Development of Machine Learning-based Supply Chain System<br>• Proposed a machine learning algorithm to solve supply chain problems in Indonesia to decrease unemployment and poverty."
   organization: Sriwijaya University
   organization_url: https://www.unsri.ac.id/
-  title: National Scientific Research Paper Competition for University Students
+  title: 1st Place on National Scientific Research Paper Competition for University Students
   url: ""
 
 design:
