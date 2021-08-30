@@ -12,6 +12,10 @@ weight: 120
 title: Popular Topics
 subtitle: ''
 
+design:
+  # Choose how many columns the section has. Valid values: '1' or '2'.
+  columns: '1'
+
 content:
 # Choose the taxonomy from `config.toml` to display (e.g. tags, categories)
   taxonomy: tags
