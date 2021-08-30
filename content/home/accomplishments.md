@@ -59,7 +59,7 @@ item:
 - certificate_url: "https://raw.githubusercontent.com/eraraya-ricardo/profile-page/master/assets/certificates/Sertifikat%20LKTI%20ParTam%20UNSRI.pdf"
   date_end: ""
   date_start: "2018-04-01"
-  description: "• Paper title: "Sustainable Development of Machine Learning-based Supply Chain System"<br>• Proposed a machine learning algorithm to solve supply chain problems in Indonesia to decrease unemployment and poverty."
+  description: "• Paper title: Sustainable Development of Machine Learning-based Supply Chain System<br>• Proposed a machine learning algorithm to solve supply chain problems in Indonesia to decrease unemployment and poverty."
   organization: Sriwijaya University
   organization_url: https://www.unsri.ac.id/
   title: National Scientific Research Paper Competition for University Students
