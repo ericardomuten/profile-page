@@ -3,7 +3,7 @@ title: "Event Classification with Layerwise Learning for Data Re-uploading Class
 date: 2021-02-28
 summary: This project aims to use modified layerwise learning on data re-uploading classifier to classify events in HEP. The project won second place at Xanadu's QHack Quantum Machine Learning Open Hackathon 2021.
 draft: false
-featured: true
+featured: false
 tags:
   - Quantum Machine Learning
   - High-Energy Physics
