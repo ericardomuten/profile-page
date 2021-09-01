@@ -17,7 +17,7 @@ main:
     weight: 12
     parent: 'experience'
   - name: Projects
-    url: '#projects'
+    url: '#featured_projects'
     weight: 20
   - name: Publications
     url: '#publications'
