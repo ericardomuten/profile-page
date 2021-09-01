@@ -61,6 +61,10 @@ design:
   #   3 = Card
   #   5 = Showcase
   view: 2
+  
+  spacing:
+    # Customize the section spacing. Order is top, right, bottom, left.
+    padding: ["20px", "0", "110px", "0"]
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: true
