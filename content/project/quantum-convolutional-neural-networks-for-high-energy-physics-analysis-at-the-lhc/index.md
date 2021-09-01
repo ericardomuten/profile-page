@@ -25,6 +25,14 @@ links:
   - name: v1.0.0
     icon_pack: fas
     icon: code-branch
+  - url: https://colab.research.google.com/drive/1ojCEutBoHu-L6Q3PyWSYI51MNIr3OF_k?usp=sharing
+    name: Docs
+    icon_pack: fas
+    icon: file-code
+  - url: https://colab.research.google.com/drive/1TWQgdVzKUITMNzIUFtyzq9MfuTfkyJVe?usp=sharing
+    name: Tutorial
+    icon_pack: fas
+    icon: code
   - url: https://opensource.org/licenses/MIT
     name: MIT License
     icon_pack: fas
@@ -67,7 +75,7 @@ A Google Summer of Code 2021 Project Repository
 
 ## Introduction
 
-One of the challenges in High-Energy Physics (HEP) is events classification, which is to predict whether an image of particle jets belongs to events being sought after or just background signals. Classical Convolutional Neural Network (CNN) has been proven a powerful algorithm in image classification, including jets image. As quantum computers promise many advantages over classical computing, comes a question on whether quantum machine learning (QML) can give any improvement in solving the problem. This project aims to demonstrate quantum machine learning's potential, specifically Quantum Convolutional Neural Network (QCNN), in HEP events classification from image data. The code used in the research is wrapped as an open-source package to ease future research in this field.
+One of the challenges in High-Energy Physics (HEP) is events classification, which is to predict whether an image of particle jets belongs to events being sought after or just background signals. Classical Convolutional Neural Network (CNN) has been proven a powerful algorithm in image classification, including jets image. As quantum computers promise many advantages over classical computing, comes a question on whether quantum machine learning (QML) can give any improvement in solving the problem. This project aims to demonstrate quantum machine learning's potential, specifically Quantum Convolutional Neural Network (QCNN), in HEP events classification from image data. **The code used in the research is wrapped as an open-source package to ease future research in this field**.
 
 ## How to Use
 
