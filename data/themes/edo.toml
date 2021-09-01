@@ -2,7 +2,7 @@
 name = "Edo"
 
 # Is theme light or dark?
-light = true
+#light = true
 is_light = false
 
 # Primary
