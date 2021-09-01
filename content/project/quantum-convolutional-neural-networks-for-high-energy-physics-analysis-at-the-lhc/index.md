@@ -12,16 +12,24 @@ featured: true
 tags:
   - Quantum Machine Learning
   - High-Energy Physics
-external_link: 
+external_link: https://summerofcode.withgoogle.com/projects/#5612096894533632
 links:
-  - url: https://summerofcode.withgoogle.com/projects/#5612096894533632
-    name: Go to Project Site
-    icon_pack: custom
-    icon: gsoc-icon
   - url: https://github.com/eraraya-ricardo/qcnn-hep
     name: GitHub
     icon_pack: fab
     icon: github
+  - url:
+    name: v1.0.0
+    icon_pack: fas
+    icon: code-branch
+  - url: https://opensource.org/licenses/MIT
+    name: MIT License
+    icon_pack: fas
+    icon: copyright
+  - url: 
+    name: Open Source
+    icon_pack: fas
+    icon: heart
   
 # Featured image
 # To use, place an image named `featured.jpg/png` in your page's folder.
@@ -47,10 +55,6 @@ A Google Summer of Code 2021 Project Repository
 
 </div>
 
-{{< figure src="https://img.shields.io/badge/version-1.0.0-blue">}}, {{< figure src="https://img.shields.io/badge/License-MIT-red.svg">}}
-
-![version](https://img.shields.io/badge/version-1.0.0-blue), [![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
-
 - **Organization**
   - [Machine Learning for Science (ML4Sci)](https://ml4sci.org/)
 - **Student**
@@ -68,7 +72,7 @@ One of the challenges in High-Energy Physics (HEP) is events classification, whi
 ## How to Use
 
 ### Package Description
-This package is a [TensorFlow Quantum](https://www.tensorflow.org/quantum) implementation of quantum convolution and classifier with Data Re-uploading[[3](#references)] ansatz. Both are wrapped as [Keras](https://keras.io/) layers that can easily be integrated into other Keras layers (classical and/or quantum), acting as building blocks for Quantum Convolutional Neural Networks (both hybrid and fully quantum). The model can be trained using Keras API.
+This package is a [TensorFlow Quantum](https://www.tensorflow.org/quantum) implementation of quantum convolution and classifier with [Data Re-uploading](https://quantum-journal.org/papers/q-2020-02-06-226/) ansatz. Both are wrapped as [Keras](https://keras.io/) layers that can easily be integrated into other Keras layers (classical and/or quantum), acting as building blocks for Quantum Convolutional Neural Networks (both hybrid and fully quantum). The model can be trained using Keras API.
 
 ### Installation
 ```shell
@@ -77,4 +81,4 @@ cd qcnn-hep
 python -m pip install -r requirements.txt
 python setup.py
 ```
-For a more detail step-by-step installation, please refer to [Docs and Tutorial](#docs-and-tutorial).
+For a more detail step-by-step installation, please refer to [Docs and Tutorial](https://github.com/eraraya-ricardo/qcnn-hep#docs-and-tutorial).
