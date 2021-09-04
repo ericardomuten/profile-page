@@ -37,9 +37,9 @@ links:
     name: MIT License
     icon_pack: fas
     icon: copyright
-  - name: Open Source
-    icon_pack: fas
-    icon: heart
+#  - name: Open Source
+#    icon_pack: fas
+#    icon: heart
   
 # Featured image
 # To use, place an image named `featured.jpg/png` in your page's folder.
