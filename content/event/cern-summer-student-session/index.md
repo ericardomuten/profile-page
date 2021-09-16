@@ -10,6 +10,10 @@ date: 2021-08-10T12:00:00.000Z
 date_end: 2021-08-10T15:00:00.000Z
 all_day: false
 links:
+  - url: https://indico.cern.ch/event/863980/
+    icon_pack: fas
+    icon: globe
+    name: Website
   - icon: github
     icon_pack: fab
     name: GitHub
