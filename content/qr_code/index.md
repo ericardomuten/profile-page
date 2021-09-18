@@ -16,12 +16,12 @@ reading_time: false
 #  focal_point: Smart
 #  preview_only: false
 #  caption: Komputer kuantum milik IBM. Gambar disadur dari
-    [sini](https://www.forbes.com/sites/ibm/2020/01/16/the-quantum-computing-era-is-here-why-it-mattersand-how-it-may-change-our-world/?sh=37d40ac85c2b).
+#    [sini](https://www.forbes.com/sites/ibm/2020/01/16/the-quantum-computing-era-is-here-why-it-mattersand-how-it-may-change-our-world/?sh=37d40ac85c2b).
 # links:
 #  - url: https://medium.com/@erarayaricardo.m/sekilas-tentang-komputasi-kuantum-16a33cd4f86b
-    icon_pack: fab
-    icon: medium
-    name: Originally published on Medium
+#    icon_pack: fab
+#    icon: medium
+#    name: Originally published on Medium
 ---
 
 Jika anda membaca ini, artinya anda baru saja menemukan suatu barang milik saya. Saya harap anda memiliki niat baik untuk mengembalikan barang tersebut pada saya. Dibawah ini saya sertakan alamat dan kontak saya. Saya akan dengan senang hati memberi imbalan pada anda jika anda mengembalikan barang tersebut. Terima kasih sebelumnya dan salam.
