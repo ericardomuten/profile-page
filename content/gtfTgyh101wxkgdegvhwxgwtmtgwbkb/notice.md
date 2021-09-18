@@ -38,7 +38,7 @@ _build:
 
 ---
 
-If you're reading this, it means you've just found something that belongs to me. I hope you have good intentions to return the item to me. Below I include my address and contact details, you can also use the contact form provided to contact me. I will be happy to reward you if you return the item. Thanks in advance and regards.
+If you're reading this, it means you've just found something that belongs to me. I hope you have good intentions to return the item to me. Below I include my address and contact details, you can also use the contact form provided to contact me. I will be happy to reward you if you return the item. Thanks in advance and best regards.
 
 Jika anda membaca ini, artinya anda baru saja menemukan suatu barang milik saya. Saya harap anda memiliki niat baik untuk mengembalikan barang tersebut pada saya. Dibawah ini saya sertakan alamat dan kontak saya, anda juga bisa menggunakan formulir kontak yang tersedia untuk mengkontak saya. Saya akan dengan senang hati memberi imbalan pada anda jika anda mengembalikan barang tersebut. Terima kasih sebelumnya dan salam.
 
