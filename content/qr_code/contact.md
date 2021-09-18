@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: Contact
+title: Contact / Kontak
 subtitle:
 
 content:
@@ -27,5 +27,9 @@ design:
   columns: '2'
 
 active: true
+
+_build:
+  render: always
+  list: never
 
 ---
