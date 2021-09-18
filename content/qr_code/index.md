@@ -28,10 +28,10 @@ Jika anda membaca ini, artinya anda baru saja menemukan suatu barang milik saya.
 
 If you're reading this, it means you've just found something that belongs to me. I hope you have good intentions to return the item to me. Below I include my address and contact. I will be happy to reward you if you return the item. Thanks in advance and best regards. 
 
-Name / Nama                 : Eraraya Ricardo Muten<br>
-Address / Alamat            : Perumahan Gema Pesona Depok blok X no. 20<br>
-City / Kota                 : Depok<br>
-Province / Provinsi         : Jawa Barat<br>
-Country / Negara            : Indonesia<br>
-Phone Number / Nomor Telpon : +62-812-1224-2740<br>
-Email / Surel               : eraraya.ricardo19@gmail.com
+Name / Nama                 &#58 Eraraya Ricardo Muten<br>
+Address / Alamat            &#58 Perumahan Gema Pesona Depok blok X no. 20<br>
+City / Kota                 &#58 Depok<br>
+Province / Provinsi         &#58 Jawa Barat<br>
+Country / Negara            &#58 Indonesia<br>
+Phone Number / Nomor Telpon &#58 +62-812-1224-2740<br>
+Email / Surel               &#58 eraraya.ricardo19@gmail.com
