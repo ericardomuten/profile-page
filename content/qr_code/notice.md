@@ -31,6 +31,11 @@ reading_time: false
 #    icon_pack: fab
 #    icon: medium
 #    name: Originally published on Medium
+
+_build:
+  render: always
+  list: never
+
 ---
 
 If you're reading this, it means you've just found something that belongs to me. I hope you have good intentions to return the item to me. Below I include my address and contact. I will be happy to reward you if you return the item. Thanks in advance and best regards. 
