@@ -1,4 +1,13 @@
 ---
+widget: blank
+headless: true
+
+weight: 10  # section position on page
+
+design:
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns: '1'
+
 date: 2021-09-17
 summary: 
 draft: false
