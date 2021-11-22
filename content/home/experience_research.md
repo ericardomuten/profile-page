@@ -29,7 +29,7 @@ experience:
     location: Remote
     date_start: '2021-10-01'
     date_end: ''
-    description: Mentors&#58 [Dr. Agung Budiyono & Dr. Ahmad R. T. Nugraha](https://inspirehep.net/authors/1028732)<br>Currently developing a novel Monte Carlo simulation with epistemically-restricted phase-space representation for quantum many-body systems.
+    description: Mentors&#58 [Dr. Agung Budiyono & Dr. Ahmad R. T. Nugraha]()<br>Currently developing a novel Monte Carlo simulation with epistemically-restricted phase-space representation for quantum many-body systems.
     
   - title: openlab Summer Student
     company: CERN
