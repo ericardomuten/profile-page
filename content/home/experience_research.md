@@ -22,6 +22,15 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Research Assistant
+    company: Indonesian National Research and Innovation Agency
+    company_url: 'https://www.brin.go.id/'
+    company_logo: brin-logo
+    location: Remote
+    date_start: '2021-10-01'
+    date_end: ''
+    description: Mentors&#58 [Dr. Agung Budiyono & Dr. Ahmad R. T. Nugraha](https://inspirehep.net/authors/1028732)<br>Currently developing a novel Monte Carlo simulation with epistemically-restricted phase-space representation for quantum many-body systems.
+    
   - title: openlab Summer Student
     company: CERN
     company_url: 'https://openlab.cern/quantum'
