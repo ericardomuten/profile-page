@@ -28,8 +28,8 @@ experience:
     company_logo: cern-vector-logo
     location: Remote
     date_start: '2021-06-01'
-    date_end: ''
-    description: Supervisor&#58 [Dr. Sofia Vallecorsa](https://inspirehep.net/authors/1028732)<br>Developing Quantum Generative Adversarial Networks algorithm to simulate the $t\bar{t}H(b\bar{b})$ production processes in the LHC experiment as part of the CERN openlab Summer Student Programme.
+    date_end: '2021-10-01'
+    description: Supervisor&#58 [Dr. Sofia Vallecorsa](https://inspirehep.net/authors/1028732)<br>Developed Quantum Generative Adversarial Networks algorithm to simulate the $t\bar{t}H(b\bar{b})$ production processes in the LHC experiment as part of the CERN openlab Summer Student Programme.
     
   - title: Student Developer
     company: Google Summer of Code 2021, Machine Learning for Science (ML4Sci)
@@ -37,7 +37,7 @@ experience:
     company_logo: gsoc-ml4sci-logo-transparent-compressed
     location: Remote
     date_start: '2021-05-17'
-    date_end: ''
+    date_end: '2021-09-01'
     description: Mentors&#58 [Prof. Sergei V. Gleyzer](http://sergeigleyzer.com/), [Dr. Emanuele Usai](https://orcid.org/0000-0001-9323-2107), and [Raphael Koh](https://www.raphaelkoh.me/)<br>Currently researching the potential of Quantum Convolutional Neural Networks in classifying images of particles from high-energy physics events. The official project page is [here](https://summerofcode.withgoogle.com/projects/#5612096894533632).
     
   - title: Qiskit Advocate Mentorship Program
