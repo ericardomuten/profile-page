@@ -4,8 +4,8 @@ draft: false
 summary: Presenting the results of my recent accepted paper, Modified Layerwise Learning for Data Re-uploading Classifier in High-Energy Physics Event Classification, at the Quantum Algorithms & Applications track and Quantum Computing for High-Energy Physics Workshop of IEEE Quantum Week 2021.
 title: Modified Layerwise Learning for Data Re-uploading Classifier in High-Energy Physics Event Classification
 location: Virtual
-date: 2021-10-10T12:00:00.000Z
-date_end: 2021-10-10T15:00:00.000Z
+date: 2021-10-20T16:45:00.000Z
+date_end: 2021-10-21T21:00:00.000Z
 all_day: false
 links:
   - url: https://qce.quantum.ieee.org/technical-papers-program/#QAA-4
