@@ -16,8 +16,8 @@ external_link:
 links:
   - url: https://summerofcode.withgoogle.com/projects/#5612096894533632
     name: Go to Project Site
-    icon_pack: 
-    icon: 
+    icon_pack: fas
+    icon: globe
   - url: https://github.com/eraraya-ricardo/qcnn-hep
     name: GitHub
     icon_pack: fab
