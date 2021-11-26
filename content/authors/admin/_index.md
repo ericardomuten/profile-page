@@ -44,7 +44,7 @@ social:
       header: false
     link: https://scholar.google.com/citations?hl=en&user=LwbpGIIAAAAJ&view_op=list_works&gmla=AJsN-F4uiuNqf4nGjjXJO4dh1PbEgHaihrw2g6iVwxxyHvzS64QGcYtAt8r2kmCU2lOPMDFjxZXWRbSMHf8mAnXViYTbIJ-JnCpKQviCeqFPR9xNuw87dus
     icon_pack: ai
-    icon: scholar
+    icon: google-scholar
     label: Google Scholar
   - display:
       header: false
