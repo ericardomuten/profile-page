@@ -3,7 +3,7 @@ role: <img align="center" width="5310" height="516"
   src="https://raw.githubusercontent.com/eraraya-ricardo/profile-page/master/assets/media/qp_mle_img.png">
   <br>
 avatar_filename: avatar.png
-bio: GSoC'21 @ML4Sci | CERN Research Intern | Qiskit Advocate | Quantum and classical ML/NN enthusiast
+bio: quantum and classical ML/NN enthusiast
 interests:
   - Quantum Machine Learning
   - Quantum Optimization
@@ -40,6 +40,12 @@ social:
     icon_pack: ai
     icon: orcid
     label: ORCID
+  - display:
+      header: false
+    link: https://scholar.google.com/citations?hl=en&user=LwbpGIIAAAAJ&view_op=list_works&gmla=AJsN-F4uiuNqf4nGjjXJO4dh1PbEgHaihrw2g6iVwxxyHvzS64QGcYtAt8r2kmCU2lOPMDFjxZXWRbSMHf8mAnXViYTbIJ-JnCpKQviCeqFPR9xNuw87dus
+    icon_pack: ai
+    icon: scholar
+    label: Google Scholar
   - display:
       header: false
     icon_pack: ai
