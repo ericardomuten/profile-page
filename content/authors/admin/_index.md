@@ -72,7 +72,7 @@ highlight_name: false
 title: Eraraya Ricardo Muten
 email: ""
 ---
-Eraraya Ricardo Muten (Edo) is a bachelor of science that recently had defended his [thesis](https://github.com/eraraya-ricardo/quantum_image_classifier) on quantum machine learning. He has worked on several quantum machine learning projects with CERN and ML4Sci (Google Summer of Code). Currently, he is developing a novel quantum many-body system simulation method with the quantum group at the Indonesian National Research and Innovation Agency.
+Eraraya Ricardo Muten (Edo) is a bachelor of science that recently had defended his [thesis](https://github.com/eraraya-ricardo/quantum_image_classifier) on quantum machine learning. He has worked on several quantum machine learning projects with CERN and ML4Sci (Google Summer of Code). Currently, he is developing a novel quantum many-body system simulation with the quantum group at the Indonesian National Research and Innovation Agency.
 <!--
 He is the first Qiskit Advocate from his country and leads the Indonesian Qiskit Docs translation team.
 -->
