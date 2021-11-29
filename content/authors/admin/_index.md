@@ -53,8 +53,10 @@ social:
     label: CV
     link: https://raw.githubusercontent.com/eraraya-ricardo/profile-page/master/static/uploads/cv.pdf
 organizations:
-  - name: Google Summer of Code 2021
+  - name: Google Summer of Code
     url: https://summerofcode.withgoogle.com/projects/#5612096894533632
+  - name: CERN openlab Summer Student
+    url: https://zenodo.org/record/5577410#.YZyn0LoxXb1
   - name: Qiskit Advocate
     url: https://qiskit.org/advocates/
   - name: ITB Quantum Technology Lab
