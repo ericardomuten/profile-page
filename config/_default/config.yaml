@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Eraraya Ricardo Muten # Website name
-baseurl: 'https://eraraya-ricardo.me/' # Website URL
+baseurl: 'https://ericardomuten.com/' # Website URL
 copyright: '© {year} Eraraya Ricardo Muten' # Footer text, e.g. '© {year} Me'
 
 ############################
