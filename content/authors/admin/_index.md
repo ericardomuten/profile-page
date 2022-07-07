@@ -12,7 +12,7 @@ interests:
 social:
   - display:
       header: false
-    link: mailto:eraraya-ricardo@qlab.itb.ac.id
+    link: mailto:ericardomuten@qlab.itb.ac.id
     icon_pack: far
     icon: envelope
     label: Email
@@ -21,16 +21,16 @@ social:
     icon_pack: fab
     icon: twitter
     label: Twitter
-    link: https://twitter.com/eraraya_ricardo
+    link: https://twitter.com/ERicardoMuten
   - display:
       header: false
-    link: https://github.com/eraraya-ricardo
+    link: https://github.com/ericardomuten
     icon_pack: fab
     icon: github
     label: GitHub
   - display:
       header: false
-    link: https://linkedin.com/in/eraraya-ricardo
+    link: https://linkedin.com/in/ericardomuten
     icon_pack: fab
     icon: linkedin
     label: LinkedIn
@@ -51,7 +51,7 @@ social:
     icon_pack: ai
     icon: cv
     label: CV
-    link: https://raw.githubusercontent.com/eraraya-ricardo/profile-page/master/static/uploads/cv.pdf
+    link: https://raw.githubusercontent.com/ericardomuten/profile-page/master/static/uploads/cv.pdf
 organizations:
   - name: Google Summer of Code
     url: https://summerofcode.withgoogle.com/projects/#5612096894533632
