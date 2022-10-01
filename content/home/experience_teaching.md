@@ -25,12 +25,12 @@ experience:
   - title: Course Developer
     company: Widya Institute of Technology
     company_url: 'https://www.widya.institute/'
-    company_logo: tamansiswa-square
+    company_logo: wit
     location: Remote
     date_start: '2022-03-01'
     date_end: ''
     description: |2-
-        Creating an online course with hands-on coding modules on Intro to Quantum Computing..
+        Creating an online course with hands-on coding modules on Intro to Quantum Computing.
   - title: Physics Tutor
     company: TamanSiswa
     company_url: 'https://taman-siswa.com/class/?code=taman-mahasiswa'
