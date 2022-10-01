@@ -65,7 +65,7 @@ education:
   courses:
     - course: M.Sc. in Quantum Science & Technology
       institution: Technical University of Munich
-      year: currently
+      year: Present
     - course: B.S. in Engineering Physics (First Class Honours)
       institution: Bandung Institute of Technology
       year: 2021
