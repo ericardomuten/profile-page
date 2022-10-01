@@ -28,8 +28,8 @@ experience:
     company_logo: brin-logo
     location: Remote
     date_start: '2021-10-01'
-    date_end: ''
-    description: Supervisors&#58 [Dr. Agung Budiyono]() & [Dr. Ahmad R. T. Nugraha](https://art.nugraha.web.id/)<br>Currently developing a novel Monte Carlo simulation within epistemically-restricted phase-space formulation of quantum mechanics for quantum many-body systems. This novel method allows for a better calculation time at a large sampling with reasonable accuracy. Used TensorFlow to code the simulation and for automatic optimization.
+    date_end: '2022-07-01'
+    description: Supervisors&#58 [Dr. Agung Budiyono]() & [Dr. Ahmad R. T. Nugraha](https://art.nugraha.web.id/)<br>Developed a novel Monte Carlo simulation within epistemically-restricted phase-space formulation of quantum mechanics for quantum many-body systems. This novel method allows for a better calculation time at a large sampling with reasonable accuracy. Used TensorFlow to code the simulation and for automatic optimization.
     
   - title: openlab Summer Student
     company: CERN
