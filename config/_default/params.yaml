@@ -20,18 +20,18 @@ twitter: 'ERicardoMuten'
 
 # Contact (edit or remove options as required)
 
-email: ericardomuten@qlab.itb.ac.id
-phone: +62-812-1224-2740
+email: ericardo.muten@tum.de
+phone:
 address:
-  street: Perumahan Gema Pesona Depok blok X no. 20
-  city: Depok
-  region: Jawa Barat
-  postcode: '16412'
-  country: Indonesia
-  country_code: ID
+  street: #Perumahan Gema Pesona Depok blok X no. 20
+  city: #Depok
+  region: #Jawa Barat
+  postcode: #'16412'
+  country: #Indonesia
+  country_code: #ID
 coordinates:
-  latitude: '-6.411773'
-  longitude: '106.836894'
+  latitude: #'-6.411773'
+  longitude: #'106.836894'
 directions: 
 office_hours:
 #  - 'Monday 10:00 to 13:00'
