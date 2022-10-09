@@ -12,7 +12,7 @@ interests:
 social:
   - display:
       header: false
-    link: mailto:ericardomuten@qlab.itb.ac.id
+    link: mailto:ericardo.muten@tum.de
     icon_pack: far
     icon: envelope
     label: Email
