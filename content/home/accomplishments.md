@@ -26,6 +26,19 @@ date_format: Jan 2006
 item:
 - certificate_url: "https://raw.githubusercontent.com/eraraya-ricardo/profile-page/master/assets/certificates/QHack%20Winners%20Entangled_Nets.pdf"
   date_end: ""
+  date_start: "2022-02-25"
+  description: "Project title: Enhanced Quantum Autoencoders for Anomaly Detection<br>
+Our team presented an extensive study of Quantum Autoencoders (QAE) from the application and the theoretical side. The project is awarded in three categories:<br>
+• First Place in Open Hackathon Experiment on Amazon Braket Simulators<br>
+• First Place in Hybrid Algorithms Challenge<br>
+• Third Place in Quantum Finance Challenge<br>
+The repository of the project can be accessed [here](https://github.com/XanaduAI/QHack/issues/129). The official announcement about the competition and the winners can be read [here](https://medium.com/xanaduai/qhack-2022-cb5ad92573e2)."
+  organization: Xanadu Quantum Technologies
+  organization_url: https://www.xanadu.ai/
+  title: 2022 QHack Quantum Machine Learning Open Hackathon
+  url: "https://qhack.ai/"
+- certificate_url: "https://raw.githubusercontent.com/eraraya-ricardo/profile-page/master/assets/certificates/QHack%20Winners%20Entangled_Nets.pdf"
+  date_end: ""
   date_start: "2021-02-17"
   description: "Proposed to use modified layerwise learning on data re-uploading classifier to classify events in high-energy physics. Obtained better AUC than previous work. Click [here](https://github.com/eraraya-ricardo/qhack-2021-openproject) for the project page and [here](https://medium.com/xanaduai/qhack-the-quantum-machine-learning-hackathon-7f2cd7348e2b) for the official announcement."
   organization: Xanadu Quantum Technologies
