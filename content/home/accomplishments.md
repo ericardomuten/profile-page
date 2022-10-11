@@ -24,7 +24,7 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: "https://raw.githubusercontent.com/eraraya-ricardo/profile-page/master/assets/certificates/QHack%20Winners%20Entangled_Nets.pdf"
+- certificate_url: "https://github.com/ericardomuten/profile-page/blob/master/assets/certificates/samras_qhack_2022_720.png"
   date_end: ""
   date_start: "2022-02-25"
   description: "Project title: Enhanced Quantum Autoencoders for Anomaly Detection<br>
