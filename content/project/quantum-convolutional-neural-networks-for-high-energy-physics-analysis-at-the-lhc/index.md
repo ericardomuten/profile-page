@@ -12,6 +12,7 @@ featured: true
 tags:
   - Quantum Machine Learning
   - High-Energy Physics
+  - Featured
 external_link: 
 links:
   - url: https://summerofcode.withgoogle.com/projects/#5612096894533632
