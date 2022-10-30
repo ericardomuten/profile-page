@@ -16,18 +16,19 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
+- description:
   icon: r-project
   icon_pack: fab
-  name: R
-- description: 100%
+  name: TensorFlow Quantum
+- <a href="https://www.tensorflow.org/" target="_blank"><img alt="TensorFlow" height="23px" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" /></a>
+<!-- - description: 100%
   icon: chart-line
   icon_pack: fas
   name: Statistics
 - description: 10%
   icon: camera-retro
   icon_pack: fas
-  name: Photography
+  name: Photography -->
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
