@@ -114,7 +114,7 @@ breadcrumb:
     book: true
 comments:
   # Choose a provider: disqus, commento, or '' to disable commenting
-  provider: 'giscus'
+  provider: giscus
   commentable:
     post: true
     book: true
