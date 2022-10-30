@@ -114,13 +114,21 @@ breadcrumb:
     book: true
 comments:
   # Choose a provider: disqus, commento, or '' to disable commenting
-  provider: ''
+  provider: 'giscus'
   commentable:
     post: true
     book: true
     project: true
     publication: true
     event: true
+  giscus:
+      repo: 'ericardomuten/profile-page-giscus'
+      repo_id: 'R_kgDOIVu9CA'
+      category: 'Announcements'
+      category_id: 'DIC_kwDOIVu9CM4CSSHN'
+      theme: preferred_color_scheme
+      language_code: en
+      mapping: pathname
   disqus:
     # Paste the shortname from your Disqus dashboard.
     shortname: 'eraraya-ricardo'
