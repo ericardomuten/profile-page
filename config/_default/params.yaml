@@ -77,7 +77,17 @@ features:
     gravatar: false
     shape: circle
   comment:
-    provider: ''
+    provider: 'giscus'
+    giscus:
+      repo: "ericardomuten/profile-page-giscus"  # Repo where the comments will live
+      repo_id: "R_kgDOIVu9CA"
+      category: "Announcements"
+      category_id: "DIC_kwDOIVu9CM4CSSHN"
+      mapping: "pathname"  # How Utterances will match comment to page
+      label: "comment"     # Label applied to issue by utteranc.es bot
+      theme: "preferred_color_scheme"        # What theme to use
+      reactions_enabled: "1"
+      input-position: "top" # Where to put the new comment box (ini nambahin sendiri)
     disqus:
       shortname: 'eraraya-ricardo'
       show_count: true
