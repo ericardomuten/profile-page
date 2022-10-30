@@ -20,14 +20,7 @@ feature:
   icon: tensorflow
   icon_pack: custom
   name: TensorFlow
-<!-- - description: 100%
-  icon: chart-line
-  icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography -->
+- <a href="https://www.tensorflow.org/" target="_blank"><img alt="TensorFlow" height="23px" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" /></a>
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
