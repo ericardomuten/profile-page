@@ -60,7 +60,8 @@ design:
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: 2
+  #   masonry = a Pinterest-style layout
+  view: masonry
   
   spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
