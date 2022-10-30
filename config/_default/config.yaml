@@ -71,3 +71,22 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
+
+############################
+## Hugo Cascades (ini nambahin sendiri)
+############################
+
+cascade:
+  # Configure blog posts
+  - _target:
+      path: /event/**
+    pager: true
+    editable: true
+    reading_time: true
+    commentable: true
+    show_related: true
+    show_breadcrumb: true
+    share: true
+    header:
+      navbar:
+        enable: false
