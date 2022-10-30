@@ -5,158 +5,104 @@
 
 # Appearance
 
-theme: edo-dark-only
-day_night: false
-font: 'edo'
-font_size: M
+appearance:
+  theme_day: 
+  theme_night: edo-dark-only
+  font: edo
+  font_size: M
 
 # SEO
 
-site_type: Person
-local_business_type: 'ProfessionalService'
-org_name: ''
-description: 'A quantum machine learning enthusiast!'
-twitter: 'ERicardoMuten'
-
-# Contact (edit or remove options as required)
-
-email: ericardo.muten@tum.de
-phone:
-address:
-  street: #Perumahan Gema Pesona Depok blok X no. 20
-  city: #Depok
-  region: #Jawa Barat
-  postcode: #'16412'
-  country: #Indonesia
-  country_code: #ID
-coordinates:
-  latitude: #'-6.411773'
-  longitude: #'106.836894'
-directions: 
-office_hours:
-#  - 'Monday 10:00 to 13:00'
-#  - 'Wednesday 09:00 to 10:00'
-appointment_url: ''
-contact_links:
-#  - icon: twitter
-#    icon_pack: fab
-#    name: DM Me
-#    link: 'https://twitter.com/Twitter'
-#  - icon: comments
-#    icon_pack: fas
-#    name: Discuss on Forum
-#    link: 'https://discourse.gohugo.io'
+marketing:
+  seo:
+    site_type: Person
+    local_business_type: 'ProfessionalService'
+    org_name: ''
+    description: 'A quantum machine learning enthusiast!'
+    twitter: 'ERicardoMuten'
+  analytics:
+    google_analytics: 'G-WQRCMT080Y'
+    baidu_tongji: ''
+  verification:
+    google: 'DKhUEr0IaTeD6lGqEJCxMNhV-K2E-KFAluZb0chvlPo'
+    baidu: ''
 
 # Site header
 
-main_menu:
-  enable: true
-  align: r
-  show_logo: true
-  show_language: false
-  show_day_night: true
-  show_search: true
-  highlight_active_link: true
+header:
+  navbar:
+    enable: true
+    align: r
+    show_logo: true
+    show_language: false
+    show_day_night: false
+    show_search: true
+    highlight_active_link: true
+    
+# Site footer
 
+footer:
+  copyright:
+    notice: '© {year} Eraraya Ricardo Muten. This work is licensed under {license}'
+    license:
+      enable: true
+      allow_derivatives: false
+      share_alike: true
+      allow_commercial: false
+       
 # Localization
 
-date_format: 'Jan 2, 2006'
-time_format: '15:04 MST'
-address_format: en-us
-
+locale:
+  date_format: 'Jan 2, 2006'
+  time_format: '15:04 MST'
+  address_format: en-us
+  
 # Site features
 
-highlight: true
-highlight_languages:
-  - r
-math: true
-diagram: true
-privacy_pack: false
-edit_page:
-  repo_url: ''
-  content_dir: ''
-  repo_branch: main
-  editable:
-    page: false
-    post: false
-    book: false
-show_related:
-  book: true
-  page: false
-  post: true
-  project: true
-  publication: true
-  event: true
-reading_time: true
-section_pager: false
-docs_section_pager: true
-sharing: true
-copyright_license:
-  enable: false
-  allow_derivatives: false
-  share_alike: true
-  allow_commercial: false
-  notice: 'Except as otherwise noted, this work is licensed under {license}, and code samples are licensed under the MIT License.'
-abstract_length: 135
-plugins_js: []
-avatar:
-  gravatar: false
-  shape: circle
-publications:
-  date_format: January 2006
-  citation_style: apa
-projects:
-  post_view: 2
-  publication_view: 2
-  talk_view: 2
-breadcrumb:
-  page_types:
-    book: true
-comments:
-  # Choose a provider: disqus, commento, or '' to disable commenting
-  provider: 'giscus'
-  commentable:
-    post: true
-    book: true
-    project: true
-    publication: true
-    event: true
-  giscus:
-      repo: 'ericardomuten/profile-page-giscus'
-      repo_id: 'R_kgDOIVu9CA'
-      category: 'Announcements'
-      category_id: 'DIC_kwDOIVu9CM4CSSHN'
-      theme: 'preferred_color_scheme'
-      language_code: 'en'
-      mapping: 'pathname'
-      reactions_enabled: '1'
-  disqus:
-    # Paste the shortname from your Disqus dashboard.
-    shortname: 'eraraya-ricardo'
-    # Show comment count in page header? (true/false)
-    show_count: true
-  commento:
-    url: ''
-search:
-  provider: wowchemy
-  algolia:
-    app_id: ''
+features:
+  syntax_highlighter:
+    enable: true
+    extra_languages:
+      - r
+      - latex
+  math:
+    enable: true
+  privacy_pack:
+    enable: false
+  repository:
+    url: 'https://github.com/ericardomuten/profile-page'
+    content_dir: content
+    branch: master
+  avatar:
+    gravatar: false
+    shape: circle
+  comment:
+    provider: ''
+    disqus:
+      shortname: 'eraraya-ricardo'
+      show_count: true
+    commento:
+      url: ''
+  search:
+    provider: wowchemy
+    algolia:
+      app_id: ''
+      api_key: ''
+      index_name: ''
+      show_logo: false
+  map:
+    provider: 'mapnik'
     api_key: ''
-    index_name: ''
-    show_logo: false
-map:
-  provider: 'mapnik'
-  api_key: ''
-  zoom: 15
-marketing:
-  google_analytics: 'G-WQRCMT080Y'
-  google_tag_manager: ''
-  google_site_verification: 'DKhUEr0IaTeD6lGqEJCxMNhV-K2E-KFAluZb0chvlPo'
-  baidu_site_verification: ''
-  baidu_tongji: ''
-cms:
-  branch: master
-  local_backend: false
-icon:
-  pack:
-    ai: true
+    zoom: 15
+
+# Extensions
+
+extensions:
+  cms:
+    branch: master
+    local_backend: false
+  isotope:
+    # Enable if you use the Portfolio widget or Publication filter
+    enable: true
+  academicons:
+    enable: true
