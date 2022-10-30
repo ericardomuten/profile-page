@@ -81,10 +81,10 @@ cascade:
   - _target:
       path: /event/**
     pager: true
-    editable: true
+    editable: false
     reading_time: true
     commentable: true
-    show_related: true
+    show_related: false
     show_breadcrumb: true
     share: true
     header:
