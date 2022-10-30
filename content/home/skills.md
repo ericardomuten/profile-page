@@ -7,7 +7,7 @@ widget: featurette
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 5
 
 title: Skills
 subtitle:
@@ -43,6 +43,6 @@ feature:
 #  name: "Surfing"
 #  description: "90%"
 
-active: false
+active: true
 
 ---
