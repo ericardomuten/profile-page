@@ -77,10 +77,36 @@ sitemap:
 ############################
 
 cascade:
-  # Configure blog posts
+  # Configure recent talks/events
   - _target:
       path: /event/**
-    pager: false
+    pager: true
+    editable: false
+    reading_time: true
+    commentable: true
+    show_related: false
+    show_breadcrumb: true
+    share: true
+    header:
+      navbar:
+        enable: false
+  # Configure Projects
+  - _target:
+      path: /project/**
+    pager: true
+    editable: false
+    reading_time: true
+    commentable: true
+    show_related: false
+    show_breadcrumb: true
+    share: true
+    header:
+      navbar:
+        enable: false
+  # Configure Content
+  - _target:
+      path: /content/**
+    pager: true
     editable: false
     reading_time: true
     commentable: true
