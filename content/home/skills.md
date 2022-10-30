@@ -38,6 +38,10 @@ feature:
   icon_pack: custom
   name: QuTiP
 - description:
+  icon: skills/tfq
+  icon_pack: custom
+  name: TensorFlow Quantum
+- description:
   icon: skills/tensorflow
   icon_pack: custom
   name: TensorFlow
