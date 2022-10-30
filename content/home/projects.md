@@ -61,7 +61,7 @@ design:
   #   3 = Card
   #   5 = Showcase
   #   masonry = a Pinterest-style layout
-  view: 3
+  view: masonry
   
   spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
