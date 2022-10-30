@@ -20,6 +20,22 @@ feature:
   icon: skills/tensorflow
   icon_pack: custom
   name: TensorFlow
+- description:
+  icon: skills/keras
+  icon_pack: custom
+  name: Keras
+- description:
+  icon: skills/pytorch
+  icon_pack: custom
+  name: PyTorch
+- description:
+  icon: skills/scikit-learn
+  icon_pack: custom
+  name: scikit-learn
+- description:
+  icon: skills/opencv
+  icon_pack: custom
+  name: OpenCV
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
