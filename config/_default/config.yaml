@@ -80,7 +80,7 @@ cascade:
   # Configure blog posts
   - _target:
       path: /event/**
-    pager: true
+    pager: false
     editable: false
     reading_time: true
     commentable: true
