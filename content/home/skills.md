@@ -30,6 +30,10 @@ feature:
   icon_pack: custom
   name: Qiskit
 - description:
+  icon: skills/cirq
+  icon_pack: custom
+  name: Cirq
+- description:
   icon: skills/qutip
   icon_pack: custom
   name: QuTiP
