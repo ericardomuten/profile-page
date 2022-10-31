@@ -15,8 +15,8 @@ design:
     padding: ["20px", "0", "20px", "0"]
 #  columns: 6
   
-title: Skills
-subtitle: Quantum
+title: 
+subtitle: 
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
