@@ -1,7 +1,7 @@
 ---
 # An instance of the Featurette widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: featurette
+widget: features
 
 # This file represents a page section.
 headless: true
@@ -13,6 +13,9 @@ design:
   spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
     padding: ["20px", "0", "20px", "0"]
+  columns: 4
+    # this is a custom setting with the custom features.html
+    # select the number of columns, default is 3
     
 title: Skills
 subtitle:
