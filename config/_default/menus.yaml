@@ -6,7 +6,7 @@
 main:
   - name: Tools
     url: '#skills'
-    weight: 0
+    weight: 1
   - name: Experience
     url: '#experience_research'
     weight: 10
