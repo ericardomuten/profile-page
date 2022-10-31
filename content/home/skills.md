@@ -15,7 +15,7 @@ design:
     padding: ["20px", "0", "20px", "0"]
 #  columns: 6
   
-title: 
+title: Tools
 subtitle: 
 
 # Showcase personal skills or business features.
