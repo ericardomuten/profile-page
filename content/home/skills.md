@@ -23,15 +23,20 @@ subtitle:
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
-feature:
-- description:
+
+[[feature]]
+  description:
   icon: skills/pennylane
   icon_pack: custom
   name: PennyLane
-- description:
+
+[[feature]]
+  description:
   icon: skills/qiskit
   icon_pack: custom
   name: Qiskit
+
+feature:
 - description:
   icon: skills/cirq
   icon_pack: custom
