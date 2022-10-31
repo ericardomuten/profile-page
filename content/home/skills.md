@@ -25,11 +25,6 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 
 [[feature]]
-  description:
-  icon: skills/pennylane
-  icon_pack: custom
-  name: PennyLane
-  
   icon = "pennylane"
   icon_link = "skills/"
   icon_pack = "custom"
