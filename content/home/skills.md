@@ -29,54 +29,20 @@ subtitle:
   icon: skills/pennylane
   icon_pack: custom
   name: PennyLane
+  
+  icon = "pennylane"
+  icon_link = "skills/"
+  icon_pack = "custom"
+  name = "[PennyLane](https://pennylane.ai/)"
+  description = ""
 
 [[feature]]
-  description:
-  icon: skills/qiskit
-  icon_pack: custom
-  name: Qiskit
+  icon = "qiskit"
+  icon_link = "skills/"
+  icon_pack = "custom"
+  name = "[Qiskit](https://qiskit.org/)"
+  description = ""
 
-feature:
-- description:
-  icon: skills/cirq
-  icon_pack: custom
-  name: Cirq
-- description:
-  icon: skills/qutip
-  icon_pack: custom
-  name: QuTiP
-- description:
-  icon: skills/tfq
-  icon_pack: custom
-  name: TensorFlow Quantum
-- description:
-  icon: skills/tensorflow
-  icon_pack: custom
-  name: TensorFlow
-- description:
-  icon: skills/keras
-  icon_pack: custom
-  name: Keras
-- description:
-  icon: skills/pytorch
-  icon_pack: custom
-  name: PyTorch
-- description:
-  icon: skills/scikitlearn
-  icon_pack: custom
-  name: scikitlearn
-- description:
-  icon: skills/opencv
-  icon_pack: custom
-  name: OpenCV
-- description:
-  icon: skills/python
-  icon_pack: custom
-  name: Python
-- description:
-  icon: skills/cplusplus
-  icon_pack: custom
-  name: C++
 #- description:
 #  icon: skills/c
 #  icon_pack: custom
