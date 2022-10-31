@@ -28,7 +28,7 @@
     {{ $pack_prefix = "fa" }}
   {{ end }}
   {{ $link := .icon_link }}
-  <div class="col-12 {{ if eq $columns "2" }}col-sm-6{{ else if eq $columns "3" }}col-sm-4{{ else if eq $columns "4" }}col-sm-3{{ end }}">
+  <div class="col-12 {{ if eq $columns "2" }}col-sm-6{{ else if eq $columns "3" }}col-sm-4{{ else if eq $columns "4" }}col-sm-3{{ else if eq $columns "6" }}col-sm-2{{ end }}">
     {{ with .icon }}
     <div class="featurette-icon">
       {{- if eq $pack "emoji" -}}
