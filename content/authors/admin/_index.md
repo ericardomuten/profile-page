@@ -34,12 +34,12 @@ social:
     icon_pack: fab
     icon: linkedin
     label: LinkedIn
-  - display:
-      header: false
-    link: https://orcid.org/0000-0002-6224-7274
-    icon_pack: ai
-    icon: orcid
-    label: ORCID
+#  - display:
+#      header: false
+#    link: https://orcid.org/0000-0002-6224-7274
+#    icon_pack: ai
+#    icon: orcid
+#    label: ORCID
   - display:
       header: false
     link: https://scholar.google.com/citations?hl=en&user=LwbpGIIAAAAJ&view_op=list_works&gmla=AJsN-F4uiuNqf4nGjjXJO4dh1PbEgHaihrw2g6iVwxxyHvzS64QGcYtAt8r2kmCU2lOPMDFjxZXWRbSMHf8mAnXViYTbIJ-JnCpKQviCeqFPR9xNuw87dus
