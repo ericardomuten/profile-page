@@ -11,7 +11,7 @@ main:
     url: '#experience_research'
     weight: 10
     identifier: 'experience'
-  - name: Research Experience
+  - name: Research & Software Development
     url: '#experience_research'
     weight: 11
     parent: 'experience'
