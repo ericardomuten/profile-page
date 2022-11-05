@@ -13,8 +13,8 @@ name = "edo-dark-only"
 
   # Backgrounds
   #background = "#000"
-  home_section_odd = "#16213E"
-  home_section_even = "#0F3460"
+  home_section_odd = "#1A1A2E"
+  home_section_even = "#16213E"
 
   # Links
   link = "#f6bd4b"
