@@ -10,7 +10,7 @@ headless: true
 weight: 10
 
 title: Experience
-subtitle: Research
+subtitle: Research & Software Development
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
