@@ -6,6 +6,7 @@ draft: false
 featured: false
 tags:
   - Quantum Machine Learning
+  - Featured
 external_link: ""
 links:
   - url: https://github.com/eraraya-ricardo/quantum_image_classifier
