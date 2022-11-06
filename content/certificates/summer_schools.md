@@ -17,6 +17,14 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with `>-`.
 item:
+  - organization: IBM Quantum
+    organization_url: 'https://www.ibm.com/quantum-computing/'
+    title: Mentor at Qiskit Global Summer School 2021: Quantum Machine Learning
+    url: 'https://qiskit.org/events/summer-school/'
+    certificate_url: ''
+    date_start: '2021-07-01'
+    date_end: ''
+    description: Answered questions in quantum computing and machine learning from students. Discussed career opportunities and shared my personal experience with the students. Provided extra Qiskit tutorials to some students after the main classes.
   - organization: Munich Center for Quantum Science and Technology
     organization_url: 'https://www.mcqst.de/'
     title: MCQST Summer Student Program
