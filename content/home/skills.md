@@ -25,7 +25,7 @@ feature:
 - description:
   icon: skills/pennylane
   icon_pack: custom
-  name: PennyLane
+  name: [PennyLane](https://pennylane.ai/)
 - description:
   icon: skills/qiskit
   icon_pack: custom
