@@ -22,7 +22,7 @@ Advisors: [Prof. Andriyan Bayu Suksmono M.T., Ph.D.](https://scholar.google.co.i
 
 <div align="center">
   
-![DRQConv Diagram](https://github.com/eraraya-ricardo/quantum_image_classifier/blob/master/DRQConv%201%20diagram.png) <br>
+![DRQConv Diagram](https://raw.githubusercontent.com/ericardomuten/quantum_image_classifier/master/DRQConv%201%20diagram.png) <br>
 *A flow diagram of the Data Re-uploading Quantum Convolution scheme.*
 
 <a><img alt="training gif" height="450px" src="https://github.com/ericardomuten/quantum_image_classifier/blob/master/Results/train_QConv1.gif" /></a> <br>
