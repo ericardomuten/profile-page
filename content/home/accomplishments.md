@@ -27,15 +27,17 @@ item:
 - certificate_url: "https://github.com/ericardomuten/profile-page/blob/master/assets/certificates/samras_qhack_2022_720.png"
   date_end: ""
   date_start: "2022-02-25"
-  description: "Project title: Enhanced Quantum Autoencoders for Anomaly Detection<br>
+  description: "Our team, Samras, got 1st in the Coding Challenges, solving 25 questions in PennyLane 101, Quantum Algorithms, Quantum Machine Learning, Quantum Chemistry, and Quantum Games twice as fast as the 2nd place.
+  
+Open Hackathon project title: Enhanced Quantum Autoencoders for Anomaly Detection.<br>
 Our team presented an extensive study of Quantum Autoencoders (QAE) from the application and the theoretical side. The project is awarded in three categories:<br>
-• First Place in Open Hackathon Experiment on Amazon Braket Simulators<br>
-• First Place in Hybrid Algorithms Challenge<br>
-• Third Place in Quantum Finance Challenge<br>
+• 1st in Open Hackathon Experiment on Amazon Braket Simulators<br>
+• 1st in Hybrid Algorithms Challenge<br>
+• 3rd in Quantum Finance Challenge<br>
 The repository of the project can be accessed [here](https://github.com/XanaduAI/QHack/issues/129). The official announcement about the competition and the winners can be read [here](https://medium.com/xanaduai/qhack-2022-cb5ad92573e2)."
   organization: Xanadu Quantum Technologies
   organization_url: https://www.xanadu.ai/
-  title: 2022 QHack Quantum Machine Learning Open Hackathon
+  title: 2022 QHack Quantum Machine Learning Coding Challenges & Open Hackathon
   url: "https://qhack.ai/"
 - certificate_url: "https://raw.githubusercontent.com/eraraya-ricardo/profile-page/master/assets/certificates/QHack%20Winners%20Entangled_Nets.pdf"
   date_end: ""
