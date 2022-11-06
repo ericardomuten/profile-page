@@ -27,8 +27,8 @@ item:
 - certificate_url: "https://github.com/ericardomuten/profile-page/blob/master/assets/certificates/samras_qhack_2022_720.png"
   date_end: ""
   date_start: "2022-02-25"
-  description: "Our team, Samras, got 1st in the Coding Challenges, solving 25 questions in PennyLane 101, Quantum Algorithms, Quantum Machine Learning, Quantum Chemistry, and Quantum Games twice as fast as the 2nd place.
-  
+  description: "Our team, Samras, got 1st in the Coding Challenges, solving 25 questions in PennyLane 101, Quantum Algorithms, Quantum Machine Learning, Quantum Chemistry, and Quantum Games twice as fast as the 2nd place.<br>
+<br>
 Open Hackathon project title: Enhanced Quantum Autoencoders for Anomaly Detection.<br>
 Our team presented an extensive study of Quantum Autoencoders (QAE) from the application and the theoretical side. The project is awarded in three categories:<br>
 • 1st in Open Hackathon Experiment on Amazon Braket Simulators<br>
