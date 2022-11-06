@@ -19,7 +19,7 @@ date_format: Jan 2006
 item:
   - organization: IBM Quantum
     organization_url: 'https://www.ibm.com/quantum-computing/'
-    title: Mentor at Qiskit Global Summer School 2021: Quantum Machine Learning
+    title: Mentor at Qiskit Global Summer School 2021&#58 Quantum Machine Learning
     url: 'https://qiskit.org/events/summer-school/'
     certificate_url: ''
     date_start: '2021-07-01'
