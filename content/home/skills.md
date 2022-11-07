@@ -25,51 +25,51 @@ feature:
 - description:
   icon: skills/pennylane
   icon_pack: custom
-  name: <a href="https://pennylane.ai/">PennyLane</a>
+  name: <a href="https://pennylane.ai/" target="_blank">PennyLane</a>
 - description:
   icon: skills/qiskit
   icon_pack: custom
-  name: <a href="https://qiskit.org/">Qiskit</a>
+  name: <a href="https://qiskit.org/" target="_blank">Qiskit</a>
 - description:
   icon: skills/cirq
   icon_pack: custom
-  name: <a href="https://quantumai.google/cirq">Cirq</a>
+  name: <a href="https://quantumai.google/cirq" target="_blank">Cirq</a>
 - description:
   icon: skills/qutip
   icon_pack: custom
-  name: <a href="https://qutip.org/">QuTiP</a>
+  name: <a href="https://qutip.org/" target="_blank">QuTiP</a>
 - description:
   icon: skills/tfq
   icon_pack: custom
-  name: <a href="https://www.tensorflow.org/quantum">TensorFlow Quantum</a>
+  name: <a href="https://www.tensorflow.org/quantum" target="_blank">TensorFlow Quantum</a>
 - description:
   icon: skills/tensorflow
   icon_pack: custom
-  name: <a href="https://www.tensorflow.org/">TensorFlow</a>
+  name: <a href="https://www.tensorflow.org/" target="_blank">TensorFlow</a>
 - description:
   icon: skills/keras
   icon_pack: custom
-  name: <a href="https://keras.io/">Keras</a>
+  name: <a href="https://keras.io/" target="_blank">Keras</a>
 - description:
   icon: skills/pytorch
   icon_pack: custom
-  name: <a href="https://pytorch.org/">PyTorch</a>
+  name: <a href="https://pytorch.org/" target="_blank">PyTorch</a>
 - description:
   icon: skills/scikitlearn
   icon_pack: custom
-  name: <a href="https://scikit-learn.org/stable/">scikit-learn</a>
+  name: <a href="https://scikit-learn.org/stable/" target="_blank">scikit-learn</a>
 - description:
   icon: skills/opencv
   icon_pack: custom
-  name: <a href="https://opencv.org/">OpenCV</a>
+  name: <a href="https://opencv.org/" target="_blank">OpenCV</a>
 - description:
   icon: skills/python
   icon_pack: custom
-  name: <a href="https://www.python.org/">Python</a>
+  name: <a href="https://www.python.org/" target="_blank">Python</a>
 - description:
   icon: skills/cplusplus
   icon_pack: custom
-  name: <a href="https://isocpp.org/">C++</a>
+  name: <a href="https://isocpp.org/" target="_blank">C++</a>
 #- description:
 #  icon: skills/c
 #  icon_pack: custom
