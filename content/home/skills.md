@@ -29,51 +29,51 @@ feature:
 - description:
   icon: skills/qiskit
   icon_pack: custom
-  name: Qiskit
+  name: <a href="https://qiskit.org/">Qiskit</a>
 - description:
   icon: skills/cirq
   icon_pack: custom
-  name: Cirq
+  name: <a href="https://quantumai.google/cirq">Cirq</a>
 - description:
   icon: skills/qutip
   icon_pack: custom
-  name: QuTiP
+  name: <a href="https://qutip.org/">QuTiP</a>
 - description:
   icon: skills/tfq
   icon_pack: custom
-  name: TensorFlow Quantum
+  name: <a href="https://www.tensorflow.org/quantum">TensorFlow Quantum</a>
 - description:
   icon: skills/tensorflow
   icon_pack: custom
-  name: TensorFlow
+  name: <a href="https://www.tensorflow.org/">TensorFlow</a>
 - description:
   icon: skills/keras
   icon_pack: custom
-  name: Keras
+  name: <a href="https://keras.io/">Keras</a>
 - description:
   icon: skills/pytorch
   icon_pack: custom
-  name: PyTorch
+  name: <a href="https://pytorch.org/">PyTorch</a>
 - description:
   icon: skills/scikitlearn
   icon_pack: custom
-  name: scikitlearn
+  name: <a href="https://scikit-learn.org/stable/">scikit-learn</a>
 - description:
   icon: skills/opencv
   icon_pack: custom
-  name: OpenCV
+  name: <a href="https://opencv.org/">OpenCV</a>
 - description:
   icon: skills/python
   icon_pack: custom
-  name: Python
+  name: <a href="https://www.python.org/">Python</a>
 - description:
   icon: skills/cplusplus
   icon_pack: custom
-  name: C++
+  name: <a href="https://isocpp.org/">C++</a>
 #- description:
 #  icon: skills/c
 #  icon_pack: custom
-#  name: C
+#  name: C <a href=""></a>
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
