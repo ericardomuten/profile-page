@@ -23,9 +23,9 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Research Assistant
-    company: Indonesian National Research and Innovation Agency
-    company_url: 'https://www.brin.go.id/'
-    company_logo: brin-logo
+    company: Indonesian National Research and Innovation Agency<br>Research Center for Quantum Physics
+    company_url: 'https://quantumresearch.id/'
+    company_logo: brin-qlogo
     location: Remote
     date_start: '2021-10-01'
     date_end: '2022-07-01'
@@ -60,7 +60,8 @@ experience:
     
   - title: Undergraduate Thesis Student
     company: Quantum Technology Lab, Bandung Institute of Technology
-    company_url: 'https://translate.google.com/translate?sl=auto&tl=en&u=http%3A%2F%2Fqlab.itb.ac.id%2F'
+    company_url: '#'
+#'https://translate.google.com/translate?sl=auto&tl=en&u=http%3A%2F%2Fqlab.itb.ac.id%2F'
     company_logo: itb-logo
     location: Bandung, Indonesia
     date_start: '2020-08-01'
