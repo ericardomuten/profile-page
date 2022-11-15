@@ -60,7 +60,7 @@ organizations:
   - name: Qiskit Advocate
     url: https://qiskit.org/advocates/
   - name: ITB Quantum Technology Lab
-    url:
+    url: #
 #http://qlab.itb.ac.id/
 education:
   courses:
