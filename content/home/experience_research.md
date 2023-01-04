@@ -102,7 +102,7 @@ experience:
     location: Tokyo, Japan
     date_start: '2018-10-01'
     date_end: '2018-12-01'
-    description: Supervisor&#58 [Prof. Gentiane Venture](https://scholar.google.com/citations?hl=en&user=RAOhaYYAAAAJ&view_op=list_works&sortby=pubdate)<br>Did [research](https://eraraya-ricardo.me/project/learning-human-touch-interaction-with-convolutional-neural-networks/) in using Convolutional Neural Networks to classify types of touch interaction (poke, scratch, etc.) from humans by learning the data pattern from a force sensor (ShokacChip TS). Trained the model using Keras and TensorFlow. The model reached 88% real-time accuracy. Coded a robotic arm's servos using inverse kinematics in MATLAB to make it moves according to the type of touch being predicted by the network as a response.
+    description: Supervisor&#58 [Prof. Gentiane Venture](https://scholar.google.com/citations?hl=en&user=RAOhaYYAAAAJ&view_op=list_works&sortby=pubdate)<br>Did [research](https://ericardomuten.com/project/learning-human-touch-interaction-with-convolutional-neural-networks/) in using Convolutional Neural Networks to classify types of touch interaction (poke, scratch, etc.) from humans by learning the data pattern from a force sensor (ShokacChip TS). Trained the model using Keras and TensorFlow. The model reached 88% real-time accuracy. Coded a robotic arm's servos using inverse kinematics in MATLAB to make it moves according to the type of touch being predicted by the network as a response.
 
 design:
   columns: '2'
