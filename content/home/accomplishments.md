@@ -55,7 +55,7 @@ The repository of the project can be accessed [here](https://github.com/XanaduAI
   organization_url: https://www.ibm.com/quantum-computing/
   title: Qiskit Localization Contributor - Gold Level Translator
   url: ""
-- certificate_url: "https://www.credly.com/badges/63c7e088-b3ed-4147-bb80-997c372823e6?source=linked_in_profile"
+- certificate_url: "https://www.credly.com/badges/63c7e088-b3ed-4147-bb80-997c372823e6/public_url"
   date_end: ""
   date_start: "2020-09-01"
   description: "• Made more than three open-source contributions with Qiskit.<br>• Passed the Qiskit Advocate test and interview."
