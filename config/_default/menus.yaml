@@ -36,7 +36,7 @@ main:
     url: '#accomplishments'
     weight: 51
     parent: 'accomplishments'
-  - name: Summer Schools, Courses, Certifications
+  - name: Certifications, Courses, Summer Schools
     url: 'certificates/'
     weight: 52
     parent: 'accomplishments'
