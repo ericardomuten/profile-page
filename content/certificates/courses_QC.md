@@ -17,6 +17,14 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with `|2-`.
 item:
+   - organization: IBM Quantum
+    organization_url: 'https://www.ibm.com/quantum-computing/'
+    title: IBM Certified Associate Developer - Quantum Computation using Qiskit v0.2X
+    url: 'https://www.ibm.com/training/certification/C0010300'
+    certificate_url: 'https://www.credly.com/badges/43290778-f9d7-4827-a82a-b95cec99adcd/public_url'
+    date_start: '2022-11-28'
+    date_end: ''
+    description: '' 
   - organization: edX
     organization_url: 'https://www.edx.org'
     title: Introduction to Quantum Computing for Everyone 2
