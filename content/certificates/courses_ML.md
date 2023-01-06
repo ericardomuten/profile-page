@@ -4,7 +4,7 @@ headless: true  # This file represents a page section.
 weight: 22
 
 # ... Put Your Section Options Here (title etc.) ...
-title: Courses
+title: Certifications & Courses
 subtitle: Machine Learning & Deep Learning
 
 # Date format
