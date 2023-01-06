@@ -1,7 +1,7 @@
 ---
 widget: accomplishments
 headless: true  # This file represents a page section.
-weight: 10
+weight: 30
 
 # ... Put Your Section Options Here (title etc.) ...
 title: Summer Schools
