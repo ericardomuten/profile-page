@@ -1,5 +1,5 @@
 ---
-abstract: Tutorial contents&58<br>1. Building a Basic Quantum Circuit
+abstract: Tutorial contents&#58<br>1. Building a Basic Quantum Circuit
 draft: false
 summary: Giving an introductory tutorial on using Qiskit.
 title: Introduction to Qiskit Workshop
