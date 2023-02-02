@@ -21,15 +21,12 @@ abstract: Tutorial contents&#58
           </ul>
         <li>Sampling the Circuit (Simulator & Real Hardware)</li>
           <ul>
-          <li></li>
+          <li>QASM Simulator</li>
+          <li>Executing a job</li>
+          <li>Visualizing the measurement result</li>
+          <li>Qiskit's notation convention</li>
+          <li>Sending jobs to IBM QPUs & job monitoring</li>
           </ul>
-        
-    QASM Simulator
-    Executing a job
-    Visualizing the measurement result
-    Qiskit's notation convention
-    Sending jobs to IBM QPUs & job monitoring
-
      </ol> 
 
 draft: false
