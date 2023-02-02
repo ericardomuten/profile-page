@@ -22,6 +22,14 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Working Student
+    company: Walther-Meißner-Institut (WMI)
+    company_url: 'https://www.wmi.badw.de/home'
+    company_logo: wmi_square
+    location: Munich, Germany
+    date_start: '2023-02-01'
+    date_end: ''
+    description:
   - title: Research Assistant
     company: Indonesian National Research and Innovation Agency<br>Research Center for Quantum Physics
     company_url: 'https://quantumresearch.id/'
