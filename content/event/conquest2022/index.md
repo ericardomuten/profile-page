@@ -1,12 +1,12 @@
 ---
-abstract: Tutorial contents&#58 |2-
+abstract: Tutorial contents&#58
 
-    1. Building a Basic Quantum Circuit
-        * Adding qubits
-        * Adding classical bits
-        * Adding basic quantum gates
-        * Adding measurement
-        * Visualizing the circuit
+    1. Building a Basic Quantum Circuit<br>
+        * Adding qubits<br>
+        * Adding classical bits<br>
+        * Adding basic quantum gates<br>
+        * Adding measurement<br>
+        * Visualizing the circuit<br>
     2. Creating & Evolving the Quantum States
 
 draft: false
