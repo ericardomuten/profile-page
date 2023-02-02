@@ -1,12 +1,12 @@
 ---
-abstract: Tutorial contents&#58<br>1. Building a Basic Quantum Circuit<br>|5-
+abstract: Tutorial contents&#58<br>1. Building a Basic Quantum Circuit<br>
 
     * Adding qubits
-    Adding classical bits
-    Adding basic quantum gates
-    Adding measurement
-    Visualizing the circuit
-
+    * Adding classical bits
+    * Adding basic quantum gates
+    * Adding measurement
+    * Visualizing the circuit
+2. Creating & Evolving the Quantum States
 draft: false
 summary: Giving an introductory tutorial on using Qiskit.
 title: Introduction to Qiskit Workshop
