@@ -4,8 +4,8 @@ draft: false
 summary: Giving an introductory tutorial on using Qiskit.
 title: Introduction to Qiskit Workshop
 location: Virtual
-date: 2022-11-24T14:00:00+07:00
-date_end: 2022-11-24T15:30:00+07:00
+date: 2022-11-24T14:00:00+07
+date_end: 2022-11-24T15:30:00+07
 all_day: false
 links:
   - url: https://conference.brin.go.id/conquest2022/
