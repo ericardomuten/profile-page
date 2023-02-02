@@ -30,7 +30,7 @@ abstract: Tutorial contents&#58
      </ol> 
 
 draft: false
-summary: Giving an introductory tutorial on using Qiskit.
+summary: Giving an introductory tutorial on using Qiskit at the International Conference on Quantum Sciences and Technology (ConQuest 2022).
 title: Introduction to Qiskit Workshop
 location: Virtual
 date: 2022-11-24T14:00:00+07:00
