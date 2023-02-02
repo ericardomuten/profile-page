@@ -1,23 +1,17 @@
 ---
 abstract: Tutorial contents&#58
 
-    1. Building a Basic Quantum Circuit<br>
-        * Adding qubits<br>
-        * Adding classical bits<br>
-        * Adding basic quantum gates<br>
-        * Adding measurement<br>
-        * Visualizing the circuit<br>
-    2. Creating & Evolving the Quantum States<br>
-    
      <ol>
-        <li>1. A<br>
+        <li>Building a Basic Quantum Circuit
           <ul>
-          <li>Coffee</li>
-          <li>Tea</li>
-          <li>Milk</li>
+          <li>Adding qubits</li>
+          <li>Adding classical bits</li>
+          <li>Adding basic quantum gates</li>
+          <li>Adding measurement</li>
+          <li>Visualizing the circuit</li>
           </ul> 
         </li>
-        <li>Tea</li>
+        <li>Creating & Evolving the Quantum States</li>
         <li>Milk</li>
      </ol> 
 
