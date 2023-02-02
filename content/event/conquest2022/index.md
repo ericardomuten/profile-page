@@ -12,7 +12,24 @@ abstract: Tutorial contents&#58
           </ul> 
         </li>
         <li>Creating & Evolving the Quantum States</li>
-        <li>Milk</li>
+          <ul>
+          <li>Defining a statevector</li>
+          <li>Evolving the statevector</li>
+          <li>State fidelity</li>
+          <li>Visualizing the statevector</li>
+          <li>Using the statevector simulator</li>
+          </ul>
+        <li>Sampling the Circuit (Simulator & Real Hardware)</li>
+          <ul>
+          <li></li>
+          </ul>
+        
+    QASM Simulator
+    Executing a job
+    Visualizing the measurement result
+    Qiskit's notation convention
+    Sending jobs to IBM QPUs & job monitoring
+
      </ol> 
 
 draft: false
