@@ -60,7 +60,7 @@ experience:
   - title: Qiskit Advocate Mentorship Program
     company: IBM Quantum
     company_url: 'https://www.ibm.com/quantum-computing/'
-    company_logo: ibm_quantum_black
+    company_logo: ibm_quantum
     location: Remote
     date_start: '2021-03-01'
     date_end: '2021-06-01'
