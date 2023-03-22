@@ -63,17 +63,17 @@ feature:
   icon_pack: custom
   name: <a href="https://opencv.org/" target="_blank">OpenCV</a>
 - description:
-  icon: skills/python
+  icon: skills/plotly
   icon_pack: custom
   name: <a href="https://plotly.com/" target="_blank">Plotly Dash</a>
 - description:
-  icon: skills/plotly
+  icon: skills/python
   icon_pack: custom
   name: <a href="https://www.python.org/" target="_blank">Python</a>
-- description:
-  icon: skills/cplusplus
-  icon_pack: custom
-  name: <a href="https://isocpp.org/" target="_blank">C++</a>
+#- description:
+#  icon: skills/cplusplus
+#  icon_pack: custom
+#  name: <a href="https://isocpp.org/" target="_blank">C++</a>
 #- description:
 #  icon: skills/c
 #  icon_pack: custom
