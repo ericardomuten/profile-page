@@ -65,6 +65,10 @@ feature:
 - description:
   icon: skills/python
   icon_pack: custom
+  name: <a href="https://plotly.com/" target="_blank">Plotly Dash</a>
+- description:
+  icon: skills/plotly
+  icon_pack: custom
   name: <a href="https://www.python.org/" target="_blank">Python</a>
 - description:
   icon: skills/cplusplus
