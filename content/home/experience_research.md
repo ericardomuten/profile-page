@@ -37,7 +37,7 @@ experience:
     location: Munich, Germany
     date_start: '2023-02-01'
     date_end: ''
-    description: Developing internal WMI software suites for control of quantum computing hardware and analysis of experimental data.
+    description: Developing internal WMI software suites for control of quantum computing hardware and analysis of experimental data with Plotly Dash.
   - title: Research Assistant
     company: Indonesian National Research and Innovation Agency<br>Research Center for Quantum Physics
     company_url: 'https://quantumresearch.id/'
