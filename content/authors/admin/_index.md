@@ -1,6 +1,6 @@
 ---
 role: <img align="center" width="5310" height="516"
-  src="https://raw.githubusercontent.com/eraraya-ricardo/profile-page/master/assets/media/qp_mle_img.png">
+  src="https://raw.githubusercontent.com/ericardomuten/profile-page/master/assets/media/qp_mle_img.png">
   <br>
 avatar_filename: avatar.png
 bio: quantum and classical optimization & machine learning enthusiast
