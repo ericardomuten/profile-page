@@ -77,8 +77,10 @@ title: Eraraya Ricardo Muten
 email: ""
 ---
 
-I'm currently studying master's in Quantum Science & Technology at [TUM](https://www.tum.de/). This summer I'm joining IBM Quantum as quantum software developer intern.
-Previously, I had worked on several projects with CERN, ML4Sci (Google Summer of Code), WMI, Indonesian National Research and Innovation Agency.
+I'm currently studying master's in Quantum Science & Technology at [TUM](https://www.tum.de/). This summer I'm joining IBM Quantum as quantum software developer intern.<br>
+
+I've been to quite some places, I've worked in Japan (Tokyo & Yokohama), Indonesia (Bandung & Jakarta), Germany (Munich), and Okinawa Japan & Switzerland (Geneva) if not for COVID :(
+Now I'm adding USA to the list :)
 
 <!--
 He is the first Qiskit Advocate from his country and leads the Indonesian Qiskit Docs translation team.
