@@ -1,9 +1,6 @@
 ---
-date: 2020-08-14T22:08:25.279Z
-summary: Tulisan ini bertujuan untuk memberikan pemahaman dasar tentang komputer
-  dan komputasi kuantum, membahas beberapa *buzzword* seperti superposisi dan
-  *entanglement*, mitos, dan tutorial singkat simulasi komputasi kuantum
-  menggunakan Python dengan *framework* Qiskit.
+date: 2023-05-09T22:08:25.279Z
+summary: Test.
 draft: false
 featured: false
 # external_link: https://medium.com/@erarayaricardo.m/sekilas-tentang-komputasi-kuantum-16a33cd4f86b
