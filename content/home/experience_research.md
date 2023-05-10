@@ -72,7 +72,7 @@ experience:
     location: April 2023 – Jul 2023 ∙ Remote
     date_start: '2021-03-01'
     date_end: '2021-06-01'
-    description: Supervisor&#58 &#9312;[Dr. Anna Phan](https://researcher.watson.ibm.com/researcher/view.php?person=au1-anna.phan) (2021), &#9313;[Atsushi Matsuo](https://researcher.watson.ibm.com/researcher/view.php?person=jp-MATSUOA) (2023)<br>&#9312; Studied the Quantum Graph Recurrent Neural Networks for finding the Hamiltonian parameters of transverse-field Ising model (QGRNN, Verdon, et al.) and translated the algorithm to Qiskit code. Presented a code demo at the Qiskit Advocate Monthly Meetup.<br>&#9313; Developing Qiskit's Circuit Library Python module for data re-uploading classifier (Pérez-Salinas, et al.) and Notebook tutorial on how to train the circuit as a quantum machine learning model for the Qiskit Textbook.
+    description: Supervisor&#58 &#9312;[Dr. Anna Phan](https://researcher.watson.ibm.com/researcher/view.php?person=au1-anna.phan) (Spring 2021), &#9313;[Atsushi Matsuo](https://researcher.watson.ibm.com/researcher/view.php?person=jp-MATSUOA) (Spring 2023)<br>&#9312; Studied the Quantum Graph Recurrent Neural Networks for finding the Hamiltonian parameters of transverse-field Ising model (QGRNN, Verdon, et al.) and translated the algorithm to Qiskit code. Presented a code demo at the Qiskit Advocate Monthly Meetup.<br>&#9313; Developing Qiskit's Circuit Library Python module for data re-uploading classifier (Pérez-Salinas, et al.) and Notebook tutorial on how to train the circuit as a quantum machine learning model for the Qiskit Textbook.
     
   - title: Undergraduate Thesis Student
     company: Quantum Technology Lab, Bandung Institute of Technology
