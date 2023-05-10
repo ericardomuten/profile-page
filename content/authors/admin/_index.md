@@ -63,7 +63,7 @@ organizations:
 education:
   courses:
     - course: M.Sc. in Quantum Science & Technology
-      institution: [Technical University of Munich](https://www.tum.de/)
+      institution: Technical University of Munich
       year: Present
     - course: B.S. in Engineering Physics (First Class Honours)
       institution: Bandung Institute of Technology
