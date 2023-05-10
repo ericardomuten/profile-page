@@ -74,8 +74,6 @@ experience:
     date_end: '2021-06-01'
     description: Supervisor&#58 [Dr. Anna Phan](https://researcher.watson.ibm.com/researcher/view.php?person=au1-anna.phan)<br>① Studied the Quantum Graph Recurrent Neural Networks for finding the Hamiltonian parameters of transverse-field Ising model
 (QGRNN, Verdon, et al.) and translated the algorithm to Qiskit code. Presented a code demo at the Qiskit Advocate Monthly Meetup.<br>② Developing Qiskit's Circuit Library Python module for data re-uploading classifier (Pérez-Salinas, et al.) and Notebook tutorial on how to train the circuit as a quantum machine learning model for the Qiskit Textbook.
-
-#Studied the quantum machine learning model of Data Re-uploading Quantum Classifier (Pérez-Salinas, A. et al.) and Quantum Graph Neural Networks (Verdon, G. et al.). Made code implementation of those models using Qiskit. Ran simulations to find the unknown Hamiltonian parameters of simple transverse-field Ising models with Quantum Graph Neural Networks.
     
   - title: Undergraduate Thesis Student
     company: Quantum Technology Lab, Bandung Institute of Technology
@@ -128,3 +126,4 @@ design:
 ---
 
 <!--gsoc-ml4sci-logo-transparent-compressed-->
+<!-- Studied the quantum machine learning model of Data Re-uploading Quantum Classifier (Pérez-Salinas, A. et al.) and Quantum Graph Neural Networks (Verdon, G. et al.). Made code implementation of those models using Qiskit. Ran simulations to find the unknown Hamiltonian parameters of simple transverse-field Ising models with Quantum Graph Neural Networks. -->
