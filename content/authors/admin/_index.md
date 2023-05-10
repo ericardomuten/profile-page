@@ -63,7 +63,7 @@ organizations:
 education:
   courses:
     - course: M.Sc. in Quantum Science & Technology
-      institution: <a href="https://www.tum.de/">Technical University of Munich</a>
+      institution: Technical University of Munich
       year: Present
     - course: B.S. in Engineering Physics (First Class Honours)
       institution: Bandung Institute of Technology
@@ -76,12 +76,16 @@ highlight_name: false
 title: Eraraya Ricardo Muten
 email: ""
 ---
-Eraraya Ricardo Muten (Edo) is a master's student in Quantum Science & Technology at Technical University of Munich. He has worked on several quantum machine learning related projects with CERN, ML4Sci (Google Summer of Code), Indonesian National Research and Innovation Agency, and including his bachelor's thesis.
+
+I'm currently studying master's in Quantum Science & Technology at [TUM](https://www.tum.de/). This summer I'm joining IBM Quantum as quantum software developer intern.
+Previously, I had worked on several projects with CERN, ML4Sci (Google Summer of Code), WMI, Indonesian National Research and Innovation Agency.
 
 <!--
 He is the first Qiskit Advocate from his country and leads the Indonesian Qiskit Docs translation team.
--->
+Edo is a master's student in Quantum Science & Technology at Technical University of Munich.
+He has worked on several quantum machine learning related projects with CERN, ML4Sci (Google Summer of Code), Indonesian National Research and Innovation Agency, and including his bachelor's thesis.
 Besides quantum, he is also a machine/deep learning enthusiast, with side hobbies in computational photography and image processing. He has done several deep learning research projects both in his country and in Japan.
+-->
 
 
 <!--
