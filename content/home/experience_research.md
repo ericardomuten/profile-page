@@ -70,7 +70,7 @@ experience:
     company_url: 'https://www.ibm.com/quantum-computing/'
     company_logo: ibm_quantum
     location: Remote
-    date_start: '2021-03-01'
+    date_start: '2021-03-01 - 2021-06-01'
     date_end: '2021-06-01'
     description: Supervisor&#58 [Dr. Anna Phan](https://researcher.watson.ibm.com/researcher/view.php?person=au1-anna.phan)<br>Studied the quantum machine learning model of Data Re-uploading Quantum Classifier (Pérez-Salinas, A. et al.) and Quantum Graph Neural Networks (Verdon, G. et al.). Made code implementation of those models using Qiskit. Ran simulations to find the unknown Hamiltonian parameters of simple transverse-field Ising models with Quantum Graph Neural Networks.
     
