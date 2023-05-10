@@ -59,7 +59,7 @@ experience:
   - title: Student Developer
     company: Google Summer of Code 2021, Machine Learning for Science (ML4Sci)
     company_url: 'https://ml4sci.org/'
-    company_logo: gsoc-ml4sci-logo-transparent-compressed
+    company_logo: GSoC-icon <!--gsoc-ml4sci-logo-transparent-compressed-->
     location: Remote
     date_start: '2021-05-17'
     date_end: '2021-08-01'
