@@ -3,12 +3,10 @@ role: <img align="center" width="5310" height="516"
   src="https://raw.githubusercontent.com/eraraya-ricardo/profile-page/master/assets/media/qp_mle_img.png">
   <br>
 avatar_filename: avatar.png
-bio: quantum and classical ML/NN enthusiast
+bio: quantum and classical optimization & machine learning enthusiast
 interests:
-  - Quantum Machine Learning
-  - Quantum Optimization
-  - Quantum Simulation
-  - Classical Machine/Deep Learning
+  - Quantum Machine Learning, Quantum Optimization, Quantum Simulation
+  - Classical Optimization, Machine Learning, Deep Learning
 social:
   - display:
       header: false
@@ -65,7 +63,7 @@ organizations:
 education:
   courses:
     - course: M.Sc. in Quantum Science & Technology
-      institution: Technical University of Munich
+      institution: [Technical University of Munich](https://www.tum.de/)
       year: Present
     - course: B.S. in Engineering Physics (First Class Honours)
       institution: Bandung Institute of Technology
