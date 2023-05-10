@@ -1,7 +1,7 @@
 ---
 date: 2023-05-09T22:08:25.279Z
 summary: Test.
-draft: false
+draft: true
 featured: false
 # external_link: https://medium.com/@erarayaricardo.m/sekilas-tentang-komputasi-kuantum-16a33cd4f86b
 title: FAQs Kuliah S2 di Jerman
@@ -24,4 +24,4 @@ categories:
 #    name: Originally published on Medium
 ---
 
-Silahkan lanjutkan membaca di [Medium](https://medium.com/@erarayaricardo.m/sekilas-tentang-komputasi-kuantum-16a33cd4f86b).
+Test.
