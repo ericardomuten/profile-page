@@ -77,9 +77,9 @@ title: Eraraya Ricardo Muten
 email: ""
 ---
 
-I'm currently studying master's in Quantum Science & Technology at [TUM](https://www.tum.de/). This summer I'm joining IBM Quantum as quantum software developer intern.<br>
+I'm currently studying master's in Quantum Science & Technology at TUM. This summer I'm joining IBM Quantum US as quantum software developer intern.<br>
 
-I've been to quite some places, I've worked in Japan (Tokyo & Yokohama), Indonesia (Bandung & Jakarta), Germany (Munich), and Okinawa Japan & Switzerland (Geneva) if not for COVID :(
+I've been to quite some places, mostly for academic, research & software dev work. I've been working in Japan (Tokyo & Yokohama), Indonesia (Bandung & Jakarta), Germany (Munich), and Okinawa Japan & Switzerland (Geneva) if not for COVID :(<br>
 Now I'm adding USA to the list :)
 
 <!--
