@@ -22,15 +22,15 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Course Developer
-    company: Widya Institute of Technology
-    company_url: 'https://www.widya.institute/'
-    company_logo: wit
-    location: Remote
-    date_start: '2022-03-01'
-    date_end: '2022-10-31'
-    description: |2-
-        Creating an online course with hands-on coding modules using Qiskit on Intro to Quantum Computing.
+#  - title: Course Developer
+#    company: Widya Institute of Technology
+#    company_url: 'https://www.widya.institute/'
+#    company_logo: wit
+#    location: Remote
+#    date_start: '2022-03-01'
+#    date_end: '2022-10-31'
+#    description: |2-
+#        Creating an online course with hands-on coding modules using Qiskit on Intro to Quantum Computing.
   - title: Physics Tutor
     company: TamanSiswa
     company_url: 'https://taman-siswa.com/class/?code=taman-mahasiswa'
