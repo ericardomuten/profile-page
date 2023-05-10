@@ -29,7 +29,7 @@ experience:
 #    location: New York, USA
 #    date_start: '2023-05-21'
 #    date_end: ''
-#    description: Supervisor&#58 [Dr. Victoria Lipinska](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjv_72wzen-AhUtgP0HHa6OA_oQFnoECAsQAQ&url=https%3A%2F%2Fnl.linkedin.com%2Fin%2Fvictoria-lipinska&usg=AOvVaw2F7zLX2i8ccInm9DzZVNmW)<br>
+#    description: Supervisor&#58 [Dr. Victoria Lipinska](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjv_72wzen-AhUtgP0HHa6OA_oQFnoECAsQAQ&url=https%3A%2F%2Fnl.linkedin.com%2Fin%2Fvictoria-lipinska&usg=AOvVaw2F7zLX2i8ccInm9DzZVNmW)<br>Developing & deploying modules to quantum computing enablement pathways, with focus on healthcare in partnership with [Cleveland Clinic](https://my.clevelandclinic.org/).
   - title: Working Student
     company: Walther-Meißner-Institut (WMI)
     company_url: 'https://www.wmi.badw.de/home'
@@ -37,7 +37,7 @@ experience:
     location: Munich, Germany
     date_start: '2023-02-01'
     date_end: ''
-    description: Developing internal WMI software suites for control of quantum computing hardware and analysis of experimental data with Plotly Dash. Supervisor&#58 [Prof. Stefan Filipp](https://www.wmi.badw.de/the-institute/team/stefan-filipp), [Dr. Gleb Krylov](https://www.wmi.badw.de/the-institute/team/gleb-krylov), & [Malay Singh](https://www.wmi.badw.de/the-institute/team/malay-singh).
+    description: Supervisor&#58 [Prof. Stefan Filipp](https://www.wmi.badw.de/the-institute/team/stefan-filipp), [Dr. Gleb Krylov](https://www.wmi.badw.de/the-institute/team/gleb-krylov), & [Malay Singh](https://www.wmi.badw.de/the-institute/team/malay-singh)<br>Developing internal WMI software suites for control of quantum computing hardware and analysis of experimental data with Plotly Dash.
   - title: Research Assistant
     company: Indonesian National Research and Innovation Agency<br>Research Center for Quantum Physics
     company_url: 'https://quantumresearch.id/'
