@@ -22,14 +22,6 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Quantum Optimization Research Intern
-    company: Infineon Technologies
-    company_url: ''
-    company_logo: infineon
-    location: Munich, Germany
-    date_start: '2024-03-01'
-    date_end: ''
-    description: Supervisor&#58 [Hans Ehm](https://scholar.google.de/citations?user=i7bdrB4AAAAJ&hl=de) & [Lilly Palackal](https://www.cs.cit.tum.de/en/sccs/people/lilly-palackal/)<br>.
   - title: Quantum Software Developer Summer Intern
     company: IBM Quantum
     company_url: 'https://www.ibm.com/quantum-computing/'
