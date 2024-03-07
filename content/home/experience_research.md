@@ -10,7 +10,7 @@ headless: true
 weight: 10
 
 title: Experience
-subtitle: Research & Working
+subtitle: Research & Software Development
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -28,16 +28,16 @@ experience:
     company_logo: ibm_quantum
     location: New York, USA
     date_start: '2023-05-21'
-    date_end: '2023-08-11'
-    description: Supervisor&#58 [Dr. Victoria Lipinska](https://www.linkedin.com/in/victoria-lipinska/)<br>Developed & deployed modules for quantum computing enablement pathways, focusing on quantum computing applications in healthcare. A partnership with [Cleveland Clinic](https://my.clevelandclinic.org/).
+    date_end: ''
+    description: Supervisor&#58 [Dr. Victoria Lipinska](https://www.linkedin.com/in/victoria-lipinska/)<br>Developing & deploying modules to quantum computing enablement pathways, with focus on healthcare in partnership with [Cleveland Clinic](https://my.clevelandclinic.org/).
   - title: Working Student
     company: Walther-Meißner-Institut (WMI)
     company_url: 'https://www.wmi.badw.de/home'
     company_logo: wmi_square
     location: Munich, Germany
     date_start: '2023-02-01'
-    date_end: '2023-05-20'
-    description: Supervisor&#58 [Prof. Stefan Filipp](https://www.wmi.badw.de/the-institute/team/stefan-filipp), [Dr. Gleb Krylov](https://www.wmi.badw.de/the-institute/team/gleb-krylov), & [Malay Singh](https://www.wmi.badw.de/the-institute/team/malay-singh)<br>Developed internal WMI software suites for real-time visualizations of quantum computing hardware experimental data with Plotly Dash.
+    date_end: ''
+    description: Supervisor&#58 [Prof. Stefan Filipp](https://www.wmi.badw.de/the-institute/team/stefan-filipp), [Dr. Gleb Krylov](https://www.wmi.badw.de/the-institute/team/gleb-krylov), & [Malay Singh](https://www.wmi.badw.de/the-institute/team/malay-singh)<br>Developing internal WMI software suites for control of quantum computing hardware and analysis of experimental data with Plotly Dash.
   - title: Research Assistant
     company: Indonesian National Research and Innovation Agency<br>Research Center for Quantum Physics
     company_url: 'https://quantumresearch.id/'
