@@ -7,6 +7,7 @@ bio: quantum and classical optimization & machine learning enthusiast
 interests:
   - Quantum Machine Learning, Quantum Optimization, Quantum Simulation
   - Classical Optimization, Machine Learning, Deep Learning
+  - Product Development, Entrepreneurship
 social:
   - display:
       header: false
@@ -77,10 +78,9 @@ title: Eraraya Ricardo Muten
 email: ""
 ---
 
-I'm currently studying master's in Quantum Science & Technology at TUM. This summer I'm joining IBM Quantum US as quantum software developer intern.<br>
+I'm currently writing my master's thesis in quantum optimization as part of my study at TUM while working part-time at Infineon Technologies. This year, I am part of TUM Venture Lab Quantum Fellowship Program, a one-year entrepreneurship education program focusing on quantum applications.<br>
 
-I've been to quite some places, mostly for academic, research & software dev work. I've been working in Japan (Tokyo & Yokohama), Indonesia (Bandung & Jakarta), Germany (Munich), and Okinawa Japan & Switzerland (Geneva) if not for COVID :(<br>
-Now I'm adding USA to the list :)
+I've been to several cities, mostly for academic, research & software dev work. I've previously worked in Japan (Tokyo & Yokohama), Indonesia (Bandung & Jakarta), Germany (Munich), and the US (New York). Meeting new people from different cultural backgrounds has always been a very exciting experience :)<br>
 
 <!--
 He is the first Qiskit Advocate from his country and leads the Indonesian Qiskit Docs translation team.
