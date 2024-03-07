@@ -5,7 +5,8 @@
 {{/* Initialise */}}
 {{ $page := .wcPage }}
 {{ $block := .wcBlock }}
-{{ $columns := $block.Params.design.columns | default "6" }}
+{{ $columns := $block.Params.design.columns}}
+<!-- {{ $columns := $block.Params.design.columns | default "6" }} -->
 
 <div class="row featurette">
   {{ with $block.Title }}
