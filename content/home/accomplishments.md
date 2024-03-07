@@ -24,7 +24,7 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: "https://github.com/ericardomuten/profile-page/blob/v5.9.6/assets/certificates/Deutschlandstipendium%202023-2024%20Certificate.pdf"
+- certificate_url: "https://raw.githubusercontent.com/eraraya-ricardo/profile-page/v5.9.6/assets/certificates/deutschlandstipendium_2023-2024_certificate.pdf"
   date_end: ""
   date_start: "2023-10-01"
   description: "German national scholarship for exceptionally gifted, high-achieving students. Sponsored by Dr. Karl Wamsler Stiftung GmbH and the German Federal Ministry of Education and Research."
@@ -32,7 +32,7 @@ item:
   organization_url: https://www.deutschlandstipendium.de/
   title: TUM Deutschlandstipendium Scholarship Holder
   url: "https://www.deutschlandstipendium.de/deutschlandstipendium/de/services/english/english_node.html"
-- certificate_url: "https://github.com/ericardomuten/profile-page/blob/master/assets/certificates/samras_qhack_2022_720.png"
+- certificate_url: "https://raw.githubusercontent.com/eraraya-ricardo/profile-page/v5.9.6/assets/certificates/samras_qhack_2022_720.png"
   date_end: ""
   date_start: "2022-02-25"
   description: "Our team, Samras, got 1st in the Coding Challenges, solving 25 questions in PennyLane 101, Quantum Algorithms, Quantum Machine Learning, Quantum Chemistry, and Quantum Games twice as fast as the 2nd place.<br>
