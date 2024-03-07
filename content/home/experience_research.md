@@ -29,7 +29,7 @@ experience:
     location: Munich, Germany
     date_start: '2024-03-01'
     date_end: ''
-    description: Supervisor&#58 [Hans Ehm](https://scholar.google.de/citations?user=i7bdrB4AAAAJ&hl=de) & [Lilly Palackal](https://www.cs.cit.tum.de/en/sccs/people/lilly-palackal/)<br>Studying QAOA-inspired quantum optimization algorithms to enhance existing classical algorithms in solving maximum independent set (MIS) and knapsack problem.
+    description: Supervisor: [Hans Ehm](https://scholar.google.de/citations?user=i7bdrB4AAAAJ&hl=de) & [Lilly Palackal](https://www.cs.cit.tum.de/en/sccs/people/lilly-palackal/)<br>Studying QAOA-inspired quantum optimization algorithms to enhance existing classical algorithms in solving maximum independent set (MIS) and knapsack problem.
     
   - title: Quantum Software Developer Summer Intern
     company: IBM Quantum
