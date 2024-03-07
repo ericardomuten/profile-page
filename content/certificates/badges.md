@@ -27,17 +27,17 @@ feature:
   icon_pack: custom
   name: <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="43290778-f9d7-4827-a82a-b95cec99adcd" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 - description:
-  icon: skills/qiskit
+  icon: 
   icon_pack: custom
-  name: <a href="https://qiskit.org/" target="_blank">Qiskit</a>
+  name: <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="63c7e088-b3ed-4147-bb80-997c372823e6" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 - description:
-  icon: skills/cirq
+  icon: 
   icon_pack: custom
-  name: <a href="https://quantumai.google/cirq" target="_blank">Cirq</a>
+  name: <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e0ecc37a-1ea5-498f-9435-f86b21a9650e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 - description:
-  icon: skills/qutip
+  icon: 
   icon_pack: custom
-  name: <a href="https://qutip.org/" target="_blank">QuTiP</a>
+  name: <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9ca3a285-e80c-410d-a971-8e708c348bce" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 - description:
   icon: skills/tfq
   icon_pack: custom
