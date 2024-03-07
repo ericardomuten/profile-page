@@ -24,7 +24,7 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: ""
+- certificate_url: "https://github.com/ericardomuten/profile-page/blob/v5.9.6/assets/certificates/Deutschlandstipendium%202023-2024%20Certificate.pdf"
   date_end: ""
   date_start: "2023-10-01"
   description: "German national scholarship for exceptionally gifted, high-achieving students. Sponsored by Dr. Karl Wamsler Stiftung GmbH and the German Federal Ministry of Education and Research."
