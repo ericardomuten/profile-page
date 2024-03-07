@@ -38,7 +38,7 @@ experience:
     location: Munich, Germany
     date_start: '2024-01-01'
     date_end: ''
-    description: A one-year entrepreneurship education program focusing on quantum applications. Participating in technological & entrepreneurial workshops, founders associate internship, and product ideation & building.
+    description: A one-year entrepreneurship education program focusing on quantum applications. Participating in technological & entrepreneurial workshops, founders associate internship, and product ideation & building. Selected as one of the 10 students in the first cohort out of 600+ applicants.
     
   - title: Quantum Software Developer Summer Intern
     company: IBM Quantum
