@@ -23,7 +23,7 @@ subtitle: Quantum Computing
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description:
-  icon: skills/pennylane
+  icon: <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="43290778-f9d7-4827-a82a-b95cec99adcd" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
   icon_pack: custom
   name: <a href="https://pennylane.ai/" target="_blank">PennyLane</a>
 - description:
