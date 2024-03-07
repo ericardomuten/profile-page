@@ -24,12 +24,21 @@ date_format: Jan 2006
 experience:
   - title: Quantum Optimization Research Intern
     company: Infineon Technologies
-    company_url: ''
+    company_url: 'https://www.infineon.com/'
     company_logo: infineon
     location: Munich, Germany
     date_start: '2024-03-01'
     date_end: ''
     description: Supervisor&#58; [Hans Ehm](https://scholar.google.de/citations?user=i7bdrB4AAAAJ&hl=de) & [Lilly Palackal](https://www.cs.cit.tum.de/en/sccs/people/lilly-palackal/)<br>Studying QAOA-inspired quantum optimization algorithms to enhance existing classical algorithms in solving maximum independent set (MIS) and knapsack problem.
+
+  - title: Fellow
+    company: TUM Venture Lab Quantum
+    company_url: 'https://www.tum-venture-labs.de/labs/quantum/'
+    company_logo: tum_vlq
+    location: Munich, Germany
+    date_start: '2024-01-01'
+    date_end: ''
+    description: A one-year entrepreneurship education program focusing on quantum applications. Participating in technological & entrepreneurial workshops, founders associate internship, and product ideation & building.
     
   - title: Quantum Software Developer Summer Intern
     company: IBM Quantum
