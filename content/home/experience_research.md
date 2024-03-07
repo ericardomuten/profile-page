@@ -34,7 +34,7 @@ experience:
   - title: Fellow
     company: TUM Venture Lab Quantum
     company_url: 'https://www.tum-venture-labs.de/labs/quantum/'
-    company_logo: tum_vlq
+    company_logo: tum_venture_labs
     location: Munich, Germany
     date_start: '2024-01-01'
     date_end: ''
