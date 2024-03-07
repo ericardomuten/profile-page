@@ -44,12 +44,9 @@ Jika anda membaca ini, artinya anda baru saja menemukan suatu barang milik saya.
 
 <!--
 Name / Nama                 &#58 Eraraya Ricardo Muten<br>
-Address / Alamat            &#58 Perumahan Gema Pesona Depok blok X no. 20<br>
 City / Kota                 &#58 Depok<br>
 Province / Provinsi         &#58 Jawa Barat<br>
 Country / Negara            &#58 Indonesia<br>
-Phone Number / Nomor Telpon &#58 +62-812-1224-2740<br>
-Email / Surel               &#58 eraraya.ricardo19@gmail.com
 
 QR Generator: https://www.websiteplanet.com/webtools/free-qr-code-generator/
 -->
