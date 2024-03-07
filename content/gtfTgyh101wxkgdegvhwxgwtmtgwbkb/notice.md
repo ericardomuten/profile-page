@@ -44,8 +44,6 @@ Jika anda membaca ini, artinya anda baru saja menemukan suatu barang milik saya.
 
 <!--
 Name / Nama                 &#58 Eraraya Ricardo Muten<br>
-City / Kota                 &#58 Depok<br>
-Province / Provinsi         &#58 Jawa Barat<br>
 Country / Negara            &#58 Indonesia<br>
 
 QR Generator: https://www.websiteplanet.com/webtools/free-qr-code-generator/
