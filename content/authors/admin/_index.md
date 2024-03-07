@@ -7,6 +7,7 @@ bio: quantum and classical optimization & machine learning enthusiast
 interests:
   - Quantum Machine Learning, Quantum Optimization, Quantum Simulation
   - Classical Optimization, Machine Learning, Deep Learning
+  - Product Development, Entrepreneurship
 social:
   - display:
       header: false
