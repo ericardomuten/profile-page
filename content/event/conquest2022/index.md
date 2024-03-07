@@ -1,5 +1,5 @@
 ---
-abstract: Tutorial contents&#58
+abstract: Tutorial contents&#58;
 
      <ol>
         <li>Building a Basic Quantum Circuit
