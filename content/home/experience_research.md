@@ -32,7 +32,7 @@ experience:
     description: Supervisor&#58; [Hans Ehm](https://scholar.google.de/citations?user=i7bdrB4AAAAJ&hl=de) & [Lilly Palackal](https://www.cs.cit.tum.de/en/sccs/people/lilly-palackal/)<br>Studying QAOA-inspired quantum optimization algorithms to enhance existing classical algorithms in solving maximum independent set (MIS) and knapsack problem. Selected as one of the 10 students in the first cohort out of 600+ applicants.
 
   - title: Venture Lab Quantum Fellowship Program
-    company: TUM Venture Lab
+    company: TUM Venture Labs
     company_url: 'https://www.tum-venture-labs.de/labs/quantum/'
     company_logo: tum_venture_labs
     location: Munich, Germany
