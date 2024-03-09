@@ -47,7 +47,7 @@ experience:
     location: New York, USA
     date_start: '2023-05-21'
     date_end: '2023-08-11'
-    description: Supervisor&#58; [Dr. Victoria Lipinska](https://www.linkedin.com/in/victoria-lipinska/)<br>• Enhanced quantum computing research & education framework for [Cleveland Clinic](https://my.clevelandclinic.org/) (CCF) by making Quantum Repository, a compilation & documentation of IBM-CCF research and code-base.<br>• Developed quantum computing education module for healthcare & life sciences research for CCF.<br>Made quantum computing poster for touchscreen interactive panel as info board on the on-site CCF quantum computer.<br>• Part of the Quantum Intern Advisory Board&#58; Arranged and initiated 10+ events, panel discussions, and talks, for all 2023 interns.
+    description: Supervisor&#58; [Dr. Victoria Lipinska](https://www.linkedin.com/in/victoria-lipinska/)<br>• Enhanced quantum computing research & education framework for [Cleveland Clinic](https://my.clevelandclinic.org/) (CCF) by making Quantum Repository, a compilation & documentation of IBM-CCF research and code-base.<br>• Developed quantum computing education module for healthcare & life sciences research for CCF. Made quantum computing poster for touchscreen interactive panel as info board on the on-site CCF quantum computer.<br>• Part of the Quantum Intern Advisory Board&#58; Arranged and initiated 10+ events, panel discussions, and talks, for all 2023 interns.
 
 # Developed & deployed modules for quantum computing enablement pathways, focusing on quantum computing applications in healthcare. A partnership with [Cleveland Clinic](https://my.clevelandclinic.org/).
     
