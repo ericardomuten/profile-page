@@ -29,7 +29,7 @@ experience:
     location: Munich, Germany
     date_start: '2024-03-01'
     date_end: ''
-    description: Supervisor&#58; [Hans Ehm](https://scholar.google.de/citations?user=i7bdrB4AAAAJ&hl=de) & [Lilly Palackal](https://www.cs.cit.tum.de/en/sccs/people/lilly-palackal/)<br>Studying QAOA-inspired quantum optimization algorithms to enhance existing classical algorithms in solving maximum independent set (MIS) and knapsack problem.
+    description: Supervisor&#58; [Hans Ehm](https://scholar.google.de/citations?user=i7bdrB4AAAAJ&hl=de) & [Lilly Palackal](https://www.cs.cit.tum.de/en/sccs/people/lilly-palackal/)<br>Studying algorithms to enhance QAOA performance, taking advantage of qubit measurement correlation from an optimized QAOA circuit, e.g., the quantum relax-and-round algorithm and variations of recursive QAOA, in solving binary optimization problems.
 
   - title: Venture Lab Quantum Fellowship Program
     company: TUM Venture Labs
