@@ -38,7 +38,7 @@ experience:
     location: Munich, Germany
     date_start: '2024-01-01'
     date_end: '2025-01-01'
-    description: • A one-year entrepreneurship training program focusing on quantum applications. Participating in technological & entrepreneurial workshops, founders associate internship, and product ideation & building. Selected as one of the 10 students in the first cohort.<br>• Presented ideation pitch of Q-Chain&#58; A blockchain back-end provider based on the Proof-of-Randomness consensus algorithm enabled by quantum computers that is more energy efficient and transparent than Proof-of-Work and Proof-of-Stake.
+    description: • A one-year entrepreneurship training program focusing on quantum applications. Participated in technological & entrepreneurial workshops, founders associate internship, and product ideation & building. Selected as one of the 10 students in the first cohort.<br>• Presented ideation pitch of Q-Chain&#58; A blockchain back-end provider based on the Proof-of-Randomness consensus algorithm enabled by quantum computers that is more energy efficient and transparent than Proof-of-Work and Proof-of-Stake.
     
   - title: Quantum Software Developer Summer Intern
     company: IBM Quantum
