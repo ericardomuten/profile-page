@@ -22,7 +22,7 @@ subtitle: Quantum Computing
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: IBM Certified Associate Developer - Quantum Computation using Qiskit v0.2X
+- description: IBM Certified Associate Developer - Quantum Computation using Qiskit v0.2X<br>
   icon: 
   icon_pack: custom
   name: <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="43290778-f9d7-4827-a82a-b95cec99adcd" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
@@ -42,6 +42,10 @@ feature:
   icon: 
   icon_pack: custom
   name: <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="fc1891aa-cd6c-4c59-8e2a-2681a53629ab" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+- description:
+  icon: 
+  icon_pack: custom
+  name: <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="95dc8a62-a7f9-4e58-9565-6e414ec447e7" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 - description:
   icon: 
   icon_pack: custom
