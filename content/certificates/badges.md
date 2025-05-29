@@ -45,6 +45,10 @@ feature:
 - description:
   icon: 
   icon_pack: custom
+  name: <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="cddff2d5-2db4-4bd6-9885-69125e65dc09" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+- description:
+  icon: 
+  icon_pack: custom
   name: <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="95dc8a62-a7f9-4e58-9565-6e414ec447e7" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 - description:
   icon: 
