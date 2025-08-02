@@ -19,3 +19,9 @@
   package = "netlify-plugin-hugo-cache-resources"
   [plugins.inputs]
     debug = true
+
+[[redirects]]
+  from = "/actualbudget"
+  to = "https://primate-mutual-internally.ngrok-free.app"
+  status = 200
+  force = true # COMMENT: ensure that we always redirect
