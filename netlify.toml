@@ -23,5 +23,5 @@
 [[redirects]]
   from = "/actualbudget"
   to = "https://primate-mutual-internally.ngrok-free.app"
-  status = 200
+  status = 301
   force = true # COMMENT: ensure that we always redirect
